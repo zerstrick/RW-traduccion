@@ -1,0 +1,9 @@
+//Se usa para describir mucha violencia "Él estaba cubierto de sangre" 
+vísceras
+tripas
+entrañas
+intestinos
+sangre
+sesos
+huesos
+carne

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cook fine meal -->
+  <CookMealFine.label>cocinar comida buena</CookMealFine.label>
+  <!-- EN: Cook a somewhat complex meal from a combination of meat and plant ingredients. -->
+  <CookMealFine.description>Cocina una comida más o menos compleja combinando ingredientes cárnicos y vegetales.</CookMealFine.description>
+  <!-- EN: Cooking fine meal. -->
+  <CookMealFine.jobString>Cocinando comida buena.</CookMealFine.jobString>
+  
+  <!-- EN: cook fine meal x4 -->
+  <CookMealFineBulk.label>cocinar comida buena x4</CookMealFineBulk.label>
+  <!-- EN: Cook 4 somewhat complex meals from a combination of meat and plant ingredients. -->
+  <CookMealFineBulk.description>Cocina 4 comidas más o menos complejas combinando ingredientes cárnicos y vegetales.</CookMealFineBulk.description>
+  <!-- EN: Cooking 4 fine meals. -->
+  <CookMealFineBulk.jobString>Cocinando 4 comidas fina.</CookMealFineBulk.jobString>
+  
+  <!-- EN: cook lavish meal -->
+  <CookMealLavish.label>cocinar comida lujosa</CookMealLavish.label>
+  <!-- EN: Cook a very complex meal from a combination of meat and plant ingredients. Much of the ingredients are wasted. -->
+  <CookMealLavish.description>Cocina una comida muy elaborada combinando ingredientes cárnicos y vegetales. Gran parte de los ingredientes se desperdician.</CookMealLavish.description>
+  <!-- EN: Cooking lavish meal. -->
+  <CookMealLavish.jobString>Cocinando comida lujosa.</CookMealLavish.jobString>
+  
+  <!-- EN: cook lavish meal x4 -->
+  <CookMealLavishBulk.label>cocinar comida lujosa x4</CookMealLavishBulk.label>
+  <!-- EN: Cook 4 very complex meals from a combination of meat and plant ingredients. Much of the ingredients are wasted. -->
+  <CookMealLavishBulk.description>Cocina 4 comida muy elaborada combinando ingredientes cárnicos y vegetales. Gran parte de los ingredientes se desperdician.</CookMealLavishBulk.description>
+  <!-- EN: Cooking 4 lavish meals. -->
+  <CookMealLavishBulk.jobString>Cocinando 4 comidas lujosa.</CookMealLavishBulk.jobString>
+  
+  <!-- EN: cook simple meal -->
+  <CookMealSimple.label>cocinar comida sencilla</CookMealSimple.label>
+  <!-- EN: Cook a straightforward meal from one ingredient. -->
+  <CookMealSimple.description>Cocina una comida sencilla usando un solo ingrediente.</CookMealSimple.description>
+  <!-- EN: Cooking simple meal. -->
+  <CookMealSimple.jobString>Cocinando comida sencilla.</CookMealSimple.jobString>
+  
+  <!-- EN: cook simple meal x4 -->
+  <CookMealSimpleBulk.label>cocinar comida sencilla x4</CookMealSimpleBulk.label>
+  <!-- EN: Cook 4 straightforward meals from one ingredient. -->
+  <CookMealSimpleBulk.description>Cocina 4 comida sencilla usando un solo ingrediente.</CookMealSimpleBulk.description>
+  <!-- EN: Cooking 4 simple meals. -->
+  <CookMealSimpleBulk.jobString>Cocinando 4 comidas sencillas.</CookMealSimpleBulk.jobString>
+  
+  <!-- EN: cook packaged survival meal -->
+  <CookMealSurvival.label>cocinar comida de supervivencia</CookMealSurvival.label>
+  <!-- EN: Prepare a packaged survival meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
+  <CookMealSurvival.description>Cocina una comida de supervivencia empaquetada a partir de una combinación de carne cruda e ingredientes de plantas crudas. Muchos de los ingredientes se desperdician.</CookMealSurvival.description>
+  <!-- EN: Cooking survival meal. -->
+  <CookMealSurvival.jobString>Cocinando comida de supervivencia.</CookMealSurvival.jobString>
+  
+  <!-- EN: cook packaged survival meal x4 -->
+  <CookMealSurvivalBulk.label>cocinar comida de supervivencia x4</CookMealSurvivalBulk.label>
+  <!-- EN: Prepare 4 packaged survival meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
+  <CookMealSurvivalBulk.description>Cocina 4 comida de supervivencia empaquetada a partir de una combinación de carne cruda e ingredientes de plantas crudas. Muchos de los ingredientes se desperdician.</CookMealSurvivalBulk.description>
+  <!-- EN: Cooking 4 survival meals. -->
+  <CookMealSurvivalBulk.jobString>Cocinando 4 comidas de supervivencia.</CookMealSurvivalBulk.jobString>
+  
+</LanguageData>

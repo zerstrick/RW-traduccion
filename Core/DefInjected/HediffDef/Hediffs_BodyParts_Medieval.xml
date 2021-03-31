@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: denture -->
+  <Denture.label>dentadura postiza</Denture.label>
+  <!-- EN: An installed denture. -->
+  <Denture.description>Una dentadura postiza instalada.</Denture.description>
+  <!-- EN: a denture -->
+  <Denture.labelNoun>una dentadura postiza</Denture.labelNoun>
+  
+  <!-- EN: peg leg -->
+  <PegLeg.label>pata de palo</PegLeg.label>
+  <!-- EN: An installed peg leg. -->
+  <PegLeg.description>Una pata de palo instalada.</PegLeg.description>
+  <!-- EN: a peg leg -->
+  <PegLeg.labelNoun>una pata de palo</PegLeg.labelNoun>
+  
+  <!-- EN: wooden foot -->
+  <WoodenFoot.label>pie de madera</WoodenFoot.label>
+  <!-- EN: An installed wooden foot. -->
+  <WoodenFoot.description>Un pie de madera instalado.</WoodenFoot.description>
+  <!-- EN: a wooden foot -->
+  <WoodenFoot.labelNoun>un pie de madera</WoodenFoot.labelNoun>
+  
+  <!-- EN: wooden hand -->
+  <WoodenHand.label>mano de madera</WoodenHand.label>
+  <!-- EN: An installed wooden hand. -->
+  <WoodenHand.description>Una mano de madera instalada.</WoodenHand.description>
+  <!-- EN: a wooden hand -->
+  <WoodenHand.labelNoun>una mano de madera</WoodenHand.labelNoun>
+  
+</LanguageData>

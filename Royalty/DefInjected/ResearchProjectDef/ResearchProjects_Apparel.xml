@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cataphract armor -->
+  <CataphractArmor.label>servoarmadura catafracta</CataphractArmor.label>
+  <!-- EN: Craft cataphract armor, heavy powered armor that slows the user but which can absorb extreme punishment. Note that these also require advanced components. -->
+  <CataphractArmor.description>Fabrica una servoarmadura catafracta, una armadura pesada que ralentiza al usuario pero también puede absorber daños extremos. Nota: Requiere componentes avanzados.</CataphractArmor.description>
+  
+  <!-- EN: gunlink -->
+  <Gunlink.label>visor rastreador</Gunlink.label>
+  <!-- EN: Build wearable gunlinks to enhance your soldiers' shooting accuracy. -->
+  <Gunlink.description>Fabrica visores de rastreo que puedan usar tus soldados para mejorar la precisión de sus disparos.</Gunlink.description>
+  
+  <!-- EN: jump packs -->
+  <JumpPack.label>jetpacks</JumpPack.label>
+  <!-- EN: Build jump packs to perform aerial assaults during combat. -->
+  <JumpPack.description>Fabrica jetpacks para realizar asaltos aéreos durante el combate.</JumpPack.description>
+  
+  <!-- EN: noble apparel -->
+  <NobleApparel.label>vestimenta noble</NobleApparel.label>
+  <!-- EN: Tailor noble-specific apparel like formal shirts and royal robes. -->
+  <NobleApparel.description>Confecciona ropa específica de la nobleza como camisas formales y túnicas reales.</NobleApparel.description>
+  
+  <!-- EN: royal apparel -->
+  <RoyalApparel.label>vestimenta real</RoyalApparel.label>
+  <!-- EN: Tailor royal apparel of the highest tier, like royal robes and crowns. -->
+  <RoyalApparel.description>Confecciona vestidos reales del más alto nivel, como túnicas y coronas reales.</RoyalApparel.description>
+  
+</LanguageData>

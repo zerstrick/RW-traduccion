@@ -1,0 +1,773 @@
+acumulación tóxica
+aeroturbina
+aeroturbina(anteproyecto)
+aeroturbina(en construcción)
+agarilux
+alfombra azul(anteproyecto)
+alfombra azul(en construcción)
+alfombra crema(anteproyecto)
+alfombra crema(en construcción)
+alfombra negra(anteproyecto)
+alfombra oscura(en construcción)
+alfombra roja(anteproyecto)
+alfombra roja(en construcción)
+alfombra verde(anteproyecto)
+alfombra verde(en construcción)
+alocasia
+alpaca
+alpaca joven
+ambrosía
+ametralladora ligera L-15
+anestesia
+antena
+antena derecha
+antena izquierda
+antigua barrera de hormigón
+antorcha
+antorcha(anteproyecto)
+antorcha(en construcción)
+ardilla
+ardilla joven
+arena
+arenisca
+arenisca alisada
+armadura avanzada inacabada
+servoarmadura catafracta
+servoarmadura catafracta prestigiosa
+armadura de placas
+servoarmadura de reconocimiento
+servoarmadura de reconocimiento prestigiosa
+servoarmadura fénix
+armadura granadera
+armadura inacabada
+servoarmadura langosta
+ateroesclerosis
+baba
+bala
+bala de ametralladora ligera
+bala de cañón
+bala de cañón de uranio
+bala de fusil de cerrojo
+bala de mini torreta
+bala de minigun
+bala de pistola automática
+bala de revólver
+bala de rifle de asalto
+bala de rifle de francotirador
+bala de subfusil compacto
+bala de subfusil pesado
+bala de torreta
+bala de uranio
+balas de uranio
+baldosa de acero(anteproyecto)
+baldosa de acero(en construcción)
+baldosa de arenisca(anteproyecto)
+baldosa de arenisca(en construcción)
+baldosa de caliza(anteproyecto)
+baldosa de caliza(en construcción)
+baldosa de cemento(anteproyecto)
+baldosa de cemento(en construcción)
+baldosa de granito(anteproyecto)
+baldosa de granito(en construcción)
+baldosa de mármol(anteproyecto)
+baldosa de mármol(en construcción)
+baldosa de oro(anteproyecto)
+baldosa de oro(en construcción)
+baldosa de pizarra(anteproyecto)
+baldosa de pizarra(en construcción)
+baldosa de plata(anteproyecto)
+baldosa de plata(en construcción)
+baldosa estéril(anteproyecto)
+baldosa estéril(en construcción)
+balitas
+balitas(anteproyecto)
+balitas(en construcción)
+baliza de aterrizaje de mecas
+baliza de aterrizaje para naves
+baliza de comercio orbital
+baliza de comercio orbital(anteproyecto)
+baliza de comercio orbital(en construcción)
+baronesa
+barricada
+batería
+batería(anteproyecto)
+batería(en construcción)
+bilis de cadáver
+boca
+boina
+bomba de humedad
+bomba de humedad(anteproyecto)
+bomba de humedad(en construcción)
+cabeza
+cabra
+cachorra de husky
+cachorra de labrador
+cachorra de lince
+cachorra de lobo ártico
+cachorra de lobo pardo
+cachorra de pantera
+cachorra de puma
+cachorra de wargo
+cachorra de yorkshire terrier
+cachorra de zorro ártico
+cachorra de zorro del desierto
+cachorra de zorro rojo
+caja de dormir
+caja de dormir (animal)(anteproyecto)
+caja de dormir(anteproyecto)
+caja de dormir(en construcción)
+caliza
+caliza alisada
+cama
+cama (animal)
+cama (animal)(anteproyecto)
+cama (animal)(en construcción)
+cama doble
+cama doble enrrollable
+cama doble enrrollable(anteproyecto)
+cama doble enrrollable(en construcción)
+cama doble(anteproyecto)
+cama doble(en construcción)
+cama enrrollable
+cama enrrollable(anteproyecto)
+cama enrrollable(en construcción)
+cama hospitalaria
+cama hospitalaria(anteproyecto)
+cama hospitalaria(en construcción)
+cama lujosa
+cama lujosa(anteproyecto)
+cama lujosa(en construcción)
+cama(anteproyecto)
+cama(en construcción)
+camisa
+camisa eltex
+camiseta
+capa
+capitana
+cápsula de escape
+cápsula de escape (llegando)
+cápsula de escape (yéndose)
+cápsula de mecas
+cápsula de transporte
+cápsula de transporte(anteproyecto)
+cápsula de transporte(en construcción)
+capucha
+carcinoma
+carga
+carga de energía
+carga para lanza
+Carne de alce
+Carne de alfacastor
+Carne de alpaca
+Carne de ardilla
+Carne de bumalope
+carne de caballo
+Carne de capibara
+Carne de caribú
+Carne de cerdo
+Carne de chinchilla
+Carne de serpiente
+Carne de dromedario
+Carne de elefante
+Carne de gacela
+Carne de gato
+Carne de humano
+Carne de husky
+Carne de íbice
+Carne de iguana
+Carne de insecto
+Carne de labrador retriever
+Carne de liebre
+Carne de lince
+Carne de lobo
+Carne de mapache
+Carne de mega perezoso
+Carne de mono
+Carne de múfalo
+Carne de oso
+Carne de pájaro
+Carne de pantera
+Carne de pavo
+Carne de pollo
+Carne de puma
+Carne de rata
+Carne de rata-bum
+Carne de res
+Carne de rinoceronte
+Carne de tortuga
+Carne de trumbo
+Carne de venado
+Carne de wargo
+carne de yak
+Carne de yorkshire terrier
+Carne de zorro
+ceguera
+célula de energía inestable
+célula de energía vanométrica
+célula de energía vanométrica(anteproyecto)
+ceniza
+cerda
+cervecería
+cervecería(anteproyecto)
+cervecería(en construcción)
+cerveza
+chaqueta
+chaqueta antibalas
+chinchilla
+chinchilla joven
+chispa
+chokevine
+cierva
+cierva joven
+cintura
+cirrosis
+clavícula
+clavícula derecha
+clavícula izquierda
+clivia
+cobra
+cobra joven
+cola
+colmena
+columna
+columna biónica
+columna vertebral
+columna vertebral biónica
+comida buena
+comida lujosa
+comida sencilla
+cómoda
+cómoda(anteproyecto)
+cómoda(en construcción)
+condesa
+congelación
+consola de comunicaciones
+consola de comunicaciones(anteproyecto)
+consola de comunicaciones(en construcción)
+consulesa
+contusión
+corona
+corona estelar
+cortada
+cosa minúscula
+cría de alce
+cría de alfacastor
+cría de alpaca
+cría de ardilla
+cría de bumalope
+cría de capibara
+cría de caribú
+cría de chinchilla
+cría de ciervo
+cría de cobra
+cría de dromedario
+cría de elefante
+cría de gacela
+cría de íbice
+cría de iguana
+cría de jabalí
+cría de liebre
+cría de liebre blanca
+cría de mapache
+cría de mega perezoso
+cría de mono
+cría de rata
+cría de rata-bum
+cría de rinoceronte
+cría de thrumbo
+cría de tortuga
+croquetas
+cuarta garra de la pata delantera derecha
+cuarta garra de la pata delantera izquierda
+cuarta garra de la pata trasera derecha
+cuarta garra de la pata trasera izquierda
+cuchilla
+cuchilla de codo
+cuchilla derecha
+cuchilla izquierda
+culata
+dama
+demencia
+dentadura
+dentadura postiza
+desnutrición
+diadema
+duquesa
+emanador psíquico(anteproyecto)
+empuñadura
+enfermedad del sueño
+escariosis
+escopeta
+escopeta automática
+escoria dispersa
+escultura grande
+escultura grande(anteproyecto)
+escultura inacabada
+escultura mediana
+escultura mediana(anteproyecto)
+escultura pequeña
+escultura pequeña(anteproyecto)
+espada de plasma
+espada de plasma con IA
+espada larga
+espuma cortafuego
+espuma cortafuego(anteproyecto)
+espuma cortafuego(en construcción)
+espuma cortafuegos
+estante(anteproyecto)
+estela enorme
+estela grande
+estufa de leña
+estufa de leña(anteproyecto)
+estufa de leña(en construcción)
+estufa eléctrica
+estufa eléctrica(anteproyecto)
+estufa eléctrica(en construcción)
+explosión
+farola antigua
+flaca
+flecha de arco corto
+flecha de arco largo
+flecha de arco recurvo
+fogata
+fogata(anteproyecto)
+fogata(en construcción)
+forja de leña
+forja de leña(anteproyecto)
+forja de leña(en construcción)
+forja eléctrica
+forja eléctrica(anteproyecto)
+forja eléctrica(en construcción)
+fractura
+fragilidad
+fundición eléctrica
+fundición eléctrica(anteproyecto)
+fundición eléctrica(en construcción)
+gabardina
+gacela
+gacela joven
+gallina
+gallina joven
+garra
+garra craneal
+garra derecha
+garra frontal
+garra hidráulica
+garra izquierda
+garra trasera
+garra venenosa
+gata
+gata joven
+gatita
+glándula de armadura dérmica
+glándula dermoresistente
+glándula dermorocosa
+granada
+granada de fragmentación
+granada incendiaria
+granada PEM
+grava
+gripe
+hierba
+hierba alta
+hierba ánima
+hierbas medicinales
+hipotermia
+hoja humeante
+iguana
+iguana joven
+infección
+intoxicación alimentaria
+jabalina
+jalea de insecto
+jefa
+joroba
+lámpara de pie
+lámpara de pie (azul)
+lámpara de pie (azul)(anteproyecto)
+lámpara de pie (azul)(en construcción)
+lámpara de pie (rojo)
+lámpara de pie (rojo)(anteproyecto)
+lámpara de pie (rojo)(en construcción)
+lámpara de pie (verde)
+lámpara de pie (verde)(anteproyecto)
+lámpara de pie (verde)(en construcción)
+lámpara de pie(anteproyecto)
+lámpara de pie(en construcción)
+lámpara solar
+lámpara solar(anteproyecto)
+lámpara solar(en construcción)
+lana de alpaca
+lana de bisonte
+lana de mega perezoso
+lana de múfalo
+lana de oveja
+lanza
+lanza de cargas
+lanzar granada de fragmentación
+larva de espelópedo
+larva de megaraña
+larva de megascarabajo
+leche
+liebre
+liebre blanca
+liebre blanca joven
+liebre joven
+loba ártica
+loba ártica joven
+loba parda
+loba parda joven
+losa arenisca(en construcción)
+losa de arenisca(anteproyecto)
+losa de caliza(anteproyecto)
+losa de caliza(en construcción)
+losa de granito(anteproyecto)
+losa de granito(en construcción)
+losa de mármol(anteproyecto)
+losa de mármol(en construcción)
+losa de pizarra(anteproyecto)
+losa de pizarra(en construcción)
+maceta
+maceta(anteproyecto)
+maceta(en construcción)
+madera
+malaria
+mandíbula
+mano
+mano campestre
+mano de madera
+mano derecha
+mano izquierda
+maquinaria compactada
+máscara de guerra
+maza
+medicina
+medicina glitterworld
+megapantalla
+megapantalla(anteproyecto)
+megaraña
+megaraña joven
+mena de oro
+mena de plata
+mena de uranio
+mesa (1x2)
+mesa (1x2)(anteproyecto)
+mesa (1x2)(en construcción)
+mesa (2x2)
+mesa (2x2)(anteproyecto)
+mesa (2x2)(en construcción)
+mesa (2x4)
+mesa (2x4)(anteproyecto)
+mesa (2x4)(en construcción)
+mesa (3x3)
+mesa (3x3)(anteproyecto)
+mesa (3x3)(en construcción)
+mesa auxiliar
+mesa auxiliar(anteproyecto)
+mesa auxiliar(en construcción)
+mesa de ajedrez
+mesa de ajedrez(anteproyecto)
+mesa de ajedrez(en construcción)
+mesa de billar
+mesa de billar(anteproyecto)
+mesa de billar(en construcción)
+mesa de cantería
+mesa de cantería(anteproyecto)
+mesa de cantería(en construcción)
+mesa de carnicero
+mesa de carnicero(anteproyecto)
+mesa de carnicero(en construcción)
+mesa de escultor
+mesa de escultor(anteproyecto)
+mesa de escultor(en construcción)
+mesa de fabricación
+mesa de fabricación(anteproyecto)
+mesa de fabricación(en construcción)
+mesa de investigación
+mesa de investigación avanzada
+mesa de investigación avanzada(anteproyecto)
+mesa de investigación avanzada(en construcción)
+mesa de investigación(anteproyecto)
+mesa de investigación(en construcción)
+mesa de maquinado
+mesa de maquinado(anteproyecto)
+mesa de maquinado(en construcción)
+mesa de póker
+mesa de póker(anteproyecto)
+mesa de póker(en construcción)
+mesa de sastrería
+mesa de sastrería eléctrica
+mesa de sastrería eléctrica(anteproyecto)
+mesa de sastrería eléctrica(en construcción)
+mesa de sastrería(anteproyecto)
+mesa de sastrería(en construcción)
+mina
+mina antimateria
+mina antimateria(anteproyecto)
+mina antimateria(en construcción)
+mina de espuma cortafuego
+mina de espuma cortafuego(anteproyecto)
+mina de espuma cortafuego(en construcción)
+mina de humo
+mina incendiaria
+mina incendiaria(anteproyecto)
+mina incendiaria(en construcción)
+mina PEM
+mina PEM(anteproyecto)
+mina PEM(en construcción)
+mina(anteproyecto)
+mina(en construcción)
+mini meca-torreta
+mini torreta
+mini torreta(anteproyecto)
+mini torreta(en construcción)
+minigun
+mona
+mona joven
+mordida
+mujer de negro
+mujer salvaje
+nano-espada
+nano-espada con IA
+nariz
+nariz estética
+neutroamina
+novilla
+novilla de múfalo
+osa parda
+osa parda joven
+osa polar
+osa polar joven
+osezna parda
+osezna polar
+oveja
+pantera
+pantera joven
+papada
+parte de nave (defoliador)
+parte de nave (zumbador psíquico)
+parte del nave estrellada (llegando)
+parte faltante
+pasta nutritiva
+pata de palo
+pata delantera derecha
+pata delantera izquierda
+pata derecha
+pata izquierda
+pata media derecha
+pata media izquierda
+pata trasera derecha
+pata trasera izquierda
+pava
+pava joven
+pelvis
+penoxicilina
+pérdida de sangre
+peste
+pezuña
+piedra ánima
+piel azul
+piel de chinchilla
+piel de conejillo de indias
+piel de lobo
+piel felina
+piel de thrumbo
+piel de zorro
+piel gruesa
+pierna
+pierna arqueotécnica
+pierna biónica
+pierna delantera derecha
+pierna delantera izquierda
+pierna derecha
+pierna derecha delantera
+pierna izquierda
+pierna izquierda delantera
+pierna protésica
+pinchada solar
+psico-lanza (locura)
+psico-lanza (conmoción)
+pistola automática
+pistola de agujas
+pistola de mini torreta
+pizarra
+pizarra alisada
+plaga
+planta de algodón
+planta de arroz
+planta de fresa
+planta de heno
+planta de hoja humeante
+planta de lúpulo
+planta de maíz
+planta de papa
+planta psicoide
+plata
+pollita
+polluela de avestruz
+polluela de casuario
+polluela de emú
+polluela de pavo
+porra
+primera consejera
+primera garra de la pata delantera derecha
+primera garra de la pata delantera izquierda
+primera garra de la pata trasera derecha
+primera garra de la pata trasera izquierda
+prótesis inacabada
+puerta
+puerta automática
+puerta automática(anteproyecto)
+puerta automática(en construcción) 
+puerta(anteproyecto)
+puerta(en construcción)
+punta
+puñalada
+quemadura
+quemadura química
+quinta garra de la pata delantera derecha
+quinta garra de la pata delantera izquierda
+quinta garra de la pata trasera derecha
+quinta garra de la pata trasera izquierda
+raciones de supervivencia
+raflesia gigante
+raíz xerigia
+rama
+rata
+rata joven
+rata-bum
+rata-bum joven
+refinería de quimicombustible
+refinería de quimicombustible(anteproyecto)
+refinería de quimicombustible(en construcción)
+relentización hipotérmica
+ropa incabada
+rosa
+sangre
+sangre de insecto
+segunda garra de la pata delantera derecha
+segunda garra de la pata delantera izquierda
+segunda garra de la pata trasera derecha
+segunda garra de la pata trasera izquierda
+señal de acción - aviso
+señal de acción - emboscada
+serpiente
+servoarmadura
+servoarmadura prestigiosa
+seta
+silla de comedor
+silla de comedor(anteproyecto)
+silla de comedor(en construcción)
+sobredosis
+sordera
+suciedad
+suciedad animal
+tela
+tela sintética
+televisión
+televisión de pantalla plana
+televisión de pantalla plana(en construcción)
+televisión(anteproyecto)
+televisión(en construcción)
+tercera garra de la pata delantera derecha
+tercera garra de la pata delantera izquierda
+tercera garra de la pata trasera derecha
+tercera garra de la pata trasera izquierda
+ternera
+ternera de múfalo
+ternera de yak
+tibia
+tibia derecha
+tibia izquierda
+tierra
+tolva
+tolva(anteproyecto)
+tolva(en construcción)
+tormenta eléctrica
+torreta
+torreta de cañón automática
+torreta de cañón automática(anteproyecto)
+torreta de cañón automática(en construcción)
+torreta de energía
+torreta de mini proyectiles
+torreta de uranio
+torreta infernal
+tortuga
+tortuga joven
+trampa de pinchos
+trompa
+tumba
+tumba(anteproyecto)
+tumba(en construcción)
+túnica eltex
+túnica real
+túnica tribal
+urna
+vaca
+vaina luminiscente
+vaina luminiscente(anteproyecto)
+vara para herraduras
+vara para herraduras(anteproyecto)
+vara para herraduras(en construcción)
+viga estrutural de nave
+viga estrutural de nave(anteproyecto)
+viga estrutural de nave(en construcción)
+xerigia silvestre
+yegua
+zona de artesanía
+zona de artesanía(anteproyecto)
+zona de artesanía(en construcción)
+zona de carnicero
+zona de carnicero(anteproyecto)
+zona de carnicero(en construcción)
+zorra ártica
+zorra ártica joven
+zorra del desierto
+zorra del desierto joven
+niña abandonada
+abandonada
+huérfana abandonada
+huérfana
+abducida
+maldita
+niña maldita
+sacerdotiza
+actriz
+consejera de adicción
+consejera
+aventurera
+niña aventurera
+aventurera rarita
+rarita
+jovencita aventurera
+ingeniera
+programadora de IA
+programadora
+investigadora de IA
+investigadora
+camionera alcohólica
+alcohólica
+astrónoma aficionada
+astrónoma
+botánica aficionada
+botánica
+//Armour + Apparel
+armadura de madera
+armadura de placas ligera
+bata de laboratorio
+bata médica
+camisa con corbata
+camisa de comisario
+camisa de lana
+camiseta casual
+camiseta sin mangas
+capucha
+chaqueta de construcción
+chaqueta de traje
+chaqueta militar
+cota de malla
+falda
+falda tribal
+fedora
+máscara de guerra de piedra
+sudadera con capucha

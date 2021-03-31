@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: drill arm -->
+  <DrillArm.label>brazo de perforación</DrillArm.label>
+  <!-- EN: An installed drill arm. -->
+  <DrillArm.description>Un brazo de perforación instalado.</DrillArm.description>
+  <!-- EN: drill -->
+  <DrillArm.comps.HediffComp_VerbGiver.tools.drill.label>taladrar</DrillArm.comps.HediffComp_VerbGiver.tools.drill.label>
+  <!-- EN: a drill arm -->
+  <DrillArm.labelNoun>un brazo de perforación</DrillArm.labelNoun>
+  
+  <!-- EN: elbow blade -->
+  <ElbowBlade.label>cuchilla de codo</ElbowBlade.label>
+  <!-- EN: An installed elbow blade. -->
+  <ElbowBlade.description>Una cuchilla de codo instalada.</ElbowBlade.description>
+  <!-- EN: blade -->
+  <ElbowBlade.comps.HediffComp_VerbGiver.tools.blade.label>acuchillar</ElbowBlade.comps.HediffComp_VerbGiver.tools.blade.label>
+  <!-- EN: an elbow blade -->
+  <ElbowBlade.labelNoun>una cuchilla de codo</ElbowBlade.labelNoun>
+  
+  <!-- EN: field hand -->
+  <FieldHand.label>mano campestre</FieldHand.label>
+  <!-- EN: An installed field hand. -->
+  <FieldHand.description>Una mano campestre.</FieldHand.description>
+  <!-- EN: knuckle -->
+  <FieldHand.comps.HediffComp_VerbGiver.tools.knuckle.label>golpear</FieldHand.comps.HediffComp_VerbGiver.tools.knuckle.label>
+  <!-- EN: a field hand -->
+  <FieldHand.labelNoun>una mano campestre</FieldHand.labelNoun>
+  
+  <!-- EN: hand talon -->
+  <HandTalon.label>garra</HandTalon.label>
+  <!-- EN: An installed hand talon. -->
+  <HandTalon.description>Una garra instalada.</HandTalon.description>
+  <!-- EN: talon -->
+  <HandTalon.comps.HediffComp_VerbGiver.tools.talon.label>arañar</HandTalon.comps.HediffComp_VerbGiver.tools.talon.label>
+  <!-- EN: a hand talon -->
+  <HandTalon.labelNoun>una garra</HandTalon.labelNoun>
+  
+  <!-- EN: knee spike -->
+  <KneeSpike.label>rodillera con pincho</KneeSpike.label>
+  <!-- EN: An installed knee spike. -->
+  <KneeSpike.description>Una rodillera con pincho instalada.</KneeSpike.description>
+  <!-- EN: spike -->
+  <KneeSpike.comps.HediffComp_VerbGiver.tools.spike.label>apuñalar</KneeSpike.comps.HediffComp_VerbGiver.tools.spike.label>
+  <!-- EN: a knee spike -->
+  <KneeSpike.labelNoun>una rodillera con pincho</KneeSpike.labelNoun>
+  
+  <!-- EN: mindscrew -->
+  <Mindscrew.label>desestabilizador mental</Mindscrew.label>
+  <!-- EN: An installed mindscrew. -->
+  <Mindscrew.description>Un desestabilizador mental instalado.</Mindscrew.description>
+  <!-- EN: a mindscrew -->
+  <Mindscrew.labelNoun>un desestabilizador mental</Mindscrew.labelNoun>
+  
+  <!-- EN: venom fangs -->
+  <VenomFangs.label>colmillos venenosos</VenomFangs.label>
+  <!-- EN: An installed set of venom fangs. -->
+  <VenomFangs.description>Un par de colmillos venenosos instalados.</VenomFangs.description>
+  <!-- EN: venom fangs -->
+  <VenomFangs.comps.HediffComp_VerbGiver.tools.venom_fangs.label>colmillos venenosos</VenomFangs.comps.HediffComp_VerbGiver.tools.venom_fangs.label>
+  <!-- EN: a set of venom fangs -->
+  <VenomFangs.labelNoun>Un par de colmillos venenosos</VenomFangs.labelNoun>
+  
+  <!-- EN: venom talon -->
+  <VenomTalon.label>garra venenosa</VenomTalon.label>
+  <!-- EN: An installed venom talon. -->
+  <VenomTalon.description>Una garra venenosa instalada.</VenomTalon.description>
+  <!-- EN: venom talon -->
+  <VenomTalon.comps.HediffComp_VerbGiver.tools.venom_talon.label>Garra venenosa</VenomTalon.comps.HediffComp_VerbGiver.tools.venom_talon.label>
+  <!-- EN: a venom talon -->
+  <VenomTalon.labelNoun>Una garra venenosa</VenomTalon.labelNoun>
+  
+</LanguageData>

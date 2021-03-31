@@ -1,0 +1,22 @@
+﻿//Animales "rudos" para los nombres de las facciones piratas.
+simio
+gorila
+babuino
+cachalote
+tigre
+sabueso
+lobo
+oso
+toro
+búfalo
+elefante
+rinoceronte
+bisonte
+lagarto
+pulpo
+cangrejo
+coyote
+zorro
+murciélago
+canguro
+mono

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: neutral ancients -->
+  <Ancients.label>ancestrales neutrales</Ancients.label>
+  <!-- EN: Ancients -->
+  <Ancients.fixedName>Ancestrales</Ancients.fixedName>
+  <!-- EN: ancient -->
+  <Ancients.pawnSingular>ancestral</Ancients.pawnSingular>
+  <!-- EN: ancients -->
+  <Ancients.pawnsPlural>ancestrales</Ancients.pawnsPlural>
+  
+  <!-- EN: hostile ancients -->
+  <AncientsHostile.label>ancestrales hostiles</AncientsHostile.label>
+  <!-- EN: Ancients -->
+  <AncientsHostile.fixedName>Ancestrales</AncientsHostile.fixedName>
+  <!-- EN: ancient -->
+  <AncientsHostile.pawnSingular>ancestral</AncientsHostile.pawnSingular>
+  <!-- EN: ancients -->
+  <AncientsHostile.pawnsPlural>ancestrales</AncientsHostile.pawnsPlural>
+  
+  <!-- EN: insects -->
+  <Insect.label>insectoides</Insect.label>
+  <!-- EN: Sorne Geneline -->
+  <Insect.fixedName>Heterometrus Arachnida</Insect.fixedName>
+  <!-- EN: insect -->
+  <Insect.pawnSingular>insectoide</Insect.pawnSingular>
+  <!-- EN: insects -->
+  <Insect.pawnsPlural>insectoides</Insect.pawnsPlural>
+  
+  <!-- EN: mechanoid hive -->
+  <Mechanoid.label>colmena de mecanoides</Mechanoid.label>
+  <Mechanoid.fixedName>Colmena de mecanoides</Mechanoid.fixedName>
+  <!-- EN: mechanoid -->
+  <Mechanoid.pawnSingular>mecanoide</Mechanoid.pawnSingular>
+  <!-- EN: mechanoids -->
+  <Mechanoid.pawnsPlural>mecanoides</Mechanoid.pawnsPlural>
+  
+</LanguageData>

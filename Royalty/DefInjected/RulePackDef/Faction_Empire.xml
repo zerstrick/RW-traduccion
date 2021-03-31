@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_name(p=2)->[empire] of [ofThing]</li>
+    <li>r_name(p=2)->The [empire] of [ofThing]</li>
+    <li>r_name->The Exodus [empire]</li>
+    <li>r_name->The Refugee [empire]</li>
+    <li>r_name->The Broken [empire]</li>
+    <li>r_name->The Shattered [empire]</li>
+    <li>r_name->The Fallen [empire]</li>
+    <li>r_name->The [Color] [empire]</li>
+    <li>empire(p=4)->Empire</li>
+    <li>empire->Commonwealth</li>
+    <li>empire->Imperium</li>
+    <li>empire->Dominion</li>
+    <li>empire->Sovereignty</li>
+    <li>ofThing(p=4)->[WordImperial]</li>
+    <li>ofThing->the Sun</li>
+    <li>ofThing->the Moon</li>
+    <li>ofThing->the Universe</li>
+    <li>ofThing->God</li>
+    <li>ofThing->Perfection</li>
+    <li>ofThing->Eternity</li>
+    <li>ofThing->the Spirit</li>
+  -->
+  <NamerFactionEmpire.rulePack.rulesStrings>
+    <li>r_name(p=2)->[empire] [ofThing]</li>
+    <li>r_name(p=2)->El [empire_mas] [ofThing]</li>
+    <li>r_name(p=2)->La [empire_fem] [ofThing]</li>
+    <li>r_name->El [empire_mas] del Éxodo</li>
+    <li>r_name->La [empire_fem] del Éxodo</li>
+    <li>r_name->El [empire_mas] de los Refugiados</li>
+    <li>r_name->La [empire_fem] de los Refugiados</li>
+    <li>r_name->El [empire_mas] en Ruinas</li>
+    <li>r_name->La [empire_fem] en Ruinas</li>
+    <li>r_name->El [empire_mas] Caído</li>
+    <li>r_name->La [empire_fem] Caída</li>
+    <li>r_name->El [empire_mas] Deztrozado</li>
+    <li>r_name->La [empire_fem] Deztrozada</li>
+    <li>r_name->El [empire_mas] [Color]</li>
+    <li>r_name->La [empire_fem] [Color_Fem]</li>
+    <li>empire(p=3)->Imperio</li>
+    <li>empire(p=4)->Reino</li>
+    <li>empire->Federación</li>
+    <li>empire->Dominio</li>
+    <li>empire->República</li>
+    <li>empire_mas(p=3)->Imperio</li>
+    <li>empire_mas(p=4)->Reino</li>
+    <li>empire_fem->Federación</li>
+    <li>empire_mas->Dominio</li>
+    <li>empire_fem->República</li>
+    <li>ofThing(p=4)->[WordImperial]</li>
+    <li>ofThing->del Sol</li>
+    <li>ofThing->de la Luna</li>
+    <li>ofThing->del Universo</li>
+    <li>ofThing->de Dios</li>
+    <li>ofThing->de la Perfección</li>
+    <li>ofThing->de la Eternidad</li>
+    <li>ofThing->del Espíritu</li>
+  </NamerFactionEmpire.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=3)->[ImperialNameFirstMale] [ImperialNameLast]</li>
+    <li>r_name(p=2)->[ImperialNameFirstMale] [WordImperial]</li>
+    <li>r_name(p=2)->[WordImperial] [WordImperial]</li>
+  -->
+  <NamerPersonEmpire.rulePack.rulesStrings>
+    <li>r_name(p=3)->[ImperialNameFirstMale] [ImperialNameLast]</li>
+    <li>r_name(p=2)->[ImperialNameFirstMale] [WordImperial]</li>
+    <li>r_name(p=2)->[WordImperial] [WordImperial]</li>
+  </NamerPersonEmpire.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=3)->[ImperialNameFirstFemale] [ImperialNameLast]</li>
+    <li>r_name(p=2)->[ImperialNameFirstFemale] [WordImperial]</li>
+    <li>r_name(p=2)->[WordImperial] [WordImperial]</li>
+  -->
+  <NamerPersonEmpireFemale.rulePack.rulesStrings>
+    <li>r_name(p=3)->[ImperialNameFirstFemale] [ImperialNameLast]</li>
+    <li>r_name(p=2)->[ImperialNameFirstFemale] [WordImperial]</li>
+    <li>r_name(p=2)->[WordImperial] [WordImperial]</li>
+  </NamerPersonEmpireFemale.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name->[townname_wordgen]</li>
+    <li>r_name->[townname_fixed]</li>
+    <li>townname_wordgen->[WordImperial]</li>
+    <li>townname_wordgen->[WordImperial][townend]</li>
+    <li>townend(p=3)->ium</li>
+    <li>townend(p=3)->ior</li>
+    <li>townend(p=3)->polis</li>
+    <li>townend->nor</li>
+    <li>townend->lan</li>
+    <li>townend->lax</li>
+    <li>townend->lix</li>
+    <li>townend->lin</li>
+    <li>townend->lian</li>
+    <li>townend->phrum</li>
+    <li>townend->phor</li>
+    <li>townend->teor</li>
+    <li>townend->ople</li>
+    <li>townend->opium</li>
+    <li>townend->or</li>
+    <li>townend->aetor</li>
+    <li>townend->aeum</li>
+    <li>townend->aetium</li>
+    <li>townend->am</li>
+    <li>townend->aeum</li>
+  -->
+  <NamerSettlementEmpire.rulePack.rulesStrings>
+    <li>r_name->[townname_wordgen]</li>
+    <li>r_name->[townname_fixed]</li>
+    <li>townname_wordgen->[WordImperial]</li>
+    <li>townname_wordgen->[WordImperial][townend]</li>
+    <li>townend(p=3)->ium</li>
+    <li>townend(p=3)->ior</li>
+    <li>townend(p=3)->polis</li>
+    <li>townend->nor</li>
+    <li>townend->lan</li>
+    <li>townend->lax</li>
+    <li>townend->lix</li>
+    <li>townend->lin</li>
+    <li>townend->lian</li>
+    <li>townend->phrum</li>
+    <li>townend->phor</li>
+    <li>townend->teor</li>
+    <li>townend->ople</li>
+    <li>townend->opium</li>
+    <li>townend->or</li>
+    <li>townend->aetor</li>
+    <li>townend->aeum</li>
+    <li>townend->aetium</li>
+    <li>townend->am</li>
+    <li>townend->aeum</li>
+  </NamerSettlementEmpire.rulePack.rulesStrings>
+  
+</LanguageData>

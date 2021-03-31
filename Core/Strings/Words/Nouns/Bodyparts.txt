@@ -1,0 +1,16 @@
+//partes del cuerpo también pueden ser de animales, se usan para crear nombres de lugares ej: montaña el cuello alto
+cuello
+hombro
+brazo
+ojo
+dedo
+torso
+codo
+diente
+pie
+talón
+tobillo
+colmillo
+ala
+labio
+cuerpo

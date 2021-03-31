@@ -1,0 +1,13 @@
+﻿pueblo
+condado
+municipio
+distrito
+castillo
+burgo
+barrio
+asentamiento
+puerto
+rancho
+monasterio
+convento
+santuario

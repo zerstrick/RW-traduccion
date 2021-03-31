@@ -1,0 +1,13 @@
+﻿﻿//Mantener género masculino.
+amarillo
+azul
+blanco
+gris
+marrón
+morado
+negro
+ocre
+rojo
+verde
+rosado
+púrpura

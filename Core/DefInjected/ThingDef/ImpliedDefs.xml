@@ -1,0 +1,1777 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cama (animal)(anteproyecto) -->
+  <Blueprint_AnimalBed.label>cama (animal)(anteproyecto)</Blueprint_AnimalBed.label>
+  
+  <!-- EN: caja de dormir(anteproyecto) -->
+  <Blueprint_AnimalSleepingBox.label>caja de dormir(anteproyecto)</Blueprint_AnimalSleepingBox.label>
+  
+  <!-- EN: lugar para dormir (animal)(anteproyecto) -->
+  <Blueprint_AnimalSleepingSpot.label>lugar para dormir (animal)(anteproyecto)</Blueprint_AnimalSleepingSpot.label>
+  
+  <!-- EN: sillón(anteproyecto) -->
+  <Blueprint_Armchair.label>sillón(anteproyecto)</Blueprint_Armchair.label>
+  
+  <!-- EN: puerta automática(anteproyecto) -->
+  <Blueprint_Autodoor.label>puerta automática(anteproyecto)</Blueprint_Autodoor.label>
+  
+  <!-- EN: batería(anteproyecto) -->
+  <Blueprint_Battery.label>batería(anteproyecto)</Blueprint_Battery.label>
+  
+  <!-- EN: cama(anteproyecto) -->
+  <Blueprint_Bed.label>cama(anteproyecto)</Blueprint_Bed.label>
+  
+  <!-- EN: cama enrrollable(anteproyecto) -->
+  <Blueprint_Bedroll.label>cama enrrollable(anteproyecto)</Blueprint_Bedroll.label>
+  
+  <!-- EN: cama doble enrrollable(anteproyecto) -->
+  <Blueprint_BedrollDouble.label>cama doble enrrollable(anteproyecto)</Blueprint_BedrollDouble.label>
+  
+  <!-- EN: mesa de billar(anteproyecto) -->
+  <Blueprint_BilliardsTable.label>mesa de billar(anteproyecto)</Blueprint_BilliardsTable.label>
+  
+  <!-- EN: refinería de quimicombustible(anteproyecto) -->
+  <Blueprint_BiofuelRefinery.label>refinería de quimicombustible(anteproyecto)</Blueprint_BiofuelRefinery.label>
+  
+  <!-- EN: cervecería(anteproyecto) -->
+  <Blueprint_Brewery.label>cervecería(anteproyecto)</Blueprint_Brewery.label>
+  
+  <!-- EN: puente(anteproyecto) -->
+  <Blueprint_Bridge.label>puente(anteproyecto)</Blueprint_Bridge.label>
+  
+  <!-- EN: zona de carnicero(anteproyecto) -->
+  <Blueprint_ButcherSpot.label>zona de carnicero(anteproyecto)</Blueprint_ButcherSpot.label>
+  
+  <!-- EN: fogata(anteproyecto) -->
+  <Blueprint_Campfire.label>fogata(anteproyecto)</Blueprint_Campfire.label>
+  
+  <!-- EN: lugar de carga para caravanas(anteproyecto) -->
+  <Blueprint_CaravanPackingSpot.label>lugar de carga para caravanas(anteproyecto)</Blueprint_CaravanPackingSpot.label>
+  
+  <!-- EN: alfombra azul(anteproyecto) -->
+  <Blueprint_CarpetBlue.label>alfombra azul(anteproyecto)</Blueprint_CarpetBlue.label>
+  
+  <!-- EN: alfombra color crema(anteproyecto) -->
+  <Blueprint_CarpetCream.label>alfombra crema(anteproyecto)</Blueprint_CarpetCream.label>
+  
+  <!-- EN: alfombra oscura(anteproyecto) -->
+  <Blueprint_CarpetDark.label>alfombra negra(anteproyecto)</Blueprint_CarpetDark.label>
+  
+  <!-- EN: alfombra verde(anteproyecto) -->
+  <Blueprint_CarpetGreen.label>alfombra verde(anteproyecto)</Blueprint_CarpetGreen.label>
+  
+  <!-- EN: alfombra roja(anteproyecto) -->
+  <Blueprint_CarpetRed.label>alfombra roja(anteproyecto)</Blueprint_CarpetRed.label>
+  
+  <!-- EN: generador a quimicombustible(anteproyecto) -->
+  <Blueprint_ChemfuelPoweredGenerator.label>generador a quimicombustible(anteproyecto)</Blueprint_ChemfuelPoweredGenerator.label>
+  
+  <!-- EN: mesa de ajedrez(anteproyecto) -->
+  <Blueprint_ChessTable.label>mesa de ajedrez(anteproyecto)</Blueprint_ChessTable.label>
+  
+  <!-- EN: consola de comunicaciones(anteproyecto) -->
+  <Blueprint_CommsConsole.label>consola de comunicaciones(anteproyecto)</Blueprint_CommsConsole.label>
+  
+  <!-- EN: hormigón(anteproyecto) -->
+  <Blueprint_Concrete.label>hormigón(anteproyecto)</Blueprint_Concrete.label>
+  
+  <!-- EN: refrigerador(anteproyecto) -->
+  <Blueprint_Cooler.label>refrigerador(anteproyecto)</Blueprint_Cooler.label>
+  
+  <!-- EN: zona de artesanía(anteproyecto) -->
+  <Blueprint_CraftingSpot.label>zona de artesanía(anteproyecto)</Blueprint_CraftingSpot.label>
+  
+  <!-- EN: sarcófago de criptosueño(anteproyecto) -->
+  <Blueprint_CryptosleepCasket.label>sarcófago de criptosueño(anteproyecto)</Blueprint_CryptosleepCasket.label>
+  
+  <!-- EN: taladro de profundidad(anteproyecto) -->
+  <Blueprint_DeepDrill.label>taladro de profundidad(anteproyecto)</Blueprint_DeepDrill.label>
+  
+  <!-- EN: silla de comedor(anteproyecto) -->
+  <Blueprint_DiningChair.label>silla de comedor(anteproyecto)</Blueprint_DiningChair.label>
+  
+  <!-- EN: puerta(anteproyecto) -->
+  <Blueprint_Door.label>puerta(anteproyecto)</Blueprint_Door.label>
+  
+  <!-- EN: cama doble(anteproyecto) -->
+  <Blueprint_DoubleBed.label>cama doble(anteproyecto)</Blueprint_DoubleBed.label>
+  
+  <!-- EN: doble lugar para dormir(anteproyecto) -->
+  <Blueprint_DoubleSleepingSpot.label>doble lugar para dormir(anteproyecto)</Blueprint_DoubleSleepingSpot.label>
+  
+  <!-- EN: cómoda(anteproyecto) -->
+  <Blueprint_Dresser.label>cómoda(anteproyecto)</Blueprint_Dresser.label>
+  
+  <!-- EN: laboratorio de drogas(anteproyecto) -->
+  <Blueprint_DrugLab.label>laboratorio de drogas(anteproyecto)</Blueprint_DrugLab.label>
+  
+  <!-- EN: crematorio eléctrico(anteproyecto) -->
+  <Blueprint_ElectricCrematorium.label>crematorio eléctrico(anteproyecto)</Blueprint_ElectricCrematorium.label>
+  
+  <!-- EN: fundición eléctrica(anteproyecto) -->
+  <Blueprint_ElectricSmelter.label>fundición eléctrica(anteproyecto)</Blueprint_ElectricSmelter.label>
+  
+  <!-- EN: forja eléctrica(anteproyecto) -->
+  <Blueprint_ElectricSmithy.label>forja eléctrica(anteproyecto)</Blueprint_ElectricSmithy.label>
+  
+  <!-- EN: estufa eléctrica(anteproyecto) -->
+  <Blueprint_ElectricStove.label>estufa eléctrica(anteproyecto)</Blueprint_ElectricStove.label>
+  
+  <!-- EN: mesa de sastrería eléctrica(anteproyecto) -->
+  <Blueprint_ElectricTailoringBench.label>mesa de sastrería eléctrica(anteproyecto)</Blueprint_ElectricTailoringBench.label>
+  
+  <!-- EN: mesa auxiliar(anteproyecto) -->
+  <Blueprint_EndTable.label>mesa auxiliar(anteproyecto)</Blueprint_EndTable.label>
+  
+  <!-- EN: mesa de fabricación(anteproyecto) -->
+  <Blueprint_FabricationBench.label>mesa de fabricación(anteproyecto)</Blueprint_FabricationBench.label>
+  
+  <!-- EN: barril fermentador(anteproyecto) -->
+  <Blueprint_FermentingBarrel.label>barril fermentador(anteproyecto)</Blueprint_FermentingBarrel.label>
+  
+  <!-- EN: espuma cortafuego(anteproyecto) -->
+  <Blueprint_FirefoamPopper.label>espuma cortafuego(anteproyecto)</Blueprint_FirefoamPopper.label>
+  
+  <!-- EN: losa de granito(anteproyecto) -->
+  <Blueprint_FlagstoneGranite.label>losa de granito(anteproyecto)</Blueprint_FlagstoneGranite.label>
+  
+  <!-- EN: losa de caliza(anteproyecto) -->
+  <Blueprint_FlagstoneLimestone.label>losa de caliza(anteproyecto)</Blueprint_FlagstoneLimestone.label>
+  
+  <!-- EN: losa de mármol(anteproyecto) -->
+  <Blueprint_FlagstoneMarble.label>losa de mármol(anteproyecto)</Blueprint_FlagstoneMarble.label>
+  
+  <!-- EN: losa arenisca(anteproyecto) -->
+  <Blueprint_FlagstoneSandstone.label>losa de arenisca(anteproyecto)</Blueprint_FlagstoneSandstone.label>
+  
+  <!-- EN: losa de pizarra(anteproyecto) -->
+  <Blueprint_FlagstoneSlate.label>losa de pizarra(anteproyecto)</Blueprint_FlagstoneSlate.label>
+  
+  <!-- EN: televisión de pantalla plana(anteproyecto) -->
+  <Blueprint_FlatscreenTelevision.label>televisión de pantalla plana(anteproyecto)</Blueprint_FlatscreenTelevision.label>
+  
+  <!-- EN: forja de leña(anteproyecto) -->
+  <Blueprint_FueledSmithy.label>forja de leña(anteproyecto)</Blueprint_FueledSmithy.label>
+  
+  <!-- EN: estufa de leña(anteproyecto) -->
+  <Blueprint_FueledStove.label>estufa de leña(anteproyecto)</Blueprint_FueledStove.label>
+  
+  <!-- EN: tablero de ur(anteproyecto) -->
+  <Blueprint_GameOfUrBoard.label>tablero de ur(anteproyecto)</Blueprint_GameOfUrBoard.label>
+  
+  <!-- EN: generador geotérmico(anteproyecto) -->
+  <Blueprint_GeothermalGenerator.label>generador geotérmico(anteproyecto)</Blueprint_GeothermalGenerator.label>
+  
+  <!-- EN: baldosa de oro(anteproyecto) -->
+  <Blueprint_GoldTile.label>baldosa de oro(anteproyecto)</Blueprint_GoldTile.label>
+  
+  <!-- EN: tumba(anteproyecto) -->
+  <Blueprint_Grave.label>tumba(anteproyecto)</Blueprint_Grave.label>
+  
+  <!-- EN: escáner de profundidad(anteproyecto) -->
+  <Blueprint_GroundPenetratingScanner.label>escáner de profundidad(anteproyecto)</Blueprint_GroundPenetratingScanner.label>
+  
+  <!-- EN: mesa de sastrería(anteproyecto) -->
+  <Blueprint_HandTailoringBench.label>mesa de sastrería(anteproyecto)</Blueprint_HandTailoringBench.label>
+  
+  <!-- EN: calefactor(anteproyecto) -->
+  <Blueprint_Heater.label>calefactor(anteproyecto)</Blueprint_Heater.label>
+  
+  <!-- EN: mesa de investigación avanzada(anteproyecto) -->
+  <Blueprint_HiTechResearchBench.label>mesa de investigación avanzada(anteproyecto)</Blueprint_HiTechResearchBench.label>
+  
+  <!-- EN: balitas(anteproyecto) -->
+  <Blueprint_HoopstoneRing.label>balitas(anteproyecto)</Blueprint_HoopstoneRing.label>
+  
+  <!-- EN: tolva(anteproyecto) -->
+  <Blueprint_Hopper.label>tolva(anteproyecto)</Blueprint_Hopper.label>
+  
+  <!-- EN: vara para herraduras(anteproyecto) -->
+  <Blueprint_HorseshoesPin.label>vara para herraduras(anteproyecto)</Blueprint_HorseshoesPin.label>
+  
+  <!-- EN: cama hospitalaria(anteproyecto) -->
+  <Blueprint_HospitalBed.label>cama hospitalaria(anteproyecto)</Blueprint_HospitalBed.label>
+  
+  <!-- EN: contenedor hidropónico(anteproyecto) -->
+  <Blueprint_HydroponicsBasin.label>contenedor hidropónico(anteproyecto)</Blueprint_HydroponicsBasin.label>
+  
+  <!-- EN: cama (animal)(anteproyecto) -->
+  <Blueprint_Install_AnimalBed.label>cama (animal)(anteproyecto)</Blueprint_Install_AnimalBed.label>
+  
+  <!-- EN: caja de dormir(anteproyecto) -->
+  <Blueprint_Install_AnimalSleepingBox.label>caja de dormir(anteproyecto)</Blueprint_Install_AnimalSleepingBox.label>
+  
+  <!-- EN: sillón(anteproyecto) -->
+  <Blueprint_Install_Armchair.label>sillón(anteproyecto)</Blueprint_Install_Armchair.label>
+  
+  <!-- EN: batería(anteproyecto) -->
+  <Blueprint_Install_Battery.label>batería(anteproyecto)</Blueprint_Install_Battery.label>
+  
+  <!-- EN: cama(anteproyecto) -->
+  <Blueprint_Install_Bed.label>cama(anteproyecto)</Blueprint_Install_Bed.label>
+  
+  <!-- EN: cama enrrollable(anteproyecto) -->
+  <Blueprint_Install_Bedroll.label>cama enrrollable(anteproyecto)</Blueprint_Install_Bedroll.label>
+  
+  <!-- EN: cama doble enrrollable(anteproyecto) -->
+  <Blueprint_Install_BedrollDouble.label>cama doble enrrollable(anteproyecto)</Blueprint_Install_BedrollDouble.label>
+  
+  <!-- EN: mesa de billar(anteproyecto) -->
+  <Blueprint_Install_BilliardsTable.label>mesa de billar(anteproyecto)</Blueprint_Install_BilliardsTable.label>
+  
+  <!-- EN: cervecería(anteproyecto) -->
+  <Blueprint_Install_Brewery.label>cervecería(anteproyecto)</Blueprint_Install_Brewery.label>
+  
+  <!-- EN: mesa de ajedrez(anteproyecto) -->
+  <Blueprint_Install_ChessTable.label>mesa de ajedrez(anteproyecto)</Blueprint_Install_ChessTable.label>
+  
+  <!-- EN: taladro de profundidad(anteproyecto) -->
+  <Blueprint_Install_DeepDrill.label>taladro de profundidad(anteproyecto)</Blueprint_Install_DeepDrill.label>
+  
+  <!-- EN: silla de comedor(anteproyecto) -->
+  <Blueprint_Install_DiningChair.label>silla de comedor(anteproyecto)</Blueprint_Install_DiningChair.label>
+  
+  <!-- EN: cama doble(anteproyecto) -->
+  <Blueprint_Install_DoubleBed.label>cama doble(anteproyecto)</Blueprint_Install_DoubleBed.label>
+  
+  <!-- EN: cómoda(anteproyecto) -->
+  <Blueprint_Install_Dresser.label>cómoda(anteproyecto)</Blueprint_Install_Dresser.label>
+  
+  <!-- EN: laboratorio de drogas(anteproyecto) -->
+  <Blueprint_Install_DrugLab.label>laboratorio de drogas(anteproyecto)</Blueprint_Install_DrugLab.label>
+  
+  <!-- EN: fundición eléctrica(anteproyecto) -->
+  <Blueprint_Install_ElectricSmelter.label>fundición eléctrica(anteproyecto)</Blueprint_Install_ElectricSmelter.label>
+  
+  <!-- EN: forja eléctrica(anteproyecto) -->
+  <Blueprint_Install_ElectricSmithy.label>forja eléctrica(anteproyecto)</Blueprint_Install_ElectricSmithy.label>
+  
+  <!-- EN: estufa eléctrica(anteproyecto) -->
+  <Blueprint_Install_ElectricStove.label>estufa eléctrica(anteproyecto)</Blueprint_Install_ElectricStove.label>
+  
+  <!-- EN: mesa de sastrería eléctrica(anteproyecto) -->
+  <Blueprint_Install_ElectricTailoringBench.label>mesa de sastrería eléctrica(anteproyecto)</Blueprint_Install_ElectricTailoringBench.label>
+  
+  <!-- EN: mesa auxiliar(anteproyecto) -->
+  <Blueprint_Install_EndTable.label>mesa auxiliar(anteproyecto)</Blueprint_Install_EndTable.label>
+  
+  <!-- EN: barril fermentador(anteproyecto) -->
+  <Blueprint_Install_FermentingBarrel.label>barril fermentador(anteproyecto)</Blueprint_Install_FermentingBarrel.label>
+  
+  <!-- EN: espuma cortafuego(anteproyecto) -->
+  <Blueprint_Install_FirefoamPopper.label>espuma cortafuego(anteproyecto)</Blueprint_Install_FirefoamPopper.label>
+  
+  <!-- EN: televisión de pantalla plana(anteproyecto) -->
+  <Blueprint_Install_FlatscreenTelevision.label>televisión de pantalla plana(anteproyecto)</Blueprint_Install_FlatscreenTelevision.label>
+  
+  <!-- EN: forja de leña(anteproyecto) -->
+  <Blueprint_Install_FueledSmithy.label>forja de leña(anteproyecto)</Blueprint_Install_FueledSmithy.label>
+  
+  <!-- EN: estufa de leña(anteproyecto) -->
+  <Blueprint_Install_FueledStove.label>estufa de leña(anteproyecto)</Blueprint_Install_FueledStove.label>
+  
+  <!-- EN: tablero de ur(anteproyecto) -->
+  <Blueprint_Install_GameOfUrBoard.label>tablero de ur(anteproyecto)</Blueprint_Install_GameOfUrBoard.label>
+  
+  <!-- EN: vaina luminiscente(anteproyecto) -->
+  <Blueprint_Install_GlowPod.label>vaina luminiscente(anteproyecto)</Blueprint_Install_GlowPod.label>
+  
+  <!-- EN: mesa de sastrería(anteproyecto) -->
+  <Blueprint_Install_HandTailoringBench.label>mesa de sastrería(anteproyecto)</Blueprint_Install_HandTailoringBench.label>
+  
+  <!-- EN: calefactor(anteproyecto) -->
+  <Blueprint_Install_Heater.label>calefactor(anteproyecto)</Blueprint_Install_Heater.label>
+  
+  <!-- EN: balitas(anteproyecto) -->
+  <Blueprint_Install_HoopstoneRing.label>balitas(anteproyecto)</Blueprint_Install_HoopstoneRing.label>
+  
+  <!-- EN: vara para herraduras(anteproyecto) -->
+  <Blueprint_Install_HorseshoesPin.label>vara para herraduras(anteproyecto)</Blueprint_Install_HorseshoesPin.label>
+  
+  <!-- EN: cama hospitalaria(anteproyecto) -->
+  <Blueprint_Install_HospitalBed.label>cama hospitalaria(anteproyecto)</Blueprint_Install_HospitalBed.label>
+  
+  <!-- EN: quimiorreactor infinito(anteproyecto) -->
+  <Blueprint_Install_InfiniteChemreactor.label>quimiorreactor infinito(anteproyecto)</Blueprint_Install_InfiniteChemreactor.label>
+  
+  <!-- EN: megapantalla(anteproyecto) -->
+  <Blueprint_Install_MegascreenTelevision.label>megapantalla(anteproyecto)</Blueprint_Install_MegascreenTelevision.label>
+  
+  <!-- EN: multi-analizador(anteproyecto) -->
+  <Blueprint_Install_MultiAnalyzer.label>multi-analizador(anteproyecto)</Blueprint_Install_MultiAnalyzer.label>
+  
+  <!-- EN: baliza de comercio orbital(anteproyecto) -->
+  <Blueprint_Install_OrbitalTradeBeacon.label>baliza de comercio orbital(anteproyecto)</Blueprint_Install_OrbitalTradeBeacon.label>
+  
+  <!-- EN: maceta(anteproyecto) -->
+  <Blueprint_Install_PlantPot.label>maceta(anteproyecto)</Blueprint_Install_PlantPot.label>
+  
+  <!-- EN: mesa de póker(anteproyecto) -->
+  <Blueprint_Install_PokerTable.label>mesa de póker(anteproyecto)</Blueprint_Install_PokerTable.label>
+  
+  <!-- EN: emanador psíquico(anteproyecto) -->
+  <Blueprint_Install_PsychicEmanator.label>emanador psíquico(anteproyecto)</Blueprint_Install_PsychicEmanator.label>
+  
+  <!-- EN: cama lujosa(anteproyecto) -->
+  <Blueprint_Install_RoyalBed.label>cama lujosa(anteproyecto)</Blueprint_Install_RoyalBed.label>
+  
+  <!-- EN: escultura grande(anteproyecto) -->
+  <Blueprint_Install_SculptureGrand.label>escultura grande(anteproyecto)</Blueprint_Install_SculptureGrand.label>
+  
+  <!-- EN: escultura mediana(anteproyecto) -->
+  <Blueprint_Install_SculptureLarge.label>escultura mediana(anteproyecto)</Blueprint_Install_SculptureLarge.label>
+  
+  <!-- EN: escultura pequeña(anteproyecto) -->
+  <Blueprint_Install_SculptureSmall.label>escultura pequeña(anteproyecto)</Blueprint_Install_SculptureSmall.label>
+  
+  <!-- EN: estante(anteproyecto) -->
+  <Blueprint_Install_Shelf.label>estante(anteproyecto)</Blueprint_Install_Shelf.label>
+  
+  <!-- EN: mesa de investigación(anteproyecto) -->
+  <Blueprint_Install_SimpleResearchBench.label>mesa de investigación(anteproyecto)</Blueprint_Install_SimpleResearchBench.label>
+  
+  <!-- EN: lámpara de pie(anteproyecto) -->
+  <Blueprint_Install_StandingLamp.label>lámpara de pie(anteproyecto)</Blueprint_Install_StandingLamp.label>
+  
+  <!-- EN: lámpara de pie (azul)(anteproyecto) -->
+  <Blueprint_Install_StandingLamp_Blue.label>lámpara de pie (azul)(anteproyecto)</Blueprint_Install_StandingLamp_Blue.label>
+  
+  <!-- EN: lámpara de pie (verde)(anteproyecto) -->
+  <Blueprint_Install_StandingLamp_Green.label>lámpara de pie (verde)(anteproyecto)</Blueprint_Install_StandingLamp_Green.label>
+  
+  <!-- EN: lámpara de pie (rojo)(anteproyecto) -->
+  <Blueprint_Install_StandingLamp_Red.label>lámpara de pie (rojo)(anteproyecto)</Blueprint_Install_StandingLamp_Red.label>
+  
+  <!-- EN: taburete(anteproyecto) -->
+  <Blueprint_Install_Stool.label>taburete(anteproyecto)</Blueprint_Install_Stool.label>
+  
+  <!-- EN: lámpara solar(anteproyecto) -->
+  <Blueprint_Install_SunLamp.label>lámpara solar(anteproyecto)</Blueprint_Install_SunLamp.label>
+  
+  <!-- EN: mesa (1x2)(anteproyecto) -->
+  <Blueprint_Install_Table1x2c.label>mesa (1x2)(anteproyecto)</Blueprint_Install_Table1x2c.label>
+  
+  <!-- EN: mesa (2x2)(anteproyecto) -->
+  <Blueprint_Install_Table2x2c.label>mesa (2x2)(anteproyecto)</Blueprint_Install_Table2x2c.label>
+  
+  <!-- EN: mesa (2x4)(anteproyecto) -->
+  <Blueprint_Install_Table2x4c.label>mesa (2x4)(anteproyecto)</Blueprint_Install_Table2x4c.label>
+  
+  <!-- EN: mesa (3x3)(anteproyecto) -->
+  <Blueprint_Install_Table3x3c.label>mesa (3x3)(anteproyecto)</Blueprint_Install_Table3x3c.label>
+  
+  <!-- EN: mesa de carnicero(anteproyecto) -->
+  <Blueprint_Install_TableButcher.label>mesa de carnicero(anteproyecto)</Blueprint_Install_TableButcher.label>
+  
+  <!-- EN: mesa de maquinado(anteproyecto) -->
+  <Blueprint_Install_TableMachining.label>mesa de maquinado(anteproyecto)</Blueprint_Install_TableMachining.label>
+  
+  <!-- EN: mesa de escultor(anteproyecto) -->
+  <Blueprint_Install_TableSculpting.label>mesa de escultor(anteproyecto)</Blueprint_Install_TableSculpting.label>
+  
+  <!-- EN: mesa de cantería(anteproyecto) -->
+  <Blueprint_Install_TableStonecutter.label>mesa de cantería(anteproyecto)</Blueprint_Install_TableStonecutter.label>
+  
+  <!-- EN: telescopio(anteproyecto) -->
+  <Blueprint_Install_Telescope.label>telescopio(anteproyecto)</Blueprint_Install_Telescope.label>
+  
+  <!-- EN: gabinete para herramientas(anteproyecto) -->
+  <Blueprint_Install_ToolCabinet.label>gabinete para herramientas(anteproyecto)</Blueprint_Install_ToolCabinet.label>
+  
+  <!-- EN: televisión(anteproyecto) -->
+  <Blueprint_Install_TubeTelevision.label>televisión(anteproyecto)</Blueprint_Install_TubeTelevision.label>
+  
+  <!-- EN: mini torreta(anteproyecto) -->
+  <Blueprint_Install_Turret_MiniTurret.label>mini torreta(anteproyecto)</Blueprint_Install_Turret_MiniTurret.label>
+  
+  <!-- EN: mortero(anteproyecto) -->
+  <Blueprint_Install_Turret_Mortar.label>mortero(anteproyecto)</Blueprint_Install_Turret_Mortar.label>
+  
+  <!-- EN: célula de energía vanométrica(anteproyecto) -->
+  <Blueprint_Install_VanometricPowerCell.label>célula de energía vanométrica(anteproyecto)</Blueprint_Install_VanometricPowerCell.label>
+  
+  <!-- EN: monitor de signos vitales(anteproyecto) -->
+  <Blueprint_Install_VitalsMonitor.label>monitor de signos vitales(anteproyecto)</Blueprint_Install_VitalsMonitor.label>
+  
+  <!-- EN: escáner de largo alcance(anteproyecto) -->
+  <Blueprint_LongRangeMineralScanner.label>escáner de largo alcance(anteproyecto)</Blueprint_LongRangeMineralScanner.label>
+  
+  <!-- EN: altar(anteproyecto) -->
+  <Blueprint_MarriageSpot.label>altar(anteproyecto)</Blueprint_MarriageSpot.label>
+  
+  <!-- EN: baldosa de acero(anteproyecto) -->
+  <Blueprint_MetalTile.label>baldosa de acero(anteproyecto)</Blueprint_MetalTile.label>
+  
+  <!-- EN: bomba de humedad(anteproyecto) -->
+  <Blueprint_MoisturePump.label>bomba de humedad(anteproyecto)</Blueprint_MoisturePump.label>
+  
+  <!-- EN: multi-analizador(anteproyecto) -->
+  <Blueprint_MultiAnalyzer.label>multi-analizador(anteproyecto)</Blueprint_MultiAnalyzer.label>
+  
+  <!-- EN: dispensador de pasta nutritiva(anteproyecto) -->
+  <Blueprint_NutrientPasteDispenser.label>dispensador de pasta nutritiva(anteproyecto)</Blueprint_NutrientPasteDispenser.label>
+  
+  <!-- EN: baliza de comercio orbital(anteproyecto) -->
+  <Blueprint_OrbitalTradeBeacon.label>baliza de comercio orbital(anteproyecto)</Blueprint_OrbitalTradeBeacon.label>
+  
+  <!-- EN: lugar de fiestas(anteproyecto) -->
+  <Blueprint_PartySpot.label>lugar de fiestas(anteproyecto)</Blueprint_PartySpot.label>
+  
+  <!-- EN: enfriador pasivo(anteproyecto) -->
+  <Blueprint_PassiveCooler.label>enfriador pasivo(anteproyecto)</Blueprint_PassiveCooler.label>
+  
+  <!-- EN: baldosa de cemento(anteproyecto) -->
+  <Blueprint_PavedTile.label>baldosa de cemento(anteproyecto)</Blueprint_PavedTile.label>
+  
+  <!-- EN: maceta(anteproyecto) -->
+  <Blueprint_PlantPot.label>maceta(anteproyecto)</Blueprint_PlantPot.label>
+  
+  <!-- EN: lanzador de cápsulas(anteproyecto) -->
+  <Blueprint_PodLauncher.label>lanzador de cápsulas(anteproyecto)</Blueprint_PodLauncher.label>
+  
+  <!-- EN: mesa de póker(anteproyecto) -->
+  <Blueprint_PokerTable.label>mesa de póker(anteproyecto)</Blueprint_PokerTable.label>
+  
+  <!-- EN: conducto eléctrico(anteproyecto) -->
+  <Blueprint_PowerConduit.label>conducto eléctrico(anteproyecto)</Blueprint_PowerConduit.label>
+  
+  <!-- EN: interruptor(anteproyecto) -->
+  <Blueprint_PowerSwitch.label>interruptor(anteproyecto)</Blueprint_PowerSwitch.label>
+  
+  <!-- EN: cama lujosa(anteproyecto) -->
+  <Blueprint_RoyalBed.label>cama lujosa(anteproyecto)</Blueprint_RoyalBed.label>
+  
+  <!-- EN: bolsas de arena(anteproyecto) -->
+  <Blueprint_Sandbags.label>bolsas de arena(anteproyecto)</Blueprint_Sandbags.label>
+  
+  <!-- EN: sarcófago(anteproyecto) -->
+  <Blueprint_Sarcophagus.label>sarcófago(anteproyecto)</Blueprint_Sarcophagus.label>
+  
+  <!-- EN: estante(anteproyecto) -->
+  <Blueprint_Shelf.label>estante(anteproyecto)</Blueprint_Shelf.label>
+  
+  <!-- EN: viga estrutural de nave(anteproyecto) -->
+  <Blueprint_Ship_Beam.label>viga estrutural de nave(anteproyecto)</Blueprint_Ship_Beam.label>
+  
+  <!-- EN: ordenador central de nave(anteproyecto) -->
+  <Blueprint_Ship_ComputerCore.label>ordenador central de nave(anteproyecto)</Blueprint_Ship_ComputerCore.label>
+  
+  <!-- EN: sarcófago de criptosueño de nave(anteproyecto) -->
+  <Blueprint_Ship_CryptosleepCasket.label>sarcófago de criptosueño de nave(anteproyecto)</Blueprint_Ship_CryptosleepCasket.label>
+  
+  <!-- EN: motor de nave(anteproyecto) -->
+  <Blueprint_Ship_Engine.label>motor de nave(anteproyecto)</Blueprint_Ship_Engine.label>
+  
+  <!-- EN: reactor de nave(anteproyecto) -->
+  <Blueprint_Ship_Reactor.label>reactor de nave(anteproyecto)</Blueprint_Ship_Reactor.label>
+  
+  <!-- EN: módulo de sensores(anteproyecto) -->
+  <Blueprint_Ship_SensorCluster.label>módulo de sensores(anteproyecto)</Blueprint_Ship_SensorCluster.label>
+  
+  <!-- EN: baldosa de plata(anteproyecto) -->
+  <Blueprint_SilverTile.label>baldosa de plata(anteproyecto)</Blueprint_SilverTile.label>
+  
+  <!-- EN: mesa de investigación(anteproyecto) -->
+  <Blueprint_SimpleResearchBench.label>mesa de investigación(anteproyecto)</Blueprint_SimpleResearchBench.label>
+  
+  <!-- EN: lugar para dormir(anteproyecto) -->
+  <Blueprint_SleepingSpot.label>lugar para dormir(anteproyecto)</Blueprint_SleepingSpot.label>
+  
+  <!-- EN: paneles solares(anteproyecto) -->
+  <Blueprint_SolarGenerator.label>paneles solares(anteproyecto)</Blueprint_SolarGenerator.label>
+  
+  <!-- EN: lámpara de pie(anteproyecto) -->
+  <Blueprint_StandingLamp.label>lámpara de pie(anteproyecto)</Blueprint_StandingLamp.label>
+  
+  <!-- EN: lámpara de pie (azul)(anteproyecto) -->
+  <Blueprint_StandingLamp_Blue.label>lámpara de pie (azul)(anteproyecto)</Blueprint_StandingLamp_Blue.label>
+  
+  <!-- EN: lámpara de pie (verde)(anteproyecto) -->
+  <Blueprint_StandingLamp_Green.label>lámpara de pie (verde)(anteproyecto)</Blueprint_StandingLamp_Green.label>
+  
+  <!-- EN: lámpara de pie (rojo)(anteproyecto) -->
+  <Blueprint_StandingLamp_Red.label>lámpara de pie (rojo)(anteproyecto)</Blueprint_StandingLamp_Red.label>
+  
+  <!-- EN: baldosa estéril(anteproyecto) -->
+  <Blueprint_SterileTile.label>baldosa estéril(anteproyecto)</Blueprint_SterileTile.label>
+  
+  <!-- EN: taburete(anteproyecto) -->
+  <Blueprint_Stool.label>taburete(anteproyecto)</Blueprint_Stool.label>
+  
+  <!-- EN: lámpara solar(anteproyecto) -->
+  <Blueprint_SunLamp.label>lámpara solar(anteproyecto)</Blueprint_SunLamp.label>
+  
+  <!-- EN: mesa (1x2)(anteproyecto) -->
+  <Blueprint_Table1x2c.label>mesa (1x2)(anteproyecto)</Blueprint_Table1x2c.label>
+  
+  <!-- EN: mesa (2x2)(anteproyecto) -->
+  <Blueprint_Table2x2c.label>mesa (2x2)(anteproyecto)</Blueprint_Table2x2c.label>
+  
+  <!-- EN: mesa (2x4)(anteproyecto) -->
+  <Blueprint_Table2x4c.label>mesa (2x4)(anteproyecto)</Blueprint_Table2x4c.label>
+  
+  <!-- EN: mesa (3x3)(anteproyecto) -->
+  <Blueprint_Table3x3c.label>mesa (3x3)(anteproyecto)</Blueprint_Table3x3c.label>
+  
+  <!-- EN: mesa de carnicero(anteproyecto) -->
+  <Blueprint_TableButcher.label>mesa de carnicero(anteproyecto)</Blueprint_TableButcher.label>
+  
+  <!-- EN: mesa de maquinado(anteproyecto) -->
+  <Blueprint_TableMachining.label>mesa de maquinado(anteproyecto)</Blueprint_TableMachining.label>
+  
+  <!-- EN: mesa de escultor(anteproyecto) -->
+  <Blueprint_TableSculpting.label>mesa de escultor(anteproyecto)</Blueprint_TableSculpting.label>
+  
+  <!-- EN: mesa de cantería(anteproyecto) -->
+  <Blueprint_TableStonecutter.label>mesa de cantería(anteproyecto)</Blueprint_TableStonecutter.label>
+  
+  <!-- EN: baldosa de granito(anteproyecto) -->
+  <Blueprint_TileGranite.label>baldosa de granito(anteproyecto)</Blueprint_TileGranite.label>
+  
+  <!-- EN: baldosa de caliza(anteproyecto) -->
+  <Blueprint_TileLimestone.label>baldosa de caliza(anteproyecto)</Blueprint_TileLimestone.label>
+  
+  <!-- EN: baldosa de mármol(anteproyecto) -->
+  <Blueprint_TileMarble.label>baldosa de mármol(anteproyecto)</Blueprint_TileMarble.label>
+  
+  <!-- EN: baldosa de arenisca(anteproyecto) -->
+  <Blueprint_TileSandstone.label>baldosa de arenisca(anteproyecto)</Blueprint_TileSandstone.label>
+  
+  <!-- EN: baldosa de pizarra(anteproyecto) -->
+  <Blueprint_TileSlate.label>baldosa de pizarra(anteproyecto)</Blueprint_TileSlate.label>
+  
+  <!-- EN: gabinete para herramientas(anteproyecto) -->
+  <Blueprint_ToolCabinet.label>gabinete para herramientas(anteproyecto)</Blueprint_ToolCabinet.label>
+  
+  <!-- EN: antorcha(anteproyecto) -->
+  <Blueprint_TorchLamp.label>antorcha(anteproyecto)</Blueprint_TorchLamp.label>
+  
+  <!-- EN: cápsula de transporte(anteproyecto) -->
+  <Blueprint_TransportPod.label>cápsula de transporte(anteproyecto)</Blueprint_TransportPod.label>
+  
+  <!-- EN: mina antimateria(anteproyecto) -->
+  <Blueprint_TrapIED_AntigrainWarhead.label>mina antimateria(anteproyecto)</Blueprint_TrapIED_AntigrainWarhead.label>
+  
+  <!-- EN: mina PEM(anteproyecto) -->
+  <Blueprint_TrapIED_EMP.label>mina PEM(anteproyecto)</Blueprint_TrapIED_EMP.label>
+  
+  <!-- EN: mina de espuma cortafuego(anteproyecto) -->
+  <Blueprint_TrapIED_Firefoam.label>mina de espuma cortafuego(anteproyecto)</Blueprint_TrapIED_Firefoam.label>
+  
+  <!-- EN: mina(anteproyecto) -->
+  <Blueprint_TrapIED_HighExplosive.label>mina(anteproyecto)</Blueprint_TrapIED_HighExplosive.label>
+  
+  <!-- EN: mina incendiaria(anteproyecto) -->
+  <Blueprint_TrapIED_Incendiary.label>mina incendiaria(anteproyecto)</Blueprint_TrapIED_Incendiary.label>
+  
+  <!-- EN: televisión(anteproyecto) -->
+  <Blueprint_TubeTelevision.label>televisión(anteproyecto)</Blueprint_TubeTelevision.label>
+  
+  <!-- EN: torreta de cañón automática(anteproyecto) -->
+  <Blueprint_Turret_Autocannon.label>torreta de cañón automática(anteproyecto)</Blueprint_Turret_Autocannon.label>
+  
+  <!-- EN: mini torreta(anteproyecto) -->
+  <Blueprint_Turret_MiniTurret.label>mini torreta(anteproyecto)</Blueprint_Turret_MiniTurret.label>
+  
+  <!-- EN: mortero(anteproyecto) -->
+  <Blueprint_Turret_Mortar.label>mortero(anteproyecto)</Blueprint_Turret_Mortar.label>
+  
+  <!-- EN: torreta de uranio(anteproyecto) -->
+  <Blueprint_Turret_Sniper.label>cañón de uranio(anteproyecto)</Blueprint_Turret_Sniper.label>
+  
+  <!-- EN: conducto de ventilación(anteproyecto) -->
+  <Blueprint_Vent.label>conducto de ventilación(anteproyecto)</Blueprint_Vent.label>
+  
+  <!-- EN: monitor de signos vitales(anteproyecto) -->
+  <Blueprint_VitalsMonitor.label>monitor de signos vitales(anteproyecto)</Blueprint_VitalsMonitor.label>
+  
+  <!-- EN: muro(anteproyecto) -->
+  <Blueprint_Wall.label>muro(anteproyecto)</Blueprint_Wall.label>
+  
+  <!-- EN: molino de agua(anteproyecto) -->
+  <Blueprint_WatermillGenerator.label>molino de agua(anteproyecto)</Blueprint_WatermillGenerator.label>
+  
+  <!-- EN: conducto impermeable(anteproyecto) -->
+  <Blueprint_WaterproofConduit.label>conducto impermeable(anteproyecto)</Blueprint_WaterproofConduit.label>
+  
+  <!-- EN: aeroturbina(anteproyecto) -->
+  <Blueprint_WindTurbine.label>aeroturbina(anteproyecto)</Blueprint_WindTurbine.label>
+  
+  <!-- EN: generador a leña(anteproyecto) -->
+  <Blueprint_WoodFiredGenerator.label>generador a leña(anteproyecto)</Blueprint_WoodFiredGenerator.label>
+  
+  <!-- EN: piso de madera(anteproyecto) -->
+  <Blueprint_WoodPlankFloor.label>piso de madera(anteproyecto)</Blueprint_WoodPlankFloor.label>
+  
+  <!-- EN: Cadáver de alpaca -->
+  <Corpse_Alpaca.label>cadáver de alpaca</Corpse_Alpaca.label>
+  <!-- EN: El cadáver de un(a) alpaca. -->
+  <Corpse_Alpaca.description>El cuerpo sin vida de una alpaca.</Corpse_Alpaca.description>
+  
+  <!-- EN: Cadáver de alfacastor -->
+  <Corpse_Alphabeaver.label>cadáver de alfacastor</Corpse_Alphabeaver.label>
+  <!-- EN: El cadáver de un(a) alfacastor. -->
+  <Corpse_Alphabeaver.description>El cuerpo sin vida de un alfacastor.</Corpse_Alphabeaver.description>
+  
+  <!-- EN: Cadáver de oso pardo -->
+  <Corpse_Bear_Grizzly.label>cadáver de oso pardo</Corpse_Bear_Grizzly.label>
+  <!-- EN: El cadáver de un(a) oso pardo. -->
+  <Corpse_Bear_Grizzly.description>El cuerpo sin vida de un oso pardo.</Corpse_Bear_Grizzly.description>
+  
+  <!-- EN: Cadáver de oso polar -->
+  <Corpse_Bear_Polar.label>cadáver de oso polar</Corpse_Bear_Polar.label>
+  <!-- EN: El cadáver de un(a) oso polar. -->
+  <Corpse_Bear_Polar.description>El cuerpo sin vida de un oso polar.</Corpse_Bear_Polar.description>
+  
+  <!-- EN: Cadáver de bumalope -->
+  <Corpse_Boomalope.label>cadáver de bumalope</Corpse_Boomalope.label>
+  <!-- EN: El cadáver de un(a) bumalope. -->
+  <Corpse_Boomalope.description>El cuerpo sin vida de un bumalope.</Corpse_Boomalope.description>
+  
+  <!-- EN: Cadáver de rata-bum -->
+  <Corpse_Boomrat.label>cadáver de rata-bum</Corpse_Boomrat.label>
+  <!-- EN: El cadáver de un(a) rata-bum. -->
+  <Corpse_Boomrat.description>El cuerpo sin vida de una rata-bum.</Corpse_Boomrat.description>
+  
+  <!-- EN: Cadáver de capibara -->
+  <Corpse_Capybara.label>cadáver de capibara</Corpse_Capybara.label>
+  <!-- EN: El cadáver de un(a) capibara. -->
+  <Corpse_Capybara.description>El cuerpo sin vida de un capibara.</Corpse_Capybara.description>
+  
+  <!-- EN: Cadáver de caribú -->
+  <Corpse_Caribou.label>cadáver de caribú</Corpse_Caribou.label>
+  <!-- EN: El cadáver de un(a) caribú. -->
+  <Corpse_Caribou.description>El cuerpo sin vida de un caribú.</Corpse_Caribou.description>
+  
+  <!-- EN: Cadáver de casuario -->
+  <Corpse_Cassowary.label>cadáver de casuario</Corpse_Cassowary.label>
+  <!-- EN: El cadáver de un(a) casuario. -->
+  <Corpse_Cassowary.description>El cuerpo sin vida de un casuario.</Corpse_Cassowary.description>
+  
+  <!-- EN: Cadáver de gato -->
+  <Corpse_Cat.label>cadáver de gato</Corpse_Cat.label>
+  <!-- EN: El cadáver de un(a) gato. -->
+  <Corpse_Cat.description>El cuerpo sin vida de un gato.</Corpse_Cat.description>
+  
+  <!-- EN: Cadáver de pollo -->
+  <Corpse_Chicken.label>cadáver de pollo</Corpse_Chicken.label>
+  <!-- EN: El cadáver de un(a) pollo. -->
+  <Corpse_Chicken.description>El cuerpo sin vida de un pollo.</Corpse_Chicken.description>
+  
+  <!-- EN: Cadáver de chinchilla -->
+  <Corpse_Chinchilla.label>cadáver de chinchilla</Corpse_Chinchilla.label>
+  <!-- EN: El cadáver de un(a) chinchilla. -->
+  <Corpse_Chinchilla.description>El cuerpo sin vida de una chinchilla.</Corpse_Chinchilla.description>
+  
+  <!-- EN: Cadáver de cobra -->
+  <Corpse_Cobra.label>cadáver de cobra</Corpse_Cobra.label>
+  <!-- EN: El cadáver de un(a) cobra. -->
+  <Corpse_Cobra.description>El cuerpo sin vida de una cobra.</Corpse_Cobra.description>
+  
+  <!-- EN: Cadáver de puma -->
+  <Corpse_Cougar.label>cadáver de puma</Corpse_Cougar.label>
+  <!-- EN: El cadáver de un(a) puma. -->
+  <Corpse_Cougar.description>El cuerpo sin vida de un puma.</Corpse_Cougar.description>
+  
+  <!-- EN: Cadáver de vaca -->
+  <Corpse_Cow.label>cadáver de vaca</Corpse_Cow.label>
+  <!-- EN: El cadáver de un(a) vaca. -->
+  <Corpse_Cow.description>El cuerpo sin vida de una vaca.</Corpse_Cow.description>
+  
+  <!-- EN: Cadáver de venado -->
+  <Corpse_Deer.label>cadáver de venado</Corpse_Deer.label>
+  <!-- EN: El cadáver de un(a) venado. -->
+  <Corpse_Deer.description>El cuerpo sin vida de un venado.</Corpse_Deer.description>
+  
+  <!-- EN: Cadáver de dromedario -->
+  <Corpse_Dromedary.label>cadáver de dromedario</Corpse_Dromedary.label>
+  <!-- EN: El cadáver de un(a) dromedario. -->
+  <Corpse_Dromedary.description>El cuerpo sin vida de un dromedario.</Corpse_Dromedary.description>
+  
+  <!-- EN: Cadáver de elefante -->
+  <Corpse_Elephant.label>cadáver de elefante</Corpse_Elephant.label>
+  <!-- EN: El cadáver de un(a) elefante. -->
+  <Corpse_Elephant.description>El cuerpo sin vida de un elefante.</Corpse_Elephant.description>
+  
+  <!-- EN: Cadáver de ciervo canadiense -->
+  <Corpse_Elk.label>cadáver de ciervo canadiense</Corpse_Elk.label>
+  <!-- EN: El cadáver de un(a) ciervo canadiense. -->
+  <Corpse_Elk.description>El cuerpo sin vida de un ciervo canadiense.</Corpse_Elk.description>
+  
+  <!-- EN: Cadáver de emú -->
+  <Corpse_Emu.label>cadáver de emú</Corpse_Emu.label>
+  <!-- EN: El cadáver de un(a) emú. -->
+  <Corpse_Emu.description>El cuerpo sin vida de un emú.</Corpse_Emu.description>
+  
+  <!-- EN: Cadáver de zorro ártico -->
+  <Corpse_Fox_Arctic.label>cadáver de zorro ártico</Corpse_Fox_Arctic.label>
+  <!-- EN: El cadáver de un(a) zorro ártico. -->
+  <Corpse_Fox_Arctic.description>El cuerpo sin vida de un zorro ártico.</Corpse_Fox_Arctic.description>
+  
+  <!-- EN: Cadáver de zorro del desierto -->
+  <Corpse_Fox_Fennec.label>cadáver de zorro del desierto</Corpse_Fox_Fennec.label>
+  <!-- EN: El cadáver de un(a) zorro del desierto. -->
+  <Corpse_Fox_Fennec.description>El cuerpo sin vida de un zorro del desierto.</Corpse_Fox_Fennec.description>
+  
+  <!-- EN: Cadáver de zorro rojo -->
+  <Corpse_Fox_Red.label>cadáver de zorro rojo</Corpse_Fox_Red.label>
+  <!-- EN: El cadáver de un(a) zorro rojo. -->
+  <Corpse_Fox_Red.description>El cuerpo sin vida de un zorro rojo.</Corpse_Fox_Red.description>
+  
+  <!-- EN: Cadáver de gacela -->
+  <Corpse_Gazelle.label>cadáver de gacela</Corpse_Gazelle.label>
+  <!-- EN: El cadáver de un(a) gacela. -->
+  <Corpse_Gazelle.description>El cuerpo sin vida de una gacela.</Corpse_Gazelle.description>
+  
+  <!-- EN: Cadáver de liebre -->
+  <Corpse_Hare.label>cadáver de liebre</Corpse_Hare.label>
+  <!-- EN: El cadáver de un(a) liebre. -->
+  <Corpse_Hare.description>El cuerpo sin vida de una liebre.</Corpse_Hare.description>
+  
+  <!-- EN: Cadáver de humano -->
+  <Corpse_Human.label>cadáver humano</Corpse_Human.label>
+  <!-- EN: El cadáver de un(a) humano. -->
+  <Corpse_Human.description>El cuerpo sin vida de un ser humano.</Corpse_Human.description>
+  
+  <!-- EN: Cadáver de husky -->
+  <Corpse_Husky.label>cadáver de husky</Corpse_Husky.label>
+  <!-- EN: El cadáver de un(a) husky. -->
+  <Corpse_Husky.description>El cuerpo sin vida de un Husky.</Corpse_Husky.description>
+  
+  <!-- EN: Cadáver de íbice -->
+  <Corpse_Ibex.label>cadáver de íbice</Corpse_Ibex.label>
+  <!-- EN: El cadáver de un(a) íbice. -->
+  <Corpse_Ibex.description>El cuerpo sin vida de un íbice.</Corpse_Ibex.description>
+  
+  <!-- EN: Cadáver de iguana -->
+  <Corpse_Iguana.label>cadáver de iguana</Corpse_Iguana.label>
+  <!-- EN: El cadáver de un(a) iguana. -->
+  <Corpse_Iguana.description>El cuerpo sin vida de una iguana.</Corpse_Iguana.description>
+  
+  <!-- EN: Cadáver de labrador retriever -->
+  <Corpse_LabradorRetriever.label>cadáver de labrador retriever</Corpse_LabradorRetriever.label>
+  <!-- EN: El cadáver de un(a) labrador retriever. -->
+  <Corpse_LabradorRetriever.description>El cuerpo sin vida de un labrador retriever.</Corpse_LabradorRetriever.description>
+  
+  <!-- EN: Cadáver de lince -->
+  <Corpse_Lynx.label>cadáver de lince</Corpse_Lynx.label>
+  <!-- EN: El cadáver de un(a) lince. -->
+  <Corpse_Lynx.description>El cuerpo sin vida de un lince.</Corpse_Lynx.description>
+  
+  <!-- EN: Cadáver de centípedo -->
+  <Corpse_Mech_Centipede.label>cuerpo de centípedo</Corpse_Mech_Centipede.label>
+  <!-- EN: El cadáver de un(a) centípedo. -->
+  <Corpse_Mech_Centipede.description>El cuerpo inerte de un centípedo.</Corpse_Mech_Centipede.description>
+  
+  <!-- EN: Cadáver de lancero -->
+  <Corpse_Mech_Lancer.label>cuerpo de lancero</Corpse_Mech_Lancer.label>
+  <!-- EN: El cadáver de un(a) lancero. -->
+  <Corpse_Mech_Lancer.description>El cuerpo inerte de un lancero.</Corpse_Mech_Lancer.description>
+  
+  <!-- EN: Cadáver de segador -->
+  <Corpse_Mech_Scyther.label>cuerpo de segador</Corpse_Mech_Scyther.label>
+  <!-- EN: El cadáver de un(a) segador. -->
+  <Corpse_Mech_Scyther.description>El cuerpo inerte de un segador.</Corpse_Mech_Scyther.description>
+  
+  <!-- EN: Cadáver de megascarabajo -->
+  <Corpse_Megascarab.label>cadáver de megascarabajo</Corpse_Megascarab.label>
+  <!-- EN: El cadáver de un(a) megascarabajo. -->
+  <Corpse_Megascarab.description>El cuerpo sin vida de un megascarabajo.</Corpse_Megascarab.description>
+  
+  <!-- EN: Cadáver de mega perezoso -->
+  <Corpse_Megasloth.label>cadáver de mega perezoso</Corpse_Megasloth.label>
+  <!-- EN: El cadáver de un(a) mega perezoso. -->
+  <Corpse_Megasloth.description>El cuerpo sin vida de un mega perezoso.</Corpse_Megasloth.description>
+  
+  <!-- EN: Cadáver de megaraña -->
+  <Corpse_Megaspider.label>cadáver de megaraña</Corpse_Megaspider.label>
+  <!-- EN: El cadáver de un(a) megaraña. -->
+  <Corpse_Megaspider.description>El cuerpo sin vida de una megaraña.</Corpse_Megaspider.description>
+  
+  <!-- EN: Cadáver de mono -->
+  <Corpse_Monkey.label>cadáver de mono</Corpse_Monkey.label>
+  <!-- EN: El cadáver de un(a) mono. -->
+  <Corpse_Monkey.description>El cuerpo sin vida de un mono.</Corpse_Monkey.description>
+  
+  <!-- EN: Cadáver de múfalo -->
+  <Corpse_Muffalo.label>cadáver de múfalo</Corpse_Muffalo.label>
+  <!-- EN: El cadáver de un(a) múfalo. -->
+  <Corpse_Muffalo.description>El cuerpo sin vida de un múfalo.</Corpse_Muffalo.description>
+  
+  <!-- EN: Cadáver de avestruz -->
+  <Corpse_Ostrich.label>cadáver de avestruz</Corpse_Ostrich.label>
+  <!-- EN: El cadáver de un(a) avestruz. -->
+  <Corpse_Ostrich.description>El cuerpo sin vida de una avestruz.</Corpse_Ostrich.description>
+  
+  <!-- EN: Cadáver de pantera -->
+  <Corpse_Panther.label>cadáver de pantera</Corpse_Panther.label>
+  <!-- EN: El cadáver de un(a) pantera. -->
+  <Corpse_Panther.description>El cuerpo sin vida de una pantera.</Corpse_Panther.description>
+  
+  <!-- EN: Cadáver de cerdo -->
+  <Corpse_Pig.label>cadáver de cerdo</Corpse_Pig.label>
+  <!-- EN: El cadáver de un(a) cerdo. -->
+  <Corpse_Pig.description>El cuerpo sin vida de un cerdo.</Corpse_Pig.description>
+  
+  <!-- EN: Cadáver de mapache -->
+  <Corpse_Raccoon.label>cadáver de mapache</Corpse_Raccoon.label>
+  <!-- EN: El cadáver de un(a) mapache. -->
+  <Corpse_Raccoon.description>El cuerpo sin vida de un mapache.</Corpse_Raccoon.description>
+  
+  <!-- EN: Cadáver de rata -->
+  <Corpse_Rat.label>cadáver de rata</Corpse_Rat.label>
+  <!-- EN: El cadáver de un(a) rata. -->
+  <Corpse_Rat.description>El cuerpo sin vida de una rata.</Corpse_Rat.description>
+  
+  <!-- EN: Cadáver de rinoceronte -->
+  <Corpse_Rhinoceros.label>cadáver de rinoceronte</Corpse_Rhinoceros.label>
+  <!-- EN: El cadáver de un(a) rinoceronte. -->
+  <Corpse_Rhinoceros.description>El cuerpo sin vida de un rinoceronte.</Corpse_Rhinoceros.description>
+  
+  <!-- EN: Cadáver de liebre blanca -->
+  <Corpse_Snowhare.label>cadáver de liebre blanca</Corpse_Snowhare.label>
+  <!-- EN: El cadáver de un(a) liebre blanca. -->
+  <Corpse_Snowhare.description>El cuerpo sin vida de una liebre blanca.</Corpse_Snowhare.description>
+  
+  <!-- EN: Cadáver de espelópedo -->
+  <Corpse_Spelopede.label>cadáver de espelópedo</Corpse_Spelopede.label>
+  <!-- EN: El cadáver de un(a) espelópedo. -->
+  <Corpse_Spelopede.description>El cuerpo sin vida de un espelópedo.</Corpse_Spelopede.description>
+  
+  <!-- EN: Cadáver de ardilla -->
+  <Corpse_Squirrel.label>cadáver de ardilla</Corpse_Squirrel.label>
+  <!-- EN: El cadáver de un(a) ardilla. -->
+  <Corpse_Squirrel.description>El cuerpo sin vida de una ardilla.</Corpse_Squirrel.description>
+  
+  <!-- EN: Cadáver de thrumbo -->
+  <Corpse_Thrumbo.label>cadáver de trumbo</Corpse_Thrumbo.label>
+  <!-- EN: El cadáver de un(a) thrumbo. -->
+  <Corpse_Thrumbo.description>El cuerpo sin vida de un trumbo.</Corpse_Thrumbo.description>
+  
+  <!-- EN: Cadáver de tortuga -->
+  <Corpse_Tortoise.label>cadáver de tortuga</Corpse_Tortoise.label>
+  <!-- EN: El cadáver de un(a) tortuga. -->
+  <Corpse_Tortoise.description>El cuerpo sin vida de una tortuga.</Corpse_Tortoise.description>
+  
+  <!-- EN: Cadáver de pavo -->
+  <Corpse_Turkey.label>cadáver de pavo</Corpse_Turkey.label>
+  <!-- EN: El cadáver de un(a) pavo. -->
+  <Corpse_Turkey.description>El cuerpo sin vida de un pavo.</Corpse_Turkey.description>
+  
+  <!-- EN: Cadáver de wargo -->
+  <Corpse_Warg.label>cadáver de wargo</Corpse_Warg.label>
+  <!-- EN: El cadáver de un(a) wargo. -->
+  <Corpse_Warg.description>El cuerpo sin vida de un wargo.</Corpse_Warg.description>
+  
+  <!-- EN: Cadáver de jabalí -->
+  <Corpse_WildBoar.label>cadáver de jabalí</Corpse_WildBoar.label>
+  <!-- EN: El cadáver de un(a) jabalí. -->
+  <Corpse_WildBoar.description>El cuerpo sin vida de un jabalí.</Corpse_WildBoar.description>
+  
+  <!-- EN: Cadáver de lobo ártico -->
+  <Corpse_Wolf_Arctic.label>cadáver de lobo ártico</Corpse_Wolf_Arctic.label>
+  <!-- EN: El cadáver de un(a) lobo ártico. -->
+  <Corpse_Wolf_Arctic.description>El cuerpo sin vida de un lobo ártico.</Corpse_Wolf_Arctic.description>
+  
+  <!-- EN: Cadáver de lobo pardo -->
+  <Corpse_Wolf_Timber.label>cadáver de lobo pardo</Corpse_Wolf_Timber.label>
+  <!-- EN: El cadáver de un(a) lobo pardo. -->
+  <Corpse_Wolf_Timber.description>El cuerpo sin vida de un lobo pardo.</Corpse_Wolf_Timber.description>
+  
+  <!-- EN: Cadáver de yorkshire terrier -->
+  <Corpse_YorkshireTerrier.label>cadáver de yorkshire terrier</Corpse_YorkshireTerrier.label>
+  <!-- EN: El cadáver de un(a) yorkshire terrier. -->
+  <Corpse_YorkshireTerrier.description>El cuerpo sin vida de un yorkshire terrier.</Corpse_YorkshireTerrier.description>
+  
+  <!-- EN: cama (animal)(en construcción) -->
+  <Frame_AnimalBed.label>cama (animal)(en construcción)</Frame_AnimalBed.label>
+  <!-- EN: Una cama suave donde dormirán animales. Cabe cualquier animal. -->
+  <Frame_AnimalBed.description>Una cama suave donde dormirán animales. Cabe cualquier animal.</Frame_AnimalBed.description>
+  
+  <!-- EN: caja de dormir(en construcción) -->
+  <Frame_AnimalSleepingBox.label>caja de dormir(en construcción)</Frame_AnimalSleepingBox.label>
+  <!-- EN: Una pequeña caja donde dormirán los animales. Caben animales pequeños como pollos, gatos o perros pequeños. -->
+  <Frame_AnimalSleepingBox.description>Una pequeña caja donde dormirán los animales. Caben animales pequeños como pollos, gatos o perros pequeños.</Frame_AnimalSleepingBox.description>
+  
+  <!-- EN: lugar para dormir (animal)(en construcción) -->
+  <Frame_AnimalSleepingSpot.label>lugar para dormir (animal)(en construcción)</Frame_AnimalSleepingSpot.label>
+  <!-- EN: Designa un lugar en el suelo donde dormirá un animal domesticado. -->
+  <Frame_AnimalSleepingSpot.description>Designa un lugar en el suelo donde dormirá un animal domesticado.</Frame_AnimalSleepingSpot.description>
+  
+  <!-- EN: sillón(en construcción) -->
+  <Frame_Armchair.label>sillón(en construcción)</Frame_Armchair.label>
+  <!-- EN: Un asiento grande, suave y cómodo. Excelente para relajarse. -->
+  <Frame_Armchair.description>Un asiento grande, suave y cómodo. Excelente para relajarse.</Frame_Armchair.description>
+  
+  <!-- EN: puerta automática(en construcción) -->
+  <Frame_Autodoor.label>puerta automática(en construcción)</Frame_Autodoor.label>
+  <!-- EN: Separa habitaciones. La automatización de esta puerta permite a la gente pasar a traves de ella sin ser ralentizados. -->
+  <Frame_Autodoor.description>Separa habitaciones. La automatización de esta puerta permite a la gente pasar a traves de ella sin ser ralentizados.</Frame_Autodoor.description>
+  
+  <!-- EN: batería(en construcción) -->
+  <Frame_Battery.label>batería(en construcción)</Frame_Battery.label>
+  <!-- EN: Almacena electricidad cuando hay exceso de energía y la devuelve cuando no lo hay. Atención, las baterías cargadas corren riesgo de explosión cuando se incendian o se mojan. -->
+  <Frame_Battery.description>Almacena electricidad cuando hay exceso de energía y la devuelve cuando no lo hay. Atención, las baterías cargadas corren riesgo de explosión cuando se incendian o se mojan.</Frame_Battery.description>
+  
+  <!-- EN: cama(en construcción) -->
+  <Frame_Bed.label>cama(en construcción)</Frame_Bed.label>
+  <!-- EN: Un cómodo colchón con sábanas sobre una estructura para descansar. Efectividad del descanso: 10/10 -->
+  <Frame_Bed.description>Un cómodo colchón con sábanas sobre una estructura para descansar.</Frame_Bed.description>
+  
+  <!-- EN: cama enrrollable(en construcción) -->
+  <Frame_Bedroll.label>cama enrrollable(en construcción)</Frame_Bedroll.label>
+  <!-- EN: Una cama simple que se sienta en el suelo, generalmente hecha de tela o cuero, a menudo forrada con piel. Es ligero y puede enrollarse para facilitar el transporte, pero no es tan cómodo como una cama típica. -->
+  <Frame_Bedroll.description>Una cama simple que se sienta en el suelo, generalmente hecha de tela o cuero, a menudo forrada con piel. Es ligero y puede enrollarse para facilitar el transporte, pero no es tan cómodo como una cama típica.</Frame_Bedroll.description>
+  
+  <!-- EN: cama doble enrrollable(en construcción) -->
+  <Frame_BedrollDouble.label>cama doble enrrollable(en construcción)</Frame_BedrollDouble.label>
+  <!-- EN: Una simple cama doble que se sienta en el suelo, generalmente hecha de tela o cuero, a menudo forrada con piel. Es ligero y puede enrollarse para facilitar el transporte, pero no es tan cómodo como una cama típica. -->
+  <Frame_BedrollDouble.description>Una simple cama doble que se sienta en el suelo, generalmente hecha de tela o cuero, a menudo forrada con piel. Es ligero y puede enrollarse para facilitar el transporte, pero no es tan cómodo como una cama típica.</Frame_BedrollDouble.description>
+  
+  <!-- EN: mesa de billar(en construcción) -->
+  <Frame_BilliardsTable.label>mesa de billar(en construcción)</Frame_BilliardsTable.label>
+  <!-- EN: Una mesa para jugar una variedad de juegos de billar. -->
+  <Frame_BilliardsTable.description>Una mesa para jugar una variedad de juegos de billar.</Frame_BilliardsTable.description>
+  
+  <!-- EN: refinería de quimicombustible(en construcción) -->
+  <Frame_BiofuelRefinery.label>refinería de quimicombustible(en construcción)</Frame_BiofuelRefinery.label>
+  <!-- EN: Refina la materia biológica como la madera o la materia vegetal en quimicombustible. -->
+  <Frame_BiofuelRefinery.description>Refina la materia biológica como la madera o la materia vegetal en quimicombustible.</Frame_BiofuelRefinery.description>
+  
+  <!-- EN: cervecería(en construcción) -->
+  <Frame_Brewery.label>cervecería(en construcción)</Frame_Brewery.label>
+  <!-- EN: Un banco de trabajo con todo el equipo necesario para mezclar mosto para la producción de cerveza. El mosto debe fermentarse para que finalmente se convierta en cerveza. -->
+  <Frame_Brewery.description>Un banco de trabajo con todo el equipo necesario para elaborar cerveza. El mosto debe fermentarse para que finalmente se convierta en cerveza.</Frame_Brewery.description>
+  
+  <!-- EN: puente(en construcción) -->
+  <Frame_Bridge.label>puente(en construcción)</Frame_Bridge.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_Bridge.description>Terreno en proceso de construcción.</Frame_Bridge.description>
+  
+  <!-- EN: zona de carnicero(en construcción) -->
+  <Frame_ButcherSpot.label>zona de carnicero(en construcción)</Frame_ButcherSpot.label>
+  <!-- EN: Un lugar para descuartizar animales. Debido a la falta de equipo, la carnicería solo produce el 70% de la carne y el cuero de cada criatura. -->
+  <Frame_ButcherSpot.description>Un lugar para descuartizar animales. Debido a la falta de equipo, la carnicería solo produce el 70% de la carne y el cuero de cada criatura.</Frame_ButcherSpot.description>
+  
+  <!-- EN: fogata(en construcción) -->
+  <Frame_Campfire.label>fogata(en construcción)</Frame_Campfire.label>
+  <!-- EN: Una fuente de calor temporal que arderá durante unos pocos días. Como con todas las fuentes de calor, debe ser ubicado en interiores para que pueda calentar un espacio cerrado. -->
+  <Frame_Campfire.description>Una fuente de calor temporal que arderá durante unos pocos días. Como con todas las fuentes de calor, debe ser ubicado en interiores para que pueda calentar un espacio cerrado.</Frame_Campfire.description>
+  
+  <!-- EN: lugar de carga para caravanas(en construcción) -->
+  <Frame_CaravanPackingSpot.label>lugar de carga para caravanas(en construcción)</Frame_CaravanPackingSpot.label>
+  <!-- EN: Designa un lugar donde se formarán las caravanas. -->
+  <Frame_CaravanPackingSpot.description>Designa un lugar donde se formarán las caravanas.</Frame_CaravanPackingSpot.description>
+  
+  <!-- EN: alfombra azul(en construcción) -->
+  <Frame_CarpetBlue.label>alfombra azul(en construcción)</Frame_CarpetBlue.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_CarpetBlue.description>Terreno en proceso de construcción.</Frame_CarpetBlue.description>
+  
+  <!-- EN: alfombra color crema(en construcción) -->
+  <Frame_CarpetCream.label>alfombra crema(en construcción)</Frame_CarpetCream.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_CarpetCream.description>Terreno en proceso de construcción.</Frame_CarpetCream.description>
+  
+  <!-- EN: alfombra oscura(en construcción) -->
+  <Frame_CarpetDark.label>alfombra oscura(en construcción)</Frame_CarpetDark.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_CarpetDark.description>Terreno en proceso de construcción.</Frame_CarpetDark.description>
+  
+  <!-- EN: alfombra verde(en construcción) -->
+  <Frame_CarpetGreen.label>alfombra verde(en construcción)</Frame_CarpetGreen.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_CarpetGreen.description>Terreno en proceso de construcción.</Frame_CarpetGreen.description>
+  
+  <!-- EN: alfombra roja(en construcción) -->
+  <Frame_CarpetRed.label>alfombra roja(en construcción)</Frame_CarpetRed.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_CarpetRed.description>Terreno en proceso de construcción.</Frame_CarpetRed.description>
+  
+  <!-- EN: generador a quimicombustible(en construcción) -->
+  <Frame_ChemfuelPoweredGenerator.label>generador a quimicombustible(en construcción)</Frame_ChemfuelPoweredGenerator.label>
+  <!-- EN: Produce energía consumiendo quimicombustible. Debe ser alimentado a mano periodicamente. -->
+  <Frame_ChemfuelPoweredGenerator.description>Produce energía consumiendo quimicombustible. Debe ser alimentado a mano periodicamente.</Frame_ChemfuelPoweredGenerator.description>
+  
+  <!-- EN: mesa de ajedrez(en construcción) -->
+  <Frame_ChessTable.label>mesa de ajedrez(en construcción)</Frame_ChessTable.label>
+  <!-- EN: El antiguo juego de los reyes. Divertido durante unas horas de vez en cuando, incluso jugando solo. -->
+  <Frame_ChessTable.description>El antiguo juego de los reyes. Divertido durante unas horas de vez en cuando, incluso jugando solo.</Frame_ChessTable.description>
+  
+  <!-- EN: consola de comunicaciones(en construcción) -->
+  <Frame_CommsConsole.label>consola de comunicaciones(en construcción)</Frame_CommsConsole.label>
+  <!-- EN: En este lugar puedes ponerte en contacto con facciones y naves cercanas para negociar y comerciar. -->
+  <Frame_CommsConsole.description>En este lugar puedes ponerte en contacto con facciones y naves cercanas para negociar y comerciar.</Frame_CommsConsole.description>
+  
+  <!-- EN: hormigón(en construcción) -->
+  <Frame_Concrete.label>hormigón(en construcción)</Frame_Concrete.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_Concrete.description>Terreno en proceso de construcción.</Frame_Concrete.description>
+  
+  <!-- EN: refrigerador(en construcción) -->
+  <Frame_Cooler.label>refrigerador(en construcción)</Frame_Cooler.label>
+  <!-- EN: Un dispositivo eléctrico que puede ser empotrado en un muro y enfría una habitación. Su tubo de escape produce mucho calor. Puede utilizarse para enfriar habitaciones durante el verano o para crear una habitación frigorífica. -->
+  <Frame_Cooler.description>Un dispositivo eléctrico que puede ser empotrado en un muro y enfría una habitación. Su tubo de escape produce mucho calor. Puede utilizarse para enfriar habitaciones durante el verano o para crear una habitación frigorífica.</Frame_Cooler.description>
+  
+  <!-- EN: zona de artesanía(en construcción) -->
+  <Frame_CraftingSpot.label>zona de artesanía(en construcción)</Frame_CraftingSpot.label>
+  <!-- EN: Un lugar donde se puede crear objetos simples como arcos y cuchillos improvisados. -->
+  <Frame_CraftingSpot.description>Un lugar donde se puede crear objetos simples como arcos y cuchillos improvisados.</Frame_CraftingSpot.description>
+  
+  <!-- EN: sarcófago de criptosueño(en construcción) -->
+  <Frame_CryptosleepCasket.label>sarcófago de criptosueño(en construcción)</Frame_CryptosleepCasket.label>
+  <!-- EN: Un sarcófago autoalimentado y diseñado para mantener a una persona con vida en un estado de animación suspendida durante muchos años. -->
+  <Frame_CryptosleepCasket.description>Un sarcófago autoalimentado y diseñado para mantener a una persona con vida en un estado de animación suspendida durante muchos años.</Frame_CryptosleepCasket.description>
+  
+  <!-- EN: taladro de profundidad(en construcción) -->
+  <Frame_DeepDrill.label>taladro de profundidad(en construcción)</Frame_DeepDrill.label>
+  <!-- EN: Un taladro montado capaz de extraer minerales de las profundidades del suelo. Usa el escáner de profundidades para encontrar las vetas de minerales. -->
+  <Frame_DeepDrill.description>Un taladro montado capaz de extraer minerales de las profundidades del suelo. Usa el escáner de profundidades para encontrar las vetas de minerales.</Frame_DeepDrill.description>
+  
+  <!-- EN: silla de comedor(en construcción) -->
+  <Frame_DiningChair.label>silla de comedor(en construcción)</Frame_DiningChair.label>
+  <!-- EN: Una silla cómoda y agradable para sentarse a la mesa. -->
+  <Frame_DiningChair.description>Una silla cómoda y agradable para sentarse a la mesa.</Frame_DiningChair.description>
+  
+  <!-- EN: puerta(en construcción) -->
+  <Frame_Door.label>puerta(en construcción)</Frame_Door.label>
+  <!-- EN: Separa habitaciones. Debe ser abierta y cerrada manualmente, lo que ralentizará el paso de la gente. -->
+  <Frame_Door.description>Separa habitaciones. Debe ser abierta y cerrada manualmente, lo que ralentizará el paso de la gente.</Frame_Door.description>
+  
+  <!-- EN: cama doble(en construcción) -->
+  <Frame_DoubleBed.label>cama doble(en construcción)</Frame_DoubleBed.label>
+  <!-- EN: Una simple cama matrimonial para dos personas. -->
+  <Frame_DoubleBed.description>Una simple cama matrimonial para dos personas.</Frame_DoubleBed.description>
+  
+  <!-- EN: doble lugar para dormir(en construcción) -->
+  <Frame_DoubleSleepingSpot.label>doble lugar para dormir(en construcción)</Frame_DoubleSleepingSpot.label>
+  <!-- EN: Designa un lugar en el suelo donde dos personas deben dormir juntas. No es cómodo. -->
+  <Frame_DoubleSleepingSpot.description>Designa un lugar en el suelo donde dos personas deben dormir juntas. No es cómodo.</Frame_DoubleSleepingSpot.description>
+  
+  <!-- EN: cómoda(en construcción) -->
+  <Frame_Dresser.label>cómoda(en construcción)</Frame_Dresser.label>
+  <!-- EN: Da un pequeño bono de comodidad a todas las camas cercanas. Colocar más de una cómoda cerca de la misma cama no tendrá ningún efecto. -->
+  <Frame_Dresser.description>Da un pequeño bono de comodidad a todas las camas cercanas. Colocar más de una cómoda cerca de la misma cama no tendrá ningún efecto.</Frame_Dresser.description>
+  
+  <!-- EN: laboratorio de drogas(en construcción) -->
+  <Frame_DrugLab.label>laboratorio de drogas(en construcción)</Frame_DrugLab.label>
+  <!-- EN: Una mesa de trabajo, equipada con diferentes equipos de medición, quemadores y varios contenedores. Aquí se preparan una variedad de drogas. -->
+  <Frame_DrugLab.description>Una mesa de trabajo, equipada con diferentes equipos de medición, quemadores y varios contenedores. Aquí se preparan una variedad de drogas.</Frame_DrugLab.description>
+  
+  <!-- EN: crematorio eléctrico(en construcción) -->
+  <Frame_ElectricCrematorium.label>crematorio eléctrico(en construcción)</Frame_ElectricCrematorium.label>
+  <!-- EN: Un enorme crematorio de piedra que hace evaporar cadáveres con temperaturas extremadamente altas. -->
+  <Frame_ElectricCrematorium.description>Un enorme crematorio de piedra que hace evaporar cadáveres con temperaturas extremadamente altas.</Frame_ElectricCrematorium.description>
+  
+  <!-- EN: fundición eléctrica(en construcción) -->
+  <Frame_ElectricSmelter.label>fundición eléctrica(en construcción)</Frame_ElectricSmelter.label>
+  <!-- EN: Extrae metales aprovechables de escombros metálicos y de otros objetos metálicos. Consume mucha energía. -->
+  <Frame_ElectricSmelter.description>Extrae metales aprovechables de escombros metálicos y de otros objetos metálicos. Consume mucha energía.</Frame_ElectricSmelter.description>
+  
+  <!-- EN: forja eléctrica(en construcción) -->
+  <Frame_ElectricSmithy.label>forja eléctrica(en construcción)</Frame_ElectricSmithy.label>
+  <!-- EN: Una estación eléctrica equipada para la forja de armas y herramientas no mecánicas. -->
+  <Frame_ElectricSmithy.description>Una estación eléctrica equipada para la forja de armas y herramientas no mecánicas.</Frame_ElectricSmithy.description>
+  
+  <!-- EN: estufa eléctrica(en construcción) -->
+  <Frame_ElectricStove.label>estufa eléctrica(en construcción)</Frame_ElectricStove.label>
+  <!-- EN: Un horno y unas parrilas eléctricas para preparar alimentos. -->
+  <Frame_ElectricStove.description>Un horno y unas parrilas eléctricas para preparar alimentos.</Frame_ElectricStove.description>
+  
+  <!-- EN: mesa de sastrería eléctrica(en construcción) -->
+  <Frame_ElectricTailoringBench.label>mesa de sastrería eléctrica(en construcción)</Frame_ElectricTailoringBench.label>
+  <!-- EN: Una mesa de trabajo con una máquina de oser para confeccionar ropas rápidamente. Puede trabajar sin electricidad al 50% de la velocidad normal. -->
+  <Frame_ElectricTailoringBench.description>Una mesa de trabajo con una máquina de oser para confeccionar ropas rápidamente. Puede trabajar sin electricidad al 50% de la velocidad normal.</Frame_ElectricTailoringBench.description>
+  
+  <!-- EN: mesa auxiliar(en construcción) -->
+  <Frame_EndTable.label>mesa auxiliar(en construcción)</Frame_EndTable.label>
+  <!-- EN: Una mesita de noche. Hace que las camas cercanas sean un poco más cómodas. Deben ser colocados directamente adyacentes a su cabeza. Colocar más de una mesa auxiliar cerca de la misma cama no tendrá ningún efecto. -->
+  <Frame_EndTable.description>Una mesita de noche. Hace que las camas cercanas sean un poco más cómodas. Deben ser colocados directamente adyacentes a su cabeza. Colocar más de una mesa auxiliar cerca de la misma cama no tendrá ningún efecto.</Frame_EndTable.description>
+  
+  <!-- EN: mesa de fabricación(en construcción) -->
+  <Frame_FabricationBench.label>mesa de fabricación(en construcción)</Frame_FabricationBench.label>
+  <!-- EN: Un banco de trabajo equipado con herramientas avanzadas para producir maravillas tecnológicas a partir de materiales más sencillos. -->
+  <Frame_FabricationBench.description>Un banco de trabajo equipado con herramientas avanzadas para producir maravillas tecnológicas a partir de materiales más sencillos.</Frame_FabricationBench.description>
+  
+  <!-- EN: barril fermentador(en construcción) -->
+  <Frame_FermentingBarrel.label>barril fermentador(en construcción)</Frame_FermentingBarrel.label>
+  <!-- EN: Un barril para fermentar el mosto crudo y convertirlo en cerveza. -->
+  <Frame_FermentingBarrel.description>Un barril para fermentar el mosto crudo y convertirlo en cerveza.</Frame_FermentingBarrel.description>
+  
+  <!-- EN: espuma cortafuego(en construcción) -->
+  <Frame_FirefoamPopper.label>espuma cortafuego(en construcción)</Frame_FirefoamPopper.label>
+  <!-- EN: Cuando es tocado por el fuego o activado a mano, este objeto revienta y llena de espuma cortafuego un área circular a su alrededor. -->
+  <Frame_FirefoamPopper.description>Cuando es tocado por el fuego o activado a mano, este objeto revienta y llena de espuma cortafuego un área circular a su alrededor.</Frame_FirefoamPopper.description>
+  
+  <!-- EN: losa de granito(en construcción) -->
+  <Frame_FlagstoneGranite.label>losa de granito(en construcción)</Frame_FlagstoneGranite.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_FlagstoneGranite.description>Terreno en proceso de construcción.</Frame_FlagstoneGranite.description>
+  
+  <!-- EN: losa de caliza(en construcción) -->
+  <Frame_FlagstoneLimestone.label>losa de caliza(en construcción)</Frame_FlagstoneLimestone.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_FlagstoneLimestone.description>Terreno en proceso de construcción.</Frame_FlagstoneLimestone.description>
+  
+  <!-- EN: losa de mármol(en construcción) -->
+  <Frame_FlagstoneMarble.label>losa de mármol(en construcción)</Frame_FlagstoneMarble.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_FlagstoneMarble.description>Terreno en proceso de construcción.</Frame_FlagstoneMarble.description>
+  
+  <!-- EN: losa arenisca(en construcción) -->
+  <Frame_FlagstoneSandstone.label>losa arenisca(en construcción)</Frame_FlagstoneSandstone.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_FlagstoneSandstone.description>Terreno en proceso de construcción.</Frame_FlagstoneSandstone.description>
+  
+  <!-- EN: losa de pizarra(en construcción) -->
+  <Frame_FlagstoneSlate.label>losa de pizarra(en construcción)</Frame_FlagstoneSlate.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_FlagstoneSlate.description>Terreno en proceso de construcción.</Frame_FlagstoneSlate.description>
+  
+  <!-- EN: televisión de pantalla plana(en construcción) -->
+  <Frame_FlatscreenTelevision.label>televisión de pantalla plana(en construcción)</Frame_FlatscreenTelevision.label>
+  <!-- EN: Un televisor de pantalla plana de alta tecnología con una imagen nítida y un color intenso. Capta transmisiones de satélites antiguos y tarjetas de datos ubicuas. -->
+  <Frame_FlatscreenTelevision.description>Un televisor de pantalla plana de alta tecnología con una imagen nítida y un color intenso. Capta transmisiones de satélites antiguos y tarjetas de datos ubicuas.</Frame_FlatscreenTelevision.description>
+  
+  <!-- EN: forja de leña(en construcción) -->
+  <Frame_FueledSmithy.label>forja de leña(en construcción)</Frame_FueledSmithy.label>
+  <!-- EN: Una estación equipada para la forja de armas y herramientas no mecánicas. Necesita consumir madera. -->
+  <Frame_FueledSmithy.description>Una estación equipada para la forja de armas y herramientas no mecánicas. Necesita consumir madera.</Frame_FueledSmithy.description>
+  
+  <!-- EN: estufa de leña(en construcción) -->
+  <Frame_FueledStove.label>estufa de leña(en construcción)</Frame_FueledStove.label>
+  <!-- EN: Un horno y unas parrilas, alimentados por madera, para preparar alimentos. -->
+  <Frame_FueledStove.description>Un horno y unas parrilas, alimentados por madera, para preparar alimentos.</Frame_FueledStove.description>
+  
+  <!-- EN: tablero de ur(en construcción) -->
+  <Frame_GameOfUrBoard.label>tablero de ur(en construcción)</Frame_GameOfUrBoard.label>
+  <!-- EN: Fechado en el año 2500 a.C., este emocionante pero exasperante juego de mesa puede ser jugado por una o dos personas. Entrena las habilidades intelectuales. -->
+  <Frame_GameOfUrBoard.description>Fechado en el año 2500 A.C., este emocionante pero exasperante juego de mesa puede ser jugado por una o dos personas. Entrena las habilidades intelectuales.</Frame_GameOfUrBoard.description>
+  
+  <!-- EN: generador geotérmico(en construcción) -->
+  <Frame_GeothermalGenerator.label>generador geotérmico(en construcción)</Frame_GeothermalGenerator.label>
+  <!-- EN: Produce electricidad gracias a los géiseres de vapor. Debe ser colocado sobre un géiser. -->
+  <Frame_GeothermalGenerator.description>Produce electricidad gracias a los géiseres de vapor. Debe ser ubicado sobre un géiser.</Frame_GeothermalGenerator.description>
+  
+  <!-- EN: baldosa de oro(en construcción) -->
+  <Frame_GoldTile.label>baldosa de oro(en construcción)</Frame_GoldTile.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_GoldTile.description>Terreno en proceso de construcción.</Frame_GoldTile.description>
+  
+  <!-- EN: tumba(en construcción) -->
+  <Frame_Grave.label>tumba(en construcción)</Frame_Grave.label>
+  <!-- EN: Un lugar decente para el descanso final. Los colonos visitarán tumbas llenas para obtener alegría meditativa. -->
+  <Frame_Grave.description>Un lugar decente para el descanso final. Los colonos visitarán tumbas llenas para obtener alegría meditativa.</Frame_Grave.description>
+  
+  <!-- EN: escáner de profundidad(en construcción) -->
+  <Frame_GroundPenetratingScanner.label>escáner de profundidad(en construcción)</Frame_GroundPenetratingScanner.label>
+  <!-- EN: Una unidad de sensor utilizada por los investigadores para buscar recursos enterrados. La posibilidad de encontrar un recurso depende de la capacidad de investigación del operador. Consume mucha electricidad. Si encuentras un recurso enterrado, tendrás que usar taladros de profundidad para extraerlo. No funciona bajo un techo. -->
+  <Frame_GroundPenetratingScanner.description>Una unidad de sensor utilizada por los investigadores para buscar recursos enterrados. La posibilidad de encontrar un recurso depende de la capacidad de investigación del operador. Consume mucha electricidad. Si encuentras un recurso enterrado, tendrás que usar taladros de profundidad para extraerlo. No funciona bajo un techo.</Frame_GroundPenetratingScanner.description>
+  
+  <!-- EN: mesa de sastrería(en construcción) -->
+  <Frame_HandTailoringBench.label>mesa de sastrería(en construcción)</Frame_HandTailoringBench.label>
+  <!-- EN: Una mesa de trabajo para confeccionar ropa a mano. Trabaja al 50% de la velocidad de la mesa eléctrica. -->
+  <Frame_HandTailoringBench.description>Una mesa de trabajo para confeccionar ropa a mano. Trabaja al 50% de la velocidad de la mesa eléctrica.</Frame_HandTailoringBench.description>
+  
+  <!-- EN: calefactor(en construcción) -->
+  <Frame_Heater.label>calefactor(en construcción)</Frame_Heater.label>
+  <!-- EN: Un dispositivo eléctrico que convierte la electricidad en calor. Puede apagarse o encenderse automáticamente cuando se alcance la temperatura deseada. -->
+  <Frame_Heater.description>Un dispositivo eléctrico que convierte la electricidad en calor. Puede apagarse o encenderse automáticamente cuando se alcance la temperatura deseada.</Frame_Heater.description>
+  
+  <!-- EN: mesa de investigación avanzada(en construcción) -->
+  <Frame_HiTechResearchBench.label>mesa de investigación avanzada(en construcción)</Frame_HiTechResearchBench.label>
+  <!-- EN: Una mesa de trabajo de alta tecnología con computadores y equipo de medición electrónico. La investigación se acelera gracias a las herramientas avanzadas. Necesita energía. -->
+  <Frame_HiTechResearchBench.description>Una mesa de trabajo de alta tecnología con computadores y equipo de medición electrónico. La investigación se acelera gracias a las herramientas avanzadas. Necesita energía.</Frame_HiTechResearchBench.description>
+  
+  <!-- EN: balitas(en construcción) -->
+  <Frame_HoopstoneRing.label>balitas(en construcción)</Frame_HoopstoneRing.label>
+  <!-- EN: Un simple juego antiguo jugado con unas pocas piedras redondas y un gran hoyo en el suelo. Los jugadores lanzan las piedras desde una distancia e intentan que caigan dentro del hoyo. Es relajante, e incluso entrena la coordinación mano-ojo. -->
+  <Frame_HoopstoneRing.description>Un simple juego antiguo jugado con unas pocas piedras redondas y un gran hoyo en el suelo. Los jugadores lanzan las piedras desde una distancia e intentan que caigan dentro del hoyo. Es relajante, e incluso entrena la coordinación mano-ojo.</Frame_HoopstoneRing.description>
+  
+  <!-- EN: tolva(en construcción) -->
+  <Frame_Hopper.label>tolva(en construcción)</Frame_Hopper.label>
+  <!-- EN: Almacena las materias primas listas para ser usadas por máquinas como los dispensadores de pasta nutritiva. -->
+  <Frame_Hopper.description>Almacena las materias primas listas para ser usadas por máquinas como los dispensadores de pasta nutritiva.</Frame_Hopper.description>
+  
+  <!-- EN: vara para herraduras(en construcción) -->
+  <Frame_HorseshoesPin.label>vara para herraduras(en construcción)</Frame_HorseshoesPin.label>
+  <!-- EN: Un simple juego antiguo, se juega utilizando unas pocas herraduras y una vara larga clavada en el suelo. Los jugadores lanzan las herraduras desde lejos e intentan que aterricen cerca de la vara. Es relajante, e incluso ayuda a desarrollar la coordinación. -->
+  <Frame_HorseshoesPin.description>Un simple juego antiguo, se juega utilizando unas pocas herraduras y una vara larga clavada en el suelo. Los jugadores lanzan las herraduras desde lejos e intentan que aterricen cerca de la vara. Es relajante, e incluso ayuda a desarrollar la coordinación.</Frame_HorseshoesPin.description>
+  
+  <!-- EN: cama hospitalaria(en construcción) -->
+  <Frame_HospitalBed.label>cama hospitalaria(en construcción)</Frame_HospitalBed.label>
+  <!-- EN: Una cama designada especificamente para gente herida. Mejora las posibilidades de un tratamiento médico exitoso. -->
+  <Frame_HospitalBed.description>Una cama designada especificamente para gente herida. Mejora las posibilidades de un tratamiento médico exitoso.</Frame_HospitalBed.description>
+  
+  <!-- EN: contenedor hidropónico(en construcción) -->
+  <Frame_HydroponicsBasin.label>contenedor hidropónico(en construcción)</Frame_HydroponicsBasin.label>
+  <!-- EN: Crece las plantas rápidamente en un baño de nutrientes artificiales. Requiere energía para funcionar; las plantas morirán si se corta la energía. -->
+  <Frame_HydroponicsBasin.description>Crece las plantas rápidamente en un baño de nutrientes artificiales. Requiere energía para funcionar; las plantas morirán si se corta la energía.</Frame_HydroponicsBasin.description>
+  
+  <!-- EN: escáner de largo alcance(en construcción) -->
+  <Frame_LongRangeMineralScanner.label>escáner de largo alcance(en construcción)</Frame_LongRangeMineralScanner.label>
+  <!-- EN: Una unidad de sensor lateral usada por los investigadores para detectar un tipo específico de mineral en todo el planeta. La posibilidad de encontrar un recurso depende de la capacidad de investigación del operador. Este sensor puede ser ajustado para apuntar a un tipo de recurso específico. Consume mucha electricidad. Si encuentras un recurso, tendrás que viajar para recogerlo. -->
+  <Frame_LongRangeMineralScanner.description>Una unidad de sensor lateral usada por los investigadores para detectar un tipo específico de mineral en todo el planeta. La posibilidad de encontrar un recurso depende de la capacidad de investigación del operador. Este sensor puede ser ajustado para apuntar a un tipo de recurso específico. Consume mucha electricidad. Si encuentras un recurso, tendrás que viajar para recogerlo.</Frame_LongRangeMineralScanner.description>
+  
+  <!-- EN: altar(en construcción) -->
+  <Frame_MarriageSpot.label>altar(en construcción)</Frame_MarriageSpot.label>
+  <!-- EN: Designa un lugar donde las ceremonias de matrimonio se llevarán a cabo. El público observará desde ambos lados. -->
+  <Frame_MarriageSpot.description>Designa un lugar donde las ceremonias de matrimonio se llevarán a cabo. El público observará desde ambos lados.</Frame_MarriageSpot.description>
+  
+  <!-- EN: baldosa de acero(en construcción) -->
+  <Frame_MetalTile.label>baldosa de acero(en construcción)</Frame_MetalTile.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_MetalTile.description>Terreno en proceso de construcción.</Frame_MetalTile.description>
+  
+  <!-- EN: bomba de humedad(en construcción) -->
+  <Frame_MoisturePump.label>bomba de humedad(en construcción)</Frame_MoisturePump.label>
+  <!-- EN: Lentamente remueve la humedad del terreno cercano, convirtiendo ciénagas y aguas poco profundas en suelo seco. No afecta aguas profundas. -->
+  <Frame_MoisturePump.description>Lentamente remueve la humedad del terreno cercano, convirtiendo ciénagas y aguas poco profundas en suelo seco. No afecta aguas profundas.</Frame_MoisturePump.description>
+  
+  <!-- EN: multi-analizador(en construcción) -->
+  <Frame_MultiAnalyzer.label>multi-analizador(en construcción)</Frame_MultiAnalyzer.label>
+  <!-- EN: Aumenta la velocidad de la investigación. Debe ser colocado al lado de una mesa de la investigación. Cada mesa de investigación solo puede tener asignado un multi-analizador. -->
+  <Frame_MultiAnalyzer.description>Aumenta la velocidad de la investigación. Debe ser colocado al lado de una mesa de la investigación. Cada mesa de investigación solo puede tener asignado un multi-analizador.</Frame_MultiAnalyzer.description>
+  
+  <!-- EN: dispensador de pasta nutritiva(en construcción) -->
+  <Frame_NutrientPasteDispenser.label>dispensador de pasta nutritiva(en construcción)</Frame_NutrientPasteDispenser.label>
+  <!-- EN: Sintetiza la pasta de nutrientes de materias primas orgánicas. Consume menos ingredientes y tiempo que cualquier otro método de producción de comidas, pero a nadie le gusta comer pasta nutritiva. Acepta comida cruda, pero no materia vegetal como el heno. -->
+  <Frame_NutrientPasteDispenser.description>Sintetiza la pasta de nutrientes de materias primas orgánicas. Consume menos ingredientes y tiempo que cualquier otro método de producción de comidas, pero a nadie le gusta comer pasta nutritiva. Acepta comida cruda, pero no materia vegetal como el heno.</Frame_NutrientPasteDispenser.description>
+  
+  <!-- EN: baliza de comercio orbital(en construcción) -->
+  <Frame_OrbitalTradeBeacon.label>baliza de comercio orbital(en construcción)</Frame_OrbitalTradeBeacon.label>
+  <!-- EN: Necesario para el comercio orbital. Solo puedes vender bienes a los comerciantes orbitales si están cerca de una baliza de comercio orbital. Puede ser colocado en el interior. -->
+  <Frame_OrbitalTradeBeacon.description>Necesaria para el comercio orbital. Solo puedes vender bienes que estan cerca de una baliza de comercio orbital y en exteriores. Los comerciantes tambien dejarán caer los bienes a su alrededor.</Frame_OrbitalTradeBeacon.description>
+  
+  <!-- EN: lugar de fiestas(en construcción) -->
+  <Frame_PartySpot.label>lugar de fiestas(en construcción)</Frame_PartySpot.label>
+  <!-- EN: Designa un lugar alrededor del cual se centrarán las fiestas. -->
+  <Frame_PartySpot.description>Designa un lugar alrededor del cual se centrarán las fiestas.</Frame_PartySpot.description>
+  
+  <!-- EN: enfriador pasivo(en construcción) -->
+  <Frame_PassiveCooler.label>enfriador pasivo(en construcción)</Frame_PassiveCooler.label>
+  <!-- EN: Un enfriamiento tradicional, que trabaja con la evaporación del agua. Al cabo de unos días, debe reponerse con madera. No es lo suficientemente eficiente para refrigerar los alimentos. -->
+  <Frame_PassiveCooler.description>Un enfriamiento tradicional, que trabaja con la evaporación del agua. Al cabo de unos días, debe reponerse con madera. No es lo suficientemente eficiente para refrigerar los alimentos.</Frame_PassiveCooler.description>
+  
+  <!-- EN: baldosa de cemento(en construcción) -->
+  <Frame_PavedTile.label>baldosa de cemento(en construcción)</Frame_PavedTile.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_PavedTile.description>Terreno en proceso de construcción.</Frame_PavedTile.description>
+  
+  <!-- EN: maceta(en construcción) -->
+  <Frame_PlantPot.label>maceta(en construcción)</Frame_PlantPot.label>
+  <!-- EN: Planta flores decorativas aquí para mejorar el estado de ánimo de los colonos que se encuentren cerca. -->
+  <Frame_PlantPot.description>Planta flores decorativas aquí para mejorar el estado de ánimo de los colonos que se encuentren cerca.</Frame_PlantPot.description>
+  
+  <!-- EN: lanzador de cápsulas(en construcción) -->
+  <Frame_PodLauncher.label>lanzador de cápsulas(en construcción)</Frame_PodLauncher.label>
+  <!-- EN: Un puerto de combustible para lanzar una cápsula de transporte. Los lanzadores de cápsulas pueden lanzarse como un grupo, pero los lanzadores deben colocarse uno al lado del otro. -->
+  <Frame_PodLauncher.description>Un puerto para la carga de combustible y el despegue de una cápsula de transporte. Las lanzaderas pueden despegar las cápsulas como un grupo - pero para ello deben ser construidas una junto a la otra.</Frame_PodLauncher.description>
+  
+  <!-- EN: mesa de póker(en construcción) -->
+  <Frame_PokerTable.label>mesa de póker(en construcción)</Frame_PokerTable.label>
+  <!-- EN: Una mesa diseñada para jugar juegos de cartas, principalmente póker. Una gran manera de probar sus habilidades estratégicas y un poco de suerte. -->
+  <Frame_PokerTable.description>Una mesa diseñada para jugar juegos de cartas, principalmente póker. Una gran manera de probar sus habilidades estratégicas y un poco de suerte.</Frame_PokerTable.description>
+  
+  <!-- EN: conducto eléctrico(en construcción) -->
+  <Frame_PowerConduit.label>conducto eléctrico(en construcción)</Frame_PowerConduit.label>
+  <!-- EN: Un conjunto de cables eléctricos para mover la energía. Se puede colocar debajo de paredes y otros edificios. -->
+  <Frame_PowerConduit.description>Un conjunto de cables eléctricos para mover la energía. Se puede colocar debajo de paredes y otros edificios.</Frame_PowerConduit.description>
+  
+  <!-- EN: interruptor(en construcción) -->
+  <Frame_PowerSwitch.label>interruptor(en construcción)</Frame_PowerSwitch.label>
+  <!-- EN: Permite encender o apagar la electricidad. -->
+  <Frame_PowerSwitch.description>Permite encender o apagar la electricidad.</Frame_PowerSwitch.description>
+  
+  <!-- EN: cama lujosa(en construcción) -->
+  <Frame_RoyalBed.label>cama lujosa(en construcción)</Frame_RoyalBed.label>
+  <!-- EN: Una lujosa cama con incrustaciones de oro para los de alta alcurnia. Muy cómoda y hermosa, es una obra de arte en sí misma. Se ajusta a dos. -->
+  <Frame_RoyalBed.description>Una cama con acabados de oro digna de la nobleza. Muy cómoda y hermosa. Le caben dos.</Frame_RoyalBed.description>
+  
+  <!-- EN: bolsas de arena(en construcción) -->
+  <Frame_Sandbags.label>bolsas de arena(en construcción)</Frame_Sandbags.label>
+  <!-- EN: Bolsas de suciedad o arena de la localidad mantenidas en su lugar por varillas de acero. Los sacos de arena son feos, pero proporcionan una excelente cobertura contra ataques a distancia. -->
+  <Frame_Sandbags.description>Bolsas de suciedad o arena de la localidad mantenidas en su lugar por varillas de acero. Los sacos de arena son feos, pero proporcionan una excelente cobertura contra ataques a distancia.</Frame_Sandbags.description>
+  
+  <!-- EN: sarcófago(en construcción) -->
+  <Frame_Sarcophagus.label>sarcófago(en construcción)</Frame_Sarcophagus.label>
+  <!-- EN: Un receptáculo funerario ornamentado para los muertos honrados. -->
+  <Frame_Sarcophagus.description>Un lugar de descanso final bellamente decorado para los muertos honrados.</Frame_Sarcophagus.description>
+  
+  <!-- EN: estante(en construcción) -->
+  <Frame_Shelf.label>estante(en construcción)</Frame_Shelf.label>
+  <!-- EN: Los artículos almacenados en ella no se deteriorarán, incluso si están en el exterior. -->
+  <Frame_Shelf.description>Los artículos almacenados en ella no se deteriorarán, incluso si están en el exterior.</Frame_Shelf.description>
+  
+  <!-- EN: viga estrutural de nave(en construcción) -->
+  <Frame_Ship_Beam.label>viga estrutural de nave(en construcción)</Frame_Ship_Beam.label>
+  <!-- EN: Una viga estructural alrededor de la cual se puede contruir una nave espacial. -->
+  <Frame_Ship_Beam.description>Una viga estructural alrededor de la cual se puede contruir una nave espacial.</Frame_Ship_Beam.description>
+  
+  <!-- EN: ordenador central de nave(en construcción) -->
+  <Frame_Ship_ComputerCore.label>ordenador central de nave(en construcción)</Frame_Ship_ComputerCore.label>
+  <!-- EN: El núcleo de un ordenador capaz de albergar una IA de inteligencia sobrehumana que podrá guiar a la nave por el espacio a pesar de cualquier dificultad. -->
+  <Frame_Ship_ComputerCore.description>El núcleo de un ordenador capaz de albergar una IA de inteligencia sobrehumana que podrá guiar a la nave por el espacio a pesar de cualquier dificultad.</Frame_Ship_ComputerCore.description>
+  
+  <!-- EN: sarcófago de criptosueño de nave(en construcción) -->
+  <Frame_Ship_CryptosleepCasket.label>Sarcófago de Criptosueño de Nave (a medias)</Frame_Ship_CryptosleepCasket.label>
+  <!-- EN: Un sarcófago de criptosueño reforzado contra los peligros del espacio. Capaz de mantener a una persona en estado de estasis durante siglos y capaz de sobrevivir una reentrada atmosférica. -->
+  <Frame_Ship_CryptosleepCasket.description>Un sarcófago de criptosueño reforzado contra los peligros del espacio. Capaz de mantener a una persona en estado de estasis durante siglos y capaz de sobrevivir una reentrada atmosférica.</Frame_Ship_CryptosleepCasket.description>
+  
+  <!-- EN: motor de nave(en construcción) -->
+  <Frame_Ship_Engine.label>motor de nave(en construcción)</Frame_Ship_Engine.label>
+  <!-- EN: Un motor de nave propulsado por antimateria. Capaz de poner a una nave en órbita y en trayectorias insterestelares. -->
+  <Frame_Ship_Engine.description>Un motor de nave propulsado por antimateria. Capaz de poner a una nave en órbita y en trayectorias insterestelares.</Frame_Ship_Engine.description>
+  
+  <!-- EN: reactor de nave(en construcción) -->
+  <Frame_Ship_Reactor.label>reactor de nave(en construcción)</Frame_Ship_Reactor.label>
+  <!-- EN: Produce energía para la nave durante su viaje a traves del espacio. -->
+  <Frame_Ship_Reactor.description>Produce energía para la nave durante su viaje a traves del espacio.</Frame_Ship_Reactor.description>
+  
+  <!-- EN: módulo de sensores(en construcción) -->
+  <Frame_Ship_SensorCluster.label>módulo de sensores(en construcción)</Frame_Ship_SensorCluster.label>
+  <!-- EN: Un módulo sensor, buscando en el vacío peligros y oportunidades. -->
+  <Frame_Ship_SensorCluster.description>Un módulo sensor, buscando en el vacío peligros y oportunidades.</Frame_Ship_SensorCluster.description>
+  
+  <!-- EN: baldosa de plata(en construcción) -->
+  <Frame_SilverTile.label>baldosa de plata(en construcción)</Frame_SilverTile.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SilverTile.description>Terreno en proceso de construcción.</Frame_SilverTile.description>
+  
+  <!-- EN: mesa de investigación(en construcción) -->
+  <Frame_SimpleResearchBench.label>mesa de investigación(en construcción)</Frame_SimpleResearchBench.label>
+  <!-- EN: Una mesa de trabajo simple con implementos para escribir y herramientas científicas simples. Los investigadores trabajan aquí para descubrir cosas nuevas. -->
+  <Frame_SimpleResearchBench.description>Una mesa de trabajo simple con implementos para escribir y herramientas científicas simples. Los investigadores trabajan aquí para descubrir cosas nuevas.</Frame_SimpleResearchBench.description>
+  
+  <!-- EN: lugar para dormir(en construcción) -->
+  <Frame_SleepingSpot.label>lugar para dormir(en construcción)</Frame_SleepingSpot.label>
+  <!-- EN: Designa un lugar en el suelo donde la gente dormirá. No es cómodo. Efectividad del descanso: 7/10 -->
+  <Frame_SleepingSpot.description>Un lugar en el suelo donde la gente dormirá. No es cómodo.</Frame_SleepingSpot.description>
+  
+  <!-- EN: paneles solares(en construcción) -->
+  <Frame_SolarGenerator.label>paneles solares(en construcción)</Frame_SolarGenerator.label>
+  <!-- EN: Producen electricidad gracias a la luz solar. No funcionan en la oscuridad. -->
+  <Frame_SolarGenerator.description>Producen electricidad gracias a la luz solar. No funcionan en la oscuridad.</Frame_SolarGenerator.description>
+  
+  <!-- EN: lámpara de pie(en construcción) -->
+  <Frame_StandingLamp.label>lámpara de pie(en construcción)</Frame_StandingLamp.label>
+  <!-- EN: Una lámpara de pie capaz de iluminar un área. -->
+  <Frame_StandingLamp.description>Una lámpara de pie capaz de iluminar un área.</Frame_StandingLamp.description>
+  
+  <!-- EN: lámpara de pie (azul)(en construcción) -->
+  <Frame_StandingLamp_Blue.label>lámpara de pie (azul)(en construcción)</Frame_StandingLamp_Blue.label>
+  <!-- EN: Una lámpara de pie capaz de iluminar un área con luz de color azul. -->
+  <Frame_StandingLamp_Blue.description>Una lámpara de pie capaz de iluminar un área con luz de color azul.</Frame_StandingLamp_Blue.description>
+  
+  <!-- EN: lámpara de pie (verde)(en construcción) -->
+  <Frame_StandingLamp_Green.label>lámpara de pie (verde)(en construcción)</Frame_StandingLamp_Green.label>
+  <!-- EN: Una lámpara de pie capaz de iluminar un área con luz de color verde. -->
+  <Frame_StandingLamp_Green.description>Una lámpara de pie capaz de iluminar un área con luz de color verde.</Frame_StandingLamp_Green.description>
+  
+  <!-- EN: lámpara de pie (rojo)(en construcción) -->
+  <Frame_StandingLamp_Red.label>lámpara de pie (rojo)(en construcción)</Frame_StandingLamp_Red.label>
+  <!-- EN: Una lámpara de pie capaz de iluminar un área con luz de color rojo. -->
+  <Frame_StandingLamp_Red.description>Una lámpara de pie capaz de iluminar un área con luz de color rojo.</Frame_StandingLamp_Red.description>
+  
+  <!-- EN: baldosa estéril(en construcción) -->
+  <Frame_SterileTile.label>baldosa estéril(en construcción)</Frame_SterileTile.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SterileTile.description>Terreno en proceso de construcción.</Frame_SterileTile.description>
+  
+  <!-- EN: taburete(en construcción) -->
+  <Frame_Stool.label>taburete(en construcción)</Frame_Stool.label>
+  <!-- EN: Un banquito sencillo para sentarse. No es muy cómodo, pero es mucho mejor que nada. Se puede usar en mesas, estaciones de trabajo y en otros lugares. -->
+  <Frame_Stool.description>Una simple plataforma en la que sentarse. No es muy cómoda, pero es mucho mejor que nada. Se puede usar en mesas, estaciones de trabajo y en otros lugares.</Frame_Stool.description>
+  
+  <!-- EN: lámpara solar(en construcción) -->
+  <Frame_SunLamp.label>lámpara solar(en construcción)</Frame_SunLamp.label>
+  <!-- EN: Ilumina un área lo suficiente como para que crezcan plantas. -->
+  <Frame_SunLamp.description>Ilumina un área lo suficiente como para que crezcan plantas.</Frame_SunLamp.description>
+  
+  <!-- EN: mesa (1x2)(en construcción) -->
+  <Frame_Table1x2c.label>mesa (1x2)(en construcción)</Frame_Table1x2c.label>
+  <!-- EN: Las personas comen de las mesas cuando se colocan sillas frente a ellas. -->
+  <Frame_Table1x2c.description>Las personas comen de las mesas cuando se colocan sillas frente a ellas.</Frame_Table1x2c.description>
+  
+  <!-- EN: mesa (2x2)(en construcción) -->
+  <Frame_Table2x2c.label>mesa (2x2)(en construcción)</Frame_Table2x2c.label>
+  <!-- EN: Las personas comen de las mesas cuando se colocan sillas frente a ellas. -->
+  <Frame_Table2x2c.description>Las personas comen de las mesas cuando se colocan sillas frente a ellas.</Frame_Table2x2c.description>
+  
+  <!-- EN: mesa (2x4)(en construcción) -->
+  <Frame_Table2x4c.label>mesa (2x4)(en construcción)</Frame_Table2x4c.label>
+  <!-- EN: Las personas comen de las mesas cuando se colocan sillas frente a ellas. -->
+  <Frame_Table2x4c.description>Las personas comen de las mesas cuando se colocan sillas frente a ellas.</Frame_Table2x4c.description>
+  
+  <!-- EN: mesa (3x3)(en construcción) -->
+  <Frame_Table3x3c.label>mesa (3x3)(en construcción)</Frame_Table3x3c.label>
+  <!-- EN: Las personas comen de las mesas cuando se colocan sillas frente a ellas. -->
+  <Frame_Table3x3c.description>Las personas comen de las mesas cuando se colocan sillas frente a ellas.</Frame_Table3x3c.description>
+  
+  <!-- EN: mesa de carnicero(en construcción) -->
+  <Frame_TableButcher.label>mesa de carnicero(en construcción)</Frame_TableButcher.label>
+  <!-- EN: Un banco de trabajo para despiezar criaturas muertas en trozos de carne cruda. -->
+  <Frame_TableButcher.description>Un banco de trabajo para despiezar criaturas muertas en trozos de Carne cruda.</Frame_TableButcher.description>
+  
+  <!-- EN: mesa de maquinado(en construcción) -->
+  <Frame_TableMachining.label>mesa de maquinado(en construcción)</Frame_TableMachining.label>
+  <!-- EN: Un banco de trabajo y herramientas ensamblar y desensamblar maquinaria como armas de fuego y mecanoides desactivados. -->
+  <Frame_TableMachining.description>Un banco de trabajo y herramientas ensamblar y desensamblar maquinaria como armas de fuego y mecanoides desactivados.</Frame_TableMachining.description>
+  
+  <!-- EN: mesa de escultor(en construcción) -->
+  <Frame_TableSculpting.label>mesa de escultor(en construcción)</Frame_TableSculpting.label>
+  <!-- EN: Un banco de trabajo equipado para la escultura artística. -->
+  <Frame_TableSculpting.description>Un banco de trabajo equipado para la escultura artística.</Frame_TableSculpting.description>
+  
+  <!-- EN: mesa de cantería(en construcción) -->
+  <Frame_TableStonecutter.label>mesa de cantería(en construcción)</Frame_TableStonecutter.label>
+  <!-- EN: Un banco de trabajo equipado para labrar trozos de roca hasta obtener bloques de piedra. -->
+  <Frame_TableStonecutter.description>Un banco de trabajo equipado para labrar trozos de roca hasta obtener bloques de piedra.</Frame_TableStonecutter.description>
+  
+  <!-- EN: baldosa de granito(en construcción) -->
+  <Frame_TileGranite.label>baldosa de granito(en construcción)</Frame_TileGranite.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_TileGranite.description>Terreno en proceso de construcción.</Frame_TileGranite.description>
+  
+  <!-- EN: baldosa de caliza(en construcción) -->
+  <Frame_TileLimestone.label>baldosa de caliza(en construcción)</Frame_TileLimestone.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_TileLimestone.description>Terreno en proceso de construcción.</Frame_TileLimestone.description>
+  
+  <!-- EN: baldosa de mármol(en construcción) -->
+  <Frame_TileMarble.label>baldosa de mármol(en construcción)</Frame_TileMarble.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_TileMarble.description>Terreno en proceso de construcción.</Frame_TileMarble.description>
+  
+  <!-- EN: baldosa de arenisca(en construcción) -->
+  <Frame_TileSandstone.label>baldosa de arenisca(en construcción)</Frame_TileSandstone.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_TileSandstone.description>Terreno en proceso de construcción.</Frame_TileSandstone.description>
+  
+  <!-- EN: baldosa de pizarra(en construcción) -->
+  <Frame_TileSlate.label>baldosa de pizarra(en construcción)</Frame_TileSlate.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_TileSlate.description>Terreno en proceso de construcción.</Frame_TileSlate.description>
+  
+  <!-- EN: gabinete para herramientas(en construcción) -->
+  <Frame_ToolCabinet.label>gabinete para herramientas(en construcción)</Frame_ToolCabinet.label>
+  <!-- EN: Aumenta la velocidad de trabajo cuando se coloca cerca de un banco de trabajo. Un banco de trabajo utiliza hasta dos gabinete para herramientas. -->
+  <Frame_ToolCabinet.description>Aumenta la velocidad de trabajo. Debe ser colocado al lado de una mesa de trabajo. Cada mesa de trabajo solo puede tener asignado un armario de herramientas.</Frame_ToolCabinet.description>
+  
+  <!-- EN: antorcha(en construcción) -->
+  <Frame_TorchLamp.label>antorcha(en construcción)</Frame_TorchLamp.label>
+  <!-- EN: Una antorcha de madera que iluminará a su alrededor. Se recargará automáticamente con combustible. Genera una pequeña cantidad de calor. -->
+  <Frame_TorchLamp.description>Una antorcha de madera que iluminará a su alrededor. Se recargará automáticamente con combustible. Genera una pequeña cantidad de calor.</Frame_TorchLamp.description>
+  
+  <!-- EN: cápsula de transporte(en construcción) -->
+  <Frame_TransportPod.label>cápsula de transporte(en construcción)</Frame_TransportPod.label>
+  <!-- EN: Una cápsula de transporte sub-orbital capaz de transportar personas, animales y objetos. Puede ser usada para transporte, ataques sorpresa o para enviar refuerzos a una batalla. -->
+  <Frame_TransportPod.description>Una cápsula de transporte sub-orbital capaz de transportar personas, animales y objetos. Puede ser usada para transporte, ataques sorpresa o para enviar refuerzos a una batalla.</Frame_TransportPod.description>
+  
+  <!-- EN: mina antimateria(en construcción) -->
+  <Frame_TrapIED_AntigrainWarhead.label>mina antimateria(en construcción)</Frame_TrapIED_AntigrainWarhead.label>
+  <!-- EN: Una ojiva de antimateria de alta tecnología conectada a un gatillo casero. Cuando se dispara, la ojiva de antimateria se detona, creando una explosión masiva. Dado que está oculta en el terreno circundante, no puede colocarse junto a otras trampas. Los animales pueden sentirlas cuando están tranquilos. -->
+  <Frame_TrapIED_AntigrainWarhead.description>Una ojiva de antimateria de alta tecnología conectada a un gatillo casero. Cuando se dispara, la ojiva de antimateria se detona, creando una explosión masiva. Dado que está oculta en el terreno circundante, no puede colocarse junto a otras trampas. Los animales pueden sentirlas cuando están tranquilos.</Frame_TrapIED_AntigrainWarhead.description>
+  
+  <!-- EN: mina PEM(en construcción) -->
+  <Frame_TrapIED_EMP.label>mina PEM(en construcción)</Frame_TrapIED_EMP.label>
+  <!-- EN: Una simple trampa que consiste en un cartucho PEM y un gatillo casero. La explosión puede paralizar criaturas mecánicas durante unos segundos. Puede ser disparado incluso por aquellos que no son afectados por explosiones PEM. Dado que está oculta en el terreno circundante, no puede colocarse junto a otras trampas. Los animales pueden sentirlas cuando están tranquilos. -->
+  <Frame_TrapIED_EMP.description>Una simple trampa que consiste en un cartucho PEM y un gatillo casero. La explosión puede paralizar criaturas mecánicas durante unos segundos. Puede ser disparado incluso por aquellos que no son afectados por explosiones PEM. Dado que está oculta en el terreno circundante, no puede colocarse junto a otras trampas. Los animales pueden sentirlas cuando están tranquilos.</Frame_TrapIED_EMP.description>
+  
+  <!-- EN: mina de espuma cortafuego(en construcción) -->
+  <Frame_TrapIED_Firefoam.label>mina de espuma cortafuego(en construcción)</Frame_TrapIED_Firefoam.label>
+  <!-- EN: Cuando alguien toca el gatillo, la trampa explota y rocía una espuma extintora de fuego a su alrededor. Dado que está oculta en el terreno circundante, no puede colocarse junto a otras trampas. Los animales pueden sentirlas cuando están tranquilos. -->
+  <Frame_TrapIED_Firefoam.description>Cuando alguien toca el gatillo, la trampa explota y rocía una espuma extintora de fuego a su alrededor. Dado que está oculta en el terreno circundante, no puede colocarse junto a otras trampas. Los animales pueden sentirlas cuando están tranquilos.</Frame_TrapIED_Firefoam.description>
+  
+  <!-- EN: mina(en construcción) -->
+  <Frame_TrapIED_HighExplosive.label>mina(en construcción)</Frame_TrapIED_HighExplosive.label>
+  <!-- EN: Una bala de mortero conectada a un gatillo casero. Cuando alguien altera el gatillo, el proyectil explota. El disparador improvisado tiene un retardo aleatorio que puede permitir que un enemigo ágil escape. Dado que está oculta en el terreno circundante, no puede colocarse junto a otras trampas. Los animales pueden sentirlas cuando están tranquilos. -->
+  <Frame_TrapIED_HighExplosive.description>Una bala de mortero conectada a un gatillo casero. Cuando alguien altera el gatillo, el proyectil explota. El disparador improvisado tiene un retardo aleatorio que puede permitir que un enemigo ágil escape. Dado que está oculta en el terreno circundante, no puede colocarse junto a otras trampas. Los animales pueden sentirlas cuando están tranquilos.</Frame_TrapIED_HighExplosive.description>
+  
+  <!-- EN: mina incendiaria(en construcción) -->
+  <Frame_TrapIED_Incendiary.label>mina incendiaria(en construcción)</Frame_TrapIED_Incendiary.label>
+  <!-- EN: Explosivos mezclados en una pasta incendiaria con un detonante químico para su dispersión. Su disparador químico es simple y confiable. Dado que está oculta en el terreno circundante, no puede colocarse junto a otras trampas. Los animales pueden sentirlas cuando están tranquilos. -->
+  <Frame_TrapIED_Incendiary.description>Explosivos mezclados en una pasta incendiaria con un detonante químico para su dispersión. Su disparador químico es simple y confiable. Dado que está oculta en el terreno circundante, no puede colocarse junto a otras trampas. Los animales pueden sentirlas cuando están tranquilos.</Frame_TrapIED_Incendiary.description>
+  
+  <!-- EN: televisión(en construcción) -->
+  <Frame_TubeTelevision.label>televisión(en construcción)</Frame_TubeTelevision.label>
+  <!-- EN: Un tubo de rayos catódicos para mostrar imagenes en movimiento con sonido. Incluso en los rimworlds menos conocidos, normalmente hay un viejo transmisor emitiendo algo medianamente interesante. -->
+  <Frame_TubeTelevision.description>Un tubo de rayos catódicos para mostrar imagenes en movimiento con sonido. Incluso en los mundos fronterizos normalmente hay un viejo transmisor emitiendo algo medianamente interesante.</Frame_TubeTelevision.description>
+  
+  <!-- EN: torreta de cañón automática(en construcción) -->
+  <Frame_Turret_Autocannon.label>torreta de cañón automática(en construcción)</Frame_Turret_Autocannon.label>
+  <!-- EN: Una pesada torreta automática de largo alcance. Sus cartuchos de gran calibre causan grandes daños a grandes distancias, pero requiere cambios de cañón frecuentes y costosos. No puede disparar a objetivos cercanos y puede explotar cuando está dañada. -->
+  <Frame_Turret_Autocannon.description>Una pesada torreta automática de largo alcance. Sus cartuchos de gran calibre causan grandes daños a grandes distancias, pero requiere cambios de cañón frecuentes y costosos. No puede disparar a objetivos cercanos y puede explotar cuando está dañada.</Frame_Turret_Autocannon.description>
+  
+  <!-- EN: mini torreta(en construcción) -->
+  <Frame_Turret_MiniTurret.label>mini torreta(en construcción)</Frame_Turret_MiniTurret.label>
+  <!-- EN: Una pequeña torreta automática de corto alcance. Requiere que el cañón de acero sea reemplazado después de un uso intenso. Puede explotar si está dañado. Su estúpido cerebro de IA no puede ser controlado directamente, así que ten cuidado con el fuego amigo. -->
+  <Frame_Turret_MiniTurret.description>Una pequeña torreta automática de corto alcance. Requiere que el cañón de acero sea reemplazado después de un uso intenso. Puede explotar si está dañado. Su estúpido cerebro de IA no puede ser controlado directamente, así que ten cuidado con el fuego amigo.</Frame_Turret_MiniTurret.description>
+  
+  <!-- EN: mortero(en construcción) -->
+  <Frame_Turret_Mortar.label>mortero(en construcción)</Frame_Turret_Mortar.label>
+  <!-- EN: Un mortero que lanza todo tipo de proyectiles. Aunque puede causar daños devastadores, la inexactitud inherente del mortero lo hace más útil para atacar grandes fortificaciones que grupos de enemigos en el campo. -->
+  <Frame_Turret_Mortar.description>Un mortero que lanza todo tipo de proyectiles. Aunque puede causar daños devastadores, la inexactitud inherente del mortero lo hace más útil para atacar grandes fortificaciones que grupos de enemigos en el campo.</Frame_Turret_Mortar.description>
+  
+  <!-- EN: torreta de uranio(en construcción) -->
+  <Frame_Turret_Sniper.label>cañón de uranio(en construcción)</Frame_Turret_Sniper.label>
+  <!-- EN: Una torreta francotirador automática de muy largo alcance. Sus proyectiles de alta velocidad causan grandes daños en distancias muy largas, pero requiere cambios de cañón frecuentes y costosos. No puede disparar a objetivos cercanos y puede explotar cuando está dañado. -->
+  <Frame_Turret_Sniper.description>Un cañón de uranio automático de muy largo alcance. Sus proyectiles de alta velocidad causan grandes daños en distancias muy largas, pero requiere cambios de cañón frecuentes y costosos. No puede disparar a objetivos cercanos y puede explotar cuando está dañado.</Frame_Turret_Sniper.description>
+  
+  <!-- EN: conducto de ventilación(en construcción) -->
+  <Frame_Vent.label>conducto de ventilación(en construcción)</Frame_Vent.label>
+  <!-- EN: Un sencillo respiradero para equilibrar la temperatura entre dos habitaciones sin permitir que la gente pase de una a otra. -->
+  <Frame_Vent.description>Un sencillo respiradero para equilibrar la temperatura entre dos habitaciones sin permitir que la gente pase de una a otra.</Frame_Vent.description>
+  
+  <!-- EN: monitor de signos vitales(en construcción) -->
+  <Frame_VitalsMonitor.label>monitor de signos vitales(en construcción)</Frame_VitalsMonitor.label>
+  <!-- EN: Aumenta la calidad del tratamiento médico, la posibilidad de éxito de la cirugía y la inmunidad gana velocidad cuando se coloca directamente junto a una cama de hospital. Solo funciona para las camas de hospital, las camas normales no se beneficiarán. Adjuntar más de un monitor de signos vitales a la misma cama no tendrá ningún efecto. -->
+  <Frame_VitalsMonitor.description>Aumenta la calidad del tratamiento médico, la posibilidad de éxito de la cirugía y la inmunidad gana velocidad cuando se coloca directamente junto a una cama de hospital. Solo funciona para las camas de hospital, las camas normales no se beneficiarán. Adjuntar más de un monitor de signos vitales a la misma cama no tendrá ningún efecto.</Frame_VitalsMonitor.description>
+  
+  <!-- EN: muro(en construcción) -->
+  <Frame_Wall.label>muro(en construcción)</Frame_Wall.label>
+  <!-- EN: Un muro infranqueable. Capaz de soportar un techo. -->
+  <Frame_Wall.description>Un muro infranqueable. Capaz de soportar un techo.</Frame_Wall.description>
+  
+  <!-- EN: molino de agua(en construcción) -->
+  <Frame_WatermillGenerator.label>molino de agua(en construcción)</Frame_WatermillGenerator.label>
+  <!-- EN: Produce electricidad a partir de la corriente de un río. Debe colocarse con la rueda en agua corriente. Si los molinos de agua se colocan demasiado cerca, la turbulencia que generan interferirá y reducirá la generación de energía. -->
+  <Frame_WatermillGenerator.description>Produce electricidad a partir de la corriente del río. Debe colocarse con su rueda sobre agua en movimiento.</Frame_WatermillGenerator.description>
+  
+  <!-- EN: conducto impermeable(en construcción) -->
+  <Frame_WaterproofConduit.label>conducto impermeable(en construcción)</Frame_WaterproofConduit.label>
+  <!-- EN: Cables eléctricos aislados para la transmisión de energía bajo aguas poco profundas. -->
+  <Frame_WaterproofConduit.description>Cables eléctricos aislados para la transmisión de energía bajo aguas poco profundas.</Frame_WaterproofConduit.description>
+  
+  <!-- EN: aeroturbina(en construcción) -->
+  <Frame_WindTurbine.label>aeroturbina(en construcción)</Frame_WindTurbine.label>
+  <!-- EN: Un generador de electricidad accionado por el viento. Para conseguir un flujo de aire óptimo necesita un gran espacio libre al frente y atrás. -->
+  <Frame_WindTurbine.description>Un generador de electricidad accionado por el viento. Para conseguir un flujo de aire óptimo necesita un gran espacio libre al frente y atrás.</Frame_WindTurbine.description>
+  
+  <!-- EN: generador a leña(en construcción) -->
+  <Frame_WoodFiredGenerator.label>generador a leña(en construcción)</Frame_WoodFiredGenerator.label>
+  <!-- EN: Produce energía consumiendo leña. Debe ser alimentado a mano. -->
+  <Frame_WoodFiredGenerator.description>Produce energía consumiendo leña. Debe ser alimentado a mano.</Frame_WoodFiredGenerator.description>
+  
+  <!-- EN: piso de madera(en construcción) -->
+  <Frame_WoodPlankFloor.label>piso de madera(en construcción)</Frame_WoodPlankFloor.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_WoodPlankFloor.description>Terreno en proceso de construcción.</Frame_WoodPlankFloor.description>
+  
+  <!-- EN: Carne de alpaca -->
+  <Meat_Alpaca.label>Carne de alpaca</Meat_Alpaca.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_Alpaca.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_Alpaca.description>
+  
+  <!-- EN: Carne de alfacastor -->
+  <Meat_Alphabeaver.label>Carne de alfacastor</Meat_Alphabeaver.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_Alphabeaver.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_Alphabeaver.description>
+  
+  <!-- EN: carne de oso -->
+  <Meat_Bear_Grizzly.label>Carne de oso</Meat_Bear_Grizzly.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_Bear_Grizzly.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_Bear_Grizzly.description>
+  
+  <!-- EN: Carne de bumalope -->
+  <Meat_Boomalope.label>Carne de bumalope</Meat_Boomalope.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_Boomalope.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_Boomalope.description>
+  
+  <!-- EN: Carne de rata-bum -->
+  <Meat_Boomrat.label>Carne de rata-bum</Meat_Boomrat.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_Boomrat.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_Boomrat.description>
+  
+  <!-- EN: Carne de capibara -->
+  <Meat_Capybara.label>Carne de capibara</Meat_Capybara.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_Capybara.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_Capybara.description>
+  
+  <!-- EN: Carne de caribú -->
+  <Meat_Caribou.label>Carne de caribú</Meat_Caribou.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_Caribou.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_Caribou.description>
+  
+  <!-- EN: carne de pájaro -->
+  <Meat_Cassowary.label>Carne de pájaro</Meat_Cassowary.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_Cassowary.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_Cassowary.description>
+  
+  <!-- EN: Carne de gato -->
+  <Meat_Cat.label>Carne de gato</Meat_Cat.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_Cat.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_Cat.description>
+  
+  <!-- EN: Carne de pollo -->
+  <Meat_Chicken.label>Carne de pollo</Meat_Chicken.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_Chicken.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_Chicken.description>
+  
+  <!-- EN: Carne de chinchilla -->
+  <Meat_Chinchilla.label>Carne de chinchilla</Meat_Chinchilla.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_Chinchilla.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_Chinchilla.description>
+  
+  <!-- EN: carne de cobra -->
+  <Meat_Cobra.label>Carne de serpiente</Meat_Cobra.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_Cobra.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_Cobra.description>
+  
+  <!-- EN: Carne de puma -->
+  <Meat_Cougar.label>Carne de puma</Meat_Cougar.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_Cougar.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_Cougar.description>
+  
+  <!-- EN: carne de res -->
+  <Meat_Cow.label>Carne de res</Meat_Cow.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_Cow.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_Cow.description>
+  
+  <!-- EN: carne de venado -->
+  <Meat_Deer.label>Carne de venado</Meat_Deer.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_Deer.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_Deer.description>
+  
+  <!-- EN: Carne de dromedario -->
+  <Meat_Dromedary.label>Carne de dromedario</Meat_Dromedary.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_Dromedary.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_Dromedary.description>
+  
+  <!-- EN: Carne de elefante -->
+  <Meat_Elephant.label>Carne de elefante</Meat_Elephant.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_Elephant.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_Elephant.description>
+  
+  <!-- EN: Carne de ciervo canadiense -->
+  <Meat_Elk.label>Carne de ciervo canadiense</Meat_Elk.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_Elk.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_Elk.description>
+  
+  <!-- EN: carne de zorro -->
+  <Meat_Fox_Fennec.label>Carne de zorro</Meat_Fox_Fennec.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_Fox_Fennec.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_Fox_Fennec.description>
+  
+  <!-- EN: Carne de gacela -->
+  <Meat_Gazelle.label>Carne de gacela</Meat_Gazelle.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_Gazelle.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_Gazelle.description>
+  
+  <!-- EN: Carne de liebre -->
+  <Meat_Hare.label>Carne de liebre</Meat_Hare.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_Hare.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_Hare.description>
+  
+  <!-- EN: Carne de humano -->
+  <Meat_Human.label>Carne de humano</Meat_Human.label>
+  <!-- EN: Carne cruda. Puede ser cocinada en comidas o consumida cruda, aunque a la mayoría de los humanos no les gusta esa idea. -->
+  <Meat_Human.description>Carne cruda. Puede ser cocinado en comidas o consumido crudo, aunque a la mayoría de los humanos no les gusta la idea.</Meat_Human.description>
+  
+  <!-- EN: Carne de husky -->
+  <Meat_Husky.label>Carne de husky</Meat_Husky.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_Husky.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_Husky.description>
+  
+  <!-- EN: Carne de íbice -->
+  <Meat_Ibex.label>Carne de íbice</Meat_Ibex.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_Ibex.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_Ibex.description>
+  
+  <!-- EN: Carne de iguana -->
+  <Meat_Iguana.label>Carne de iguana</Meat_Iguana.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_Iguana.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_Iguana.description>
+  
+  <!-- EN: Carne de labrador retriever -->
+  <Meat_LabradorRetriever.label>Carne de labrador retriever</Meat_LabradorRetriever.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_LabradorRetriever.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_LabradorRetriever.description>
+  
+  <!-- EN: Carne de lince -->
+  <Meat_Lynx.label>Carne de lince</Meat_Lynx.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_Lynx.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_Lynx.description>
+  
+  <!-- EN: Carne de mega perezoso -->
+  <Meat_Megasloth.label>Carne de mega perezoso</Meat_Megasloth.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_Megasloth.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_Megasloth.description>
+  
+  <!-- EN: carne de insecto -->
+  <Meat_Megaspider.label>Carne de insecto</Meat_Megaspider.label>
+  <!-- EN: Carne cruda de un insecto. Si es necesario, puede ser cocinada en las comidas, o incluso consumida cruda. Extremadamente poco apetecible. -->
+  <Meat_Megaspider.description>Carne cruda de un insecto. Si es necesario, puede ser cocinado en las comidas, o incluso consumido crudo. Extremadamente poco apetecible.</Meat_Megaspider.description>
+  
+  <!-- EN: Carne de mono -->
+  <Meat_Monkey.label>Carne de mono</Meat_Monkey.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_Monkey.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_Monkey.description>
+  
+  <!-- EN: Carne de múfalo -->
+  <Meat_Muffalo.label>Carne de múfalo</Meat_Muffalo.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_Muffalo.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_Muffalo.description>
+  
+  <!-- EN: Carne de pantera -->
+  <Meat_Panther.label>Carne de pantera</Meat_Panther.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_Panther.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_Panther.description>
+  
+  <!-- EN: carne de cerdo -->
+  <Meat_Pig.label>Carne de cerdo</Meat_Pig.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_Pig.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_Pig.description>
+  
+  <!-- EN: Carne de mapache -->
+  <Meat_Raccoon.label>Carne de mapache</Meat_Raccoon.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_Raccoon.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_Raccoon.description>
+  
+  <!-- EN: Carne de rata -->
+  <Meat_Rat.label>Carne de rata</Meat_Rat.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_Rat.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_Rat.description>
+  
+  <!-- EN: Carne de rinoceronte -->
+  <Meat_Rhinoceros.label>Carne de rinoceronte</Meat_Rhinoceros.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_Rhinoceros.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_Rhinoceros.description>
+  
+  <!-- EN: Carne de ardilla -->
+  <Meat_Squirrel.label>Carne de ardilla</Meat_Squirrel.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_Squirrel.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_Squirrel.description>
+  
+  <!-- EN: Carne de thrumbo -->
+  <Meat_Thrumbo.label>Carne de trumbo</Meat_Thrumbo.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_Thrumbo.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_Thrumbo.description>
+  
+  <!-- EN: Carne de tortuga -->
+  <Meat_Tortoise.label>Carne de tortuga</Meat_Tortoise.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_Tortoise.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_Tortoise.description>
+  
+  <!-- EN: Carne de pavo -->
+  <Meat_Turkey.label>Carne de pavo</Meat_Turkey.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_Turkey.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_Turkey.description>
+  
+  <!-- EN: Carne de wargo -->
+  <Meat_Warg.label>Carne de wargo</Meat_Warg.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_Warg.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_Warg.description>
+  
+  <!-- EN: carne de lobo -->
+  <Meat_Wolf_Timber.label>Carne de lobo</Meat_Wolf_Timber.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_Wolf_Timber.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_Wolf_Timber.description>
+  
+  <!-- EN: Carne de yorkshire terrier -->
+  <Meat_YorkshireTerrier.label>Carne de yorkshire terrier</Meat_YorkshireTerrier.label>
+  <!-- EN: Carne cruda descuartizada. Puede ser cocinada en las comidas, o consumirse cruda. -->
+  <Meat_YorkshireTerrier.description>Carne cruda descuartizada. Puede ser cocinado en las comidas, o consumirse cruda.</Meat_YorkshireTerrier.description>
+  
+</LanguageData>

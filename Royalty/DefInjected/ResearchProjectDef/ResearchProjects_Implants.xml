@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: artificial metabolism -->
+  <ArtificialMetabolism.label>metabolismo artificial</ArtificialMetabolism.label>
+  <!-- EN: Craft bionics that process food more safely or efficiently than a biological stomach. -->
+  <ArtificialMetabolism.description>Crea implantes biónicos que puedan procesar los alimentos de manera más segura o eficiente que un estómago biológico.</ArtificialMetabolism.description>
+  
+  <!-- EN: brain wiring -->
+  <BrainWiring.label>cableado del cerebro</BrainWiring.label>
+  <!-- EN: Craft brain implants that induce or prevent blunt sensations like joy or pain. -->
+  <BrainWiring.description>Fabrica implantes que puedan crear o evitar sensaciones como diversión o dolor.</BrainWiring.description>
+  
+  <!-- EN: circadian influence -->
+  <CircadianInfluence.label>ajuste de biorritmo</CircadianInfluence.label>
+  <!-- EN: Craft brain implants that chemically manipulate the circadian rhythm, reducing or altering the need to sleep. -->
+  <CircadianInfluence.description>Crea implantes que cambien químicamente el ritmo diario y, por lo tanto, reduzcan o cambien la necesidad de dormir.</CircadianInfluence.description>
+  
+  <!-- EN: compact weaponry -->
+  <CompactWeaponry.label>armas compactas</CompactWeaponry.label>
+  <!-- EN: Craft compact, concealable bionic weapons which can be embedded in various body parts. -->
+  <CompactWeaponry.description>Crea armas compactas y veladas que se pueden construir en diferentes partes del cuerpo.</CompactWeaponry.description>
+  
+  <!-- EN: flesh shaping -->
+  <FleshShaping.label>modificación coporal</FleshShaping.label>
+  <!-- EN: Craft bionics which induce the reshaping or natural flesh, usually for the purposes of aesthetic enhancement or personal pleasure. -->
+  <FleshShaping.description>Crea implantes biónicos que puede cambiar los tejidos naturales. Esto normalmente se hace para mejoras estéticas o para disfrute personal.</FleshShaping.description>
+  
+  <!-- EN: healing factors -->
+  <HealingFactors.label>factores curativos</HealingFactors.label>
+  <!-- EN: Craft bionics that enhance natural healing processes. -->
+  <HealingFactors.description>Crea implantes biónicos que mejoren el proceso de curación natural.</HealingFactors.description>
+  
+  <!-- EN: molecular analysis -->
+  <MolecularAnalysis.label>analizador molecular</MolecularAnalysis.label>
+  <!-- EN: Craft bionics with molecular analyzers for assisting the immune system or analyzing food. -->
+  <MolecularAnalysis.description>Crea implantes biónicos con analizadores moleculares que respalden el sistema inmunitario o que también puedan analizar alimentos.</MolecularAnalysis.description>
+  
+  <!-- EN: neural computation -->
+  <NeuralComputation.label>computadoras neuronales</NeuralComputation.label>
+  <!-- EN: Craft brain implants that assist thought and learning by use of a direct, shallow brain-computer interface. -->
+  <NeuralComputation.description>Crea implantes que apoyen el pensamiento y el aprendizaje a través de una interfaz directa (superficial) cerebro-computadora</NeuralComputation.description>
+  
+  <!-- EN: skin hardening -->
+  <SkinHardening.label>refuerzo dérmico</SkinHardening.label>
+  <!-- EN: Craft bionic implants which induce the toughening of natural skin, producing an armor-like effect. -->
+  <SkinHardening.description>Crea implantes biónicos que fortalecen la piel natural y por lo tanto tienen un efecto de armadura.</SkinHardening.description>
+  
+  <!-- EN: specialized limbs -->
+  <SpecializedLimbs.label>partes del cuerpo especializadas</SpecializedLimbs.label>
+  <!-- EN: Craft specialized bionic limbs built for specific purposes - both combat and labor. -->
+  <SpecializedLimbs.description>Crea partes del cuerpo biónicas que estén destinadas a un uso especial, tanto de combate como de trabajo.</SpecializedLimbs.description>
+  
+  <!-- EN: poison synthesis -->
+  <VenomSynthesis.label>síntesis de veneno</VenomSynthesis.label>
+  <!-- EN: Craft bionics that synthesize venom from internal chemical reactors for use in toxifying attacks. -->
+  <VenomSynthesis.description>Crea implantes biónicos que usan reactores químicos internos para sintetizar un veneno que puede envenenar al enemigo cuando es atacado.</VenomSynthesis.description>
+  
+</LanguageData>

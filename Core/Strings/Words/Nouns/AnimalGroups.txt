@@ -1,0 +1,7 @@
+//Solo se usan para descripciones de arte.
+//Ejemplo: Pepe añadió una vaca a su "rebaño".
+rebaño
+hato
+manada
+hatajo
+ganado

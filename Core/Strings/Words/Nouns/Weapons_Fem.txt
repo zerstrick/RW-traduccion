@@ -1,0 +1,11 @@
+espada
+pistola
+lanzas
+ametralladora
+minigun
+escopeta
+porra
+maza
+jabalina
+granada
+cóctel molotov

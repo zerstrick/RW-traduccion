@@ -1,0 +1,8 @@
+﻿gladiu
+ikwa
+arco
+rifle
+subfusile
+lanzador incendiario
+revólver
+cuchillo

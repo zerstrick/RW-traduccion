@@ -1,0 +1,593 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: administrar ambrosía -->
+  <Administer_Ambrosia.label>administrar ambrosía</Administer_Ambrosia.label>
+  <!-- EN: Administrando ambrosía. -->
+  <Administer_Ambrosia.jobString>Administrando ambrosía.</Administer_Ambrosia.jobString>
+  
+  <!-- EN: administrar cerveza -->
+  <Administer_Beer.label>administrar cerveza</Administer_Beer.label>
+  <!-- EN: Administrando cerveza. -->
+  <Administer_Beer.jobString>Administrando cerveza.</Administer_Beer.jobString>
+  
+  <!-- EN: administrar flaca -->
+  <Administer_Flake.label>administrar flaca</Administer_Flake.label>
+  <!-- EN: Administrando flaca. -->
+  <Administer_Flake.jobString>Administrando flaca.</Administer_Flake.jobString>
+  
+  <!-- EN: administrar ju-go -->
+  <Administer_GoJuice.label>administrar ju-go</Administer_GoJuice.label>
+  <!-- EN: Administrando ju-go. -->
+  <Administer_GoJuice.jobString>Administrando ju-go.</Administer_GoJuice.jobString>
+  
+  <!-- EN: administrar luciferio -->
+  <Administer_Luciferium.label>administrar luciferio</Administer_Luciferium.label>
+  <!-- EN: Administrando luciferio. -->
+  <Administer_Luciferium.jobString>Administrando luciferio.</Administer_Luciferium.jobString>
+  
+  <!-- EN: administrar penoxicilina -->
+  <Administer_Penoxycyline.label>administrar penoxicilina</Administer_Penoxycyline.label>
+  <!-- EN: Administrando penoxicilina. -->
+  <Administer_Penoxycyline.jobString>Administrando penoxicilina.</Administer_Penoxycyline.jobString>
+  
+  <!-- EN: administrar té psicoide -->
+  <Administer_PsychiteTea.label>administrar té psicoide</Administer_PsychiteTea.label>
+  <!-- EN: Administrando té psicoide. -->
+  <Administer_PsychiteTea.jobString>Administrando té psicoide.</Administer_PsychiteTea.jobString>
+  
+  <!-- EN: administrar porro -->
+  <Administer_SmokeleafJoint.label>administrar porro.</Administer_SmokeleafJoint.label>
+  <!-- EN: Administrando porro. -->
+  <Administer_SmokeleafJoint.jobString>Administrando porro.</Administer_SmokeleafJoint.jobString>
+  
+  <!-- EN: administrar despertar -->
+  <Administer_WakeUp.label>administrar despertar</Administer_WakeUp.label>
+  <!-- EN: Administrando despertar. -->
+  <Administer_WakeUp.jobString>Administrando despertar.</Administer_WakeUp.jobString>
+  
+  <!-- EN: administrar yayo -->
+  <Administer_Yayo.label>administrar yayo</Administer_Yayo.label>
+  <!-- EN: Administrando yayo. -->
+  <Administer_Yayo.jobString>Administrando yayo.</Administer_Yayo.jobString>
+  
+  <!-- EN: fabricar casco avanzado -->
+  <Make_Apparel_AdvancedHelmet.label>fabricar casco avanzado</Make_Apparel_AdvancedHelmet.label>
+  <!-- EN: Hacer un casco avanzado. -->
+  <Make_Apparel_AdvancedHelmet.description>Fabrica un casco avanzado.</Make_Apparel_AdvancedHelmet.description>
+  <!-- EN: Haciendo casco avanzado. -->
+  <Make_Apparel_AdvancedHelmet.jobString>Fabricando casco avanzado.</Make_Apparel_AdvancedHelmet.jobString>
+  
+  <!-- EN: fabricar camiseta -->
+  <Make_Apparel_BasicShirt.label>confeccionar camiseta</Make_Apparel_BasicShirt.label>
+  <!-- EN: Hacer una camiseta. -->
+  <Make_Apparel_BasicShirt.description>Confecciona una camiseta.</Make_Apparel_BasicShirt.description>
+  <!-- EN: Haciendo camiseta. -->
+  <Make_Apparel_BasicShirt.jobString>Confeccionando camisetas.</Make_Apparel_BasicShirt.jobString>
+  
+  <!-- EN: fabricar bombín -->
+  <Make_Apparel_BowlerHat.label>confeccionar bombín</Make_Apparel_BowlerHat.label>
+  <!-- EN: Hacer un bombín. -->
+  <Make_Apparel_BowlerHat.description>Confecciona un bombín.</Make_Apparel_BowlerHat.description>
+  <!-- EN: Haciendo bombín. -->
+  <Make_Apparel_BowlerHat.jobString>Confeccionando bombín.</Make_Apparel_BowlerHat.jobString>
+  
+  <!-- EN: fabricar camisa -->
+  <Make_Apparel_CollarShirt.label>confeccionar camisa</Make_Apparel_CollarShirt.label>
+  <!-- EN: Hacer una camisa. -->
+  <Make_Apparel_CollarShirt.description>Confecciona una camisa.</Make_Apparel_CollarShirt.description>
+  <!-- EN: Haciendo camisa. -->
+  <Make_Apparel_CollarShirt.jobString>Confeccionando camisa.</Make_Apparel_CollarShirt.jobString>
+  
+  <!-- EN: fabricar sombrero vaquero -->
+  <Make_Apparel_CowboyHat.label>confeccionar sombrero vaquero</Make_Apparel_CowboyHat.label>
+  <!-- EN: Hacer un sombrero vaquero. -->
+  <Make_Apparel_CowboyHat.description>Confecciona un sombrero vaquero.</Make_Apparel_CowboyHat.description>
+  <!-- EN: Haciendo sombrero vaquero. -->
+  <Make_Apparel_CowboyHat.jobString>Confeccionando sombrero vaquero.</Make_Apparel_CowboyHat.jobString>
+  
+  <!-- EN: fabricar gabardina -->
+  <Make_Apparel_Duster.label>confeccionar gabardina</Make_Apparel_Duster.label>
+  <!-- EN: Hacer una gabardina. -->
+  <Make_Apparel_Duster.description>Confecciona una gabardina.</Make_Apparel_Duster.description>
+  <!-- EN: Haciendo gabardina. -->
+  <Make_Apparel_Duster.jobString>Confeccionando gabardina.</Make_Apparel_Duster.jobString>
+  
+  <!-- EN: fabricar chaqueta antibalas -->
+  <Make_Apparel_FlakJacket.label>fabricar chaqueta antibalas</Make_Apparel_FlakJacket.label>
+  <!-- EN: Hacer una chaqueta antibalas. -->
+  <Make_Apparel_FlakJacket.description>Fabrica una chaqueta antibalas.</Make_Apparel_FlakJacket.description>
+  <!-- EN: Haciendo chaqueta antibalas. -->
+  <Make_Apparel_FlakJacket.jobString>Fabricando chaqueta antibalas.</Make_Apparel_FlakJacket.jobString>
+  
+  <!-- EN: fabricar pantalón antibalas -->
+  <Make_Apparel_FlakPants.label>fabricar pantalón antibalas</Make_Apparel_FlakPants.label>
+  <!-- EN: Hacer un pantalón antibalas. -->
+  <Make_Apparel_FlakPants.description>Fabrica un pantalón antibalas.</Make_Apparel_FlakPants.description>
+  <!-- EN: Haciendo pantalón antibalas. -->
+  <Make_Apparel_FlakPants.jobString>Fabricando pantalón antibalas.</Make_Apparel_FlakPants.jobString>
+  
+  <!-- EN: fabricar chaleco antibalas -->
+  <Make_Apparel_FlakVest.label>fabricar chaleco antibalas</Make_Apparel_FlakVest.label>
+  <!-- EN: Hacer un chaleco antibalas. -->
+  <Make_Apparel_FlakVest.description>Fabrica un chaleco antibalas.</Make_Apparel_FlakVest.description>
+  <!-- EN: Haciendo chaleco antibalas. -->
+  <Make_Apparel_FlakVest.jobString>Fabricando chaleco antibalas.</Make_Apparel_FlakVest.jobString>
+  
+  <!-- EN: fabricar chaqueta -->
+  <Make_Apparel_Jacket.label>confeccionar chaqueta</Make_Apparel_Jacket.label>
+  <!-- EN: Hacer una chaqueta. -->
+  <Make_Apparel_Jacket.description>Confecciona una chaqueta.</Make_Apparel_Jacket.description>
+  <!-- EN: Haciendo chaqueta. -->
+  <Make_Apparel_Jacket.jobString>Confeccionando chaqueta.</Make_Apparel_Jacket.jobString>
+  
+  <!-- EN: fabricar pantalón -->
+  <Make_Apparel_Pants.label>confeccionar pantalón</Make_Apparel_Pants.label>
+  <!-- EN: Hacer un pantalón. -->
+  <Make_Apparel_Pants.description>Confecciona un pantalón.</Make_Apparel_Pants.description>
+  <!-- EN: Haciendo pantalón. -->
+  <Make_Apparel_Pants.jobString>Confeccionando pantalón.</Make_Apparel_Pants.jobString>
+  
+  <!-- EN: fabricar anorak -->
+  <Make_Apparel_Parka.label>confeccionar anorak</Make_Apparel_Parka.label>
+  <!-- EN: Hacer un anorak. -->
+  <Make_Apparel_Parka.description>Confecciona un anorak.</Make_Apparel_Parka.description>
+  <!-- EN: Haciendo anorak. -->
+  <Make_Apparel_Parka.jobString>Confeccionando anorak.</Make_Apparel_Parka.jobString>
+  
+  <!-- EN: fabricar armadura de placas -->
+  <Make_Apparel_PlateArmor.label>forjar armadura de placas</Make_Apparel_PlateArmor.label>
+  <!-- EN: Hacer una armadura de placas. -->
+  <Make_Apparel_PlateArmor.description>Forja una armadura de placas.</Make_Apparel_PlateArmor.description>
+  <!-- EN: Haciendo armadura de placas. -->
+  <Make_Apparel_PlateArmor.jobString>Forjando armadura de placas.</Make_Apparel_PlateArmor.jobString>
+  
+  <!-- EN: fabricar servoarmadura -->
+  <Make_Apparel_PowerArmor.label>fabricar servoarmadura</Make_Apparel_PowerArmor.label>
+  <!-- EN: Hacer una servoarmadura. -->
+  <Make_Apparel_PowerArmor.description>Fabrica una servoarmadura.</Make_Apparel_PowerArmor.description>
+  <!-- EN: Haciendo servoarmadura. -->
+  <Make_Apparel_PowerArmor.jobString>Fabricando servoarmadura.</Make_Apparel_PowerArmor.jobString>
+  
+  <!-- EN: fabricar casco de servoarmadura -->
+  <Make_Apparel_PowerArmorHelmet.label>fabricar casco de servoarmadura</Make_Apparel_PowerArmorHelmet.label>
+  <!-- EN: Hacer un casco de servoarmadura. -->
+  <Make_Apparel_PowerArmorHelmet.description>Fabrica un casco de servoarmadura.</Make_Apparel_PowerArmorHelmet.description>
+  <!-- EN: Haciendo casco de servoarmadura. -->
+  <Make_Apparel_PowerArmorHelmet.jobString>Fabricando un casco de servoarmadura.</Make_Apparel_PowerArmorHelmet.jobString>
+  
+  <!-- EN: fabricar escudo personal -->
+  <Make_Apparel_ShieldBelt.label>fabricar cinturón de protección</Make_Apparel_ShieldBelt.label>
+  <!-- EN: Hacer un escudo personal. -->
+  <Make_Apparel_ShieldBelt.description>Fabrica un cinturón de protección.</Make_Apparel_ShieldBelt.description>
+  <!-- EN: Haciendo escudo personal. -->
+  <Make_Apparel_ShieldBelt.jobString>Fabricando cinturón de protección.</Make_Apparel_ShieldBelt.jobString>
+  
+  <!-- EN: fabricar casco sencillo -->
+  <Make_Apparel_SimpleHelmet.label>fabricar casco sencillo</Make_Apparel_SimpleHelmet.label>
+  <!-- EN: Hacer un casco sencillo. -->
+  <Make_Apparel_SimpleHelmet.description>Fabrica un casco sencillo.</Make_Apparel_SimpleHelmet.description>
+  <!-- EN: Haciendo casco sencillo. -->
+  <Make_Apparel_SimpleHelmet.jobString>Fabricando casco sencillo.</Make_Apparel_SimpleHelmet.jobString>
+  
+  <!-- EN: fabricar cinturón de humo -->
+  <Make_Apparel_SmokepopBelt.label>fabricar cinturón de humo</Make_Apparel_SmokepopBelt.label>
+  <!-- EN: Hacer un cinturón de humo. -->
+  <Make_Apparel_SmokepopBelt.description>Fabrica un cinturón de humo.</Make_Apparel_SmokepopBelt.description>
+  <!-- EN: Haciendo cinturón de humo. -->
+  <Make_Apparel_SmokepopBelt.jobString>Fabricando cinturón de humo.</Make_Apparel_SmokepopBelt.jobString>
+  
+  <!-- EN: fabricar túnica tribal -->
+  <Make_Apparel_TribalA.label>confeccionar túnica tribal</Make_Apparel_TribalA.label>
+  <!-- EN: Hacer una túnica tribal. -->
+  <Make_Apparel_TribalA.description>Confecciona una túnica tribal.</Make_Apparel_TribalA.description>
+  <!-- EN: Haciendo túnica tribal. -->
+  <Make_Apparel_TribalA.jobString>Confeccionando túnica tribal.</Make_Apparel_TribalA.jobString>
+  
+  <!-- EN: fabricar tocado tribal -->
+  <Make_Apparel_TribalHeaddress.label>confeccionar sombrero tribal</Make_Apparel_TribalHeaddress.label>
+  <!-- EN: Hacer un tocado tribal. -->
+  <Make_Apparel_TribalHeaddress.description>Confecciona un sombrero tribal.</Make_Apparel_TribalHeaddress.description>
+  <!-- EN: Haciendo tocado tribal. -->
+  <Make_Apparel_TribalHeaddress.jobString>Confeccionando sombrero tribal.</Make_Apparel_TribalHeaddress.jobString>
+  
+  <!-- EN: fabricar gorro -->
+  <Make_Apparel_Tuque.label>confeccionar gorro</Make_Apparel_Tuque.label>
+  <!-- EN: Hacer un gorro. -->
+  <Make_Apparel_Tuque.description>Confecciona un gorro.</Make_Apparel_Tuque.description>
+  <!-- EN: Haciendo gorro. -->
+  <Make_Apparel_Tuque.jobString>Confeccionando gorro.</Make_Apparel_Tuque.jobString>
+  
+  <!-- EN: fabricar máscara de guerra -->
+  <Make_Apparel_WarMask.label>confeccionar máscara de guerra</Make_Apparel_WarMask.label>
+  <!-- EN: Hacer una máscara de guerra. -->
+  <Make_Apparel_WarMask.description>Confecciona una máscara de guerra.</Make_Apparel_WarMask.description>
+  <!-- EN: Haciendo máscara de guerra. -->
+  <Make_Apparel_WarMask.jobString>Confeccionando máscara de guerra.</Make_Apparel_WarMask.jobString>
+  
+  <!-- EN: fabricar velo de guerra -->
+  <Make_Apparel_WarVeil.label>confeccionar velo de guerra</Make_Apparel_WarVeil.label>
+  <!-- EN: Hacer un velo de guerra. -->
+  <Make_Apparel_WarVeil.description>Confecciona un velo de guerra.</Make_Apparel_WarVeil.description>
+  <!-- EN: Haciendo velo de guerra. -->
+  <Make_Apparel_WarVeil.jobString>Confeccionando velo de guerra.</Make_Apparel_WarVeil.jobString>
+  
+  <!-- EN: fabricar brazo biónico -->
+  <Make_BionicArm.label>fabricar brazo biónico</Make_BionicArm.label>
+  <!-- EN: Hacer un brazo biónico. -->
+  <Make_BionicArm.description>Fabrica un brazo biónico.</Make_BionicArm.description>
+  <!-- EN: Haciendo brazo biónico. -->
+  <Make_BionicArm.jobString>Fabricando brazo biónico.</Make_BionicArm.jobString>
+  
+  <!-- EN: fabricar oído biónico -->
+  <Make_BionicEar.label>fabricar oído biónico</Make_BionicEar.label>
+  <!-- EN: Hacer un oído biónico. -->
+  <Make_BionicEar.description>Fabrica un oído biónico.</Make_BionicEar.description>
+  <!-- EN: Haciendo oído biónico. -->
+  <Make_BionicEar.jobString>Fabricando oído biónico.</Make_BionicEar.jobString>
+  
+  <!-- EN: fabricar ojo biónico -->
+  <Make_BionicEye.label>fabricar ojo biónico</Make_BionicEye.label>
+  <!-- EN: Hacer un ojo biónico. -->
+  <Make_BionicEye.description>Fabrica un ojo biónico.</Make_BionicEye.description>
+  <!-- EN: Haciendo ojo biónico. -->
+  <Make_BionicEye.jobString>Fabricando ojo biónico.</Make_BionicEye.jobString>
+  
+  <!-- EN: fabricar corazón biónico -->
+  <Make_BionicHeart.label>fabricar corazón biónico</Make_BionicHeart.label>
+  <!-- EN: Hacer un corazón biónico. -->
+  <Make_BionicHeart.description>Fabrica un corazón biónico.</Make_BionicHeart.description>
+  <!-- EN: Haciendo corazón biónico. -->
+  <Make_BionicHeart.jobString>Fabricando corazón biónico.</Make_BionicHeart.jobString>
+  
+  <!-- EN: fabricar pierna biónica -->
+  <Make_BionicLeg.label>fabricar pierna biónica</Make_BionicLeg.label>
+  <!-- EN: Hacer una pierna biónica. -->
+  <Make_BionicLeg.description>Fabrica una pierna biónica.</Make_BionicLeg.description>
+  <!-- EN: Haciendo pierna biónica. -->
+  <Make_BionicLeg.jobString>Fabricando pierna biónica.</Make_BionicLeg.jobString>
+  
+  <!-- EN: fabricar columna vertebral biónica -->
+  <Make_BionicSpine.label>fabricar columna vertebral biónica</Make_BionicSpine.label>
+  <!-- EN: Hacer una columna vertebral biónica. -->
+  <Make_BionicSpine.description>Fabrica una columna vertebral biónica.</Make_BionicSpine.description>
+  <!-- EN: Haciendo columna vertebral biónica. -->
+  <Make_BionicSpine.jobString>Fabricando columna vertebral biónica.</Make_BionicSpine.jobString>
+  
+  <!-- EN: fabricar estómago biónico -->
+  <Make_BionicStomach.label>fabricar estómago biónico</Make_BionicStomach.label>
+  <!-- EN: Hacer un estómago biónico. -->
+  <Make_BionicStomach.description>Fabrica un estómago biónico.</Make_BionicStomach.description>
+  <!-- EN: Haciendo estómago biónico. -->
+  <Make_BionicStomach.jobString>Fabricando estómago biónico.</Make_BionicStomach.jobString>
+  
+  <!-- EN: fabricar arco largo -->
+  <Make_Bow_Great.label>construir arco largo</Make_Bow_Great.label>
+  <!-- EN: Hacer un arco largo. -->
+  <Make_Bow_Great.description>Construye un arco largo.</Make_Bow_Great.description>
+  <!-- EN: Haciendo arco largo. -->
+  <Make_Bow_Great.jobString>Construyendo arco largo.</Make_Bow_Great.jobString>
+  
+  <!-- EN: fabricar arco recurvo -->
+  <Make_Bow_Recurve.label>construir arco recurvo</Make_Bow_Recurve.label>
+  <!-- EN: Hacer un arco recurvo. -->
+  <Make_Bow_Recurve.description>Construye un arco recurvo.</Make_Bow_Recurve.description>
+  <!-- EN: Haciendo arco recurvo. -->
+  <Make_Bow_Recurve.jobString>Construyendo arco recurvo.</Make_Bow_Recurve.jobString>
+  
+  <!-- EN: fabricar arco corto -->
+  <Make_Bow_Short.label>construir arco corto</Make_Bow_Short.label>
+  <!-- EN: Hacer un arco corto. -->
+  <Make_Bow_Short.description>Construye un arco corto.</Make_Bow_Short.description>
+  <!-- EN: Haciendo arco corto. -->
+  <Make_Bow_Short.jobString>Construyendo arco corto.</Make_Bow_Short.jobString>
+  
+  <!-- EN: fabricar implante coclear -->
+  <Make_CochlearImplant.label>fabricar implante coclear</Make_CochlearImplant.label>
+  <!-- EN: Hacer un implante coclear. -->
+  <Make_CochlearImplant.description>Fabrica un implante coclear.</Make_CochlearImplant.description>
+  <!-- EN: Haciendo implante coclear. -->
+  <Make_CochlearImplant.jobString>Fabricando implante coclear.</Make_CochlearImplant.jobString>
+  
+  <!-- EN: fabricar flaca -->
+  <Make_Flake.label>preparar flaca</Make_Flake.label>
+  <!-- EN: Hacer una flaca. -->
+  <Make_Flake.description>Prepara unas dosis de flaca.</Make_Flake.description>
+  <!-- EN: Haciendo flaca. -->
+  <Make_Flake.jobString>Preparando flaca.</Make_Flake.jobString>
+  
+  <!-- EN: fabricar ju-go -->
+  <Make_GoJuice.label>preparar ju-go</Make_GoJuice.label>
+  <!-- EN: Hacer un ju-go. -->
+  <Make_GoJuice.description>Prepara unas dosis de ju-go</Make_GoJuice.description>
+  <!-- EN: Haciendo ju-go. -->
+  <Make_GoJuice.jobString>Preparando ju-go.</Make_GoJuice.jobString>
+  
+  <!-- EN: fabricar rifle de asalto -->
+  <Make_Gun_AssaultRifle.label>fabricar rifle de asalto</Make_Gun_AssaultRifle.label>
+  <!-- EN: Hacer un rifle de asalto. -->
+  <Make_Gun_AssaultRifle.description>Fabrica un rifle de asalto.</Make_Gun_AssaultRifle.description>
+  <!-- EN: Haciendo rifle de asalto. -->
+  <Make_Gun_AssaultRifle.jobString>Fabricando un rifle de asalto.</Make_Gun_AssaultRifle.jobString>
+  
+  <!-- EN: fabricar pistola automática -->
+  <Make_Gun_Autopistol.label>fabricar pistola automática</Make_Gun_Autopistol.label>
+  <!-- EN: Hacer una pistola automática. -->
+  <Make_Gun_Autopistol.description>Fabrica una pistola automática.</Make_Gun_Autopistol.description>
+  <!-- EN: Haciendo pistola automática. -->
+  <Make_Gun_Autopistol.jobString>Fabricando pistola automática.</Make_Gun_Autopistol.jobString>
+  
+  <!-- EN: fabricar fusil de cerrojo -->
+  <Make_Gun_BoltActionRifle.label>fabricar rifle de cerrojo</Make_Gun_BoltActionRifle.label>
+  <!-- EN: Hacer un fusil de cerrojo. -->
+  <Make_Gun_BoltActionRifle.description>Fabrica un rifle de cerrojo.</Make_Gun_BoltActionRifle.description>
+  <!-- EN: Haciendo fusil de cerrojo. -->
+  <Make_Gun_BoltActionRifle.jobString>Fabricando rifle de cerrojo.</Make_Gun_BoltActionRifle.jobString>
+  
+  <!-- EN: fabricar escopeta automática -->
+  <Make_Gun_ChainShotgun.label>fabricar escopeta automática</Make_Gun_ChainShotgun.label>
+  <!-- EN: Hacer una escopeta automática. -->
+  <Make_Gun_ChainShotgun.description>Fabrica una escopeta automática.</Make_Gun_ChainShotgun.description>
+  <!-- EN: Haciendo escopeta automática. -->
+  <Make_Gun_ChainShotgun.jobString>Fabricando escopeta automática.</Make_Gun_ChainShotgun.jobString>
+  
+  <!-- EN: fabricar lanza de cargas -->
+  <Make_Gun_ChargeLance.label>fabricar lanza de cargas</Make_Gun_ChargeLance.label>
+  <!-- EN: Hacer una lanza de cargas. -->
+  <Make_Gun_ChargeLance.description>Fabrica una lanza de cargas.</Make_Gun_ChargeLance.description>
+  <!-- EN: Haciendo lanza de cargas. -->
+  <Make_Gun_ChargeLance.jobString>Fabricando lanza de cargas.</Make_Gun_ChargeLance.jobString>
+  
+  <!-- EN: fabricar rifle de cargas R-4 -->
+  <Make_Gun_ChargeRifle.label>fabricar rifle de cargas R-4</Make_Gun_ChargeRifle.label>
+  <!-- EN: Hacer un rifle de cargas R-4. -->
+  <Make_Gun_ChargeRifle.description>Fabrica un rifle de cargas R-4.</Make_Gun_ChargeRifle.description>
+  <!-- EN: Haciendo rifle de cargas R-4. -->
+  <Make_Gun_ChargeRifle.jobString>Fabricando rifle de cargas R-4.</Make_Gun_ChargeRifle.jobString>
+  
+  <!-- EN: fabricar subfusil pesado -->
+  <Make_Gun_HeavySMG.label>fabricar subfusil pesado</Make_Gun_HeavySMG.label>
+  <!-- EN: Hacer un subfusil pesado. -->
+  <Make_Gun_HeavySMG.description>Fabrica un subfusil pesado.</Make_Gun_HeavySMG.description>
+  <!-- EN: Haciendo subfusil pesado. -->
+  <Make_Gun_HeavySMG.jobString>Fabricando subfusil pesado.</Make_Gun_HeavySMG.jobString>
+  
+  <!-- EN: fabricar lanzador incendiario T-9 -->
+  <Make_Gun_IncendiaryLauncher.label>fabricar lanzador incendiario T-9</Make_Gun_IncendiaryLauncher.label>
+  <!-- EN: Hacer un lanzador incendiario T-9. -->
+  <Make_Gun_IncendiaryLauncher.description>Fabrica un lanzador incendiario T-9.</Make_Gun_IncendiaryLauncher.description>
+  <!-- EN: Haciendo lanzador incendiario T-9. -->
+  <Make_Gun_IncendiaryLauncher.jobString>Fabricando lanzador incendiario T-9.</Make_Gun_IncendiaryLauncher.jobString>
+  
+  <!-- EN: fabricar ametralladora ligera L-15 -->
+  <Make_Gun_LMG.label>fabricar ametralladora ligera L-15</Make_Gun_LMG.label>
+  <!-- EN: Hacer un ametralladora ligera L-15. -->
+  <Make_Gun_LMG.description>Fabrica una ametralladora ligera L-15.</Make_Gun_LMG.description>
+  <!-- EN: Haciendo ametralladora ligera L-15. -->
+  <Make_Gun_LMG.jobString>Fabricando ametralladora ligera L-15.</Make_Gun_LMG.jobString>
+  
+  <!-- EN: fabricar subfusil compacto -->
+  <Make_Gun_MachinePistol.label>fabricar subfusil ligero</Make_Gun_MachinePistol.label>
+  <!-- EN: Hacer un subfusil compacto. -->
+  <Make_Gun_MachinePistol.description>Fabrica un subfusil ligero.</Make_Gun_MachinePistol.description>
+  <!-- EN: Haciendo subfusil compacto. -->
+  <Make_Gun_MachinePistol.jobString>Fabricando subfusil ligero.</Make_Gun_MachinePistol.jobString>
+  
+  <!-- EN: fabricar minigun -->
+  <Make_Gun_Minigun.label>fabricar minigun</Make_Gun_Minigun.label>
+  <!-- EN: Hacer una minigun. -->
+  <Make_Gun_Minigun.description>Fabrica una minigun</Make_Gun_Minigun.description>
+  <!-- EN: Haciendo minigun. -->
+  <Make_Gun_Minigun.jobString>Fabricando minigun.</Make_Gun_Minigun.jobString>
+  
+  <!-- EN: fabricar escopeta -->
+  <Make_Gun_PumpShotgun.label>fabricar escopeta</Make_Gun_PumpShotgun.label>
+  <!-- EN: Hacer una escopeta. -->
+  <Make_Gun_PumpShotgun.description>Fabrica una escopeta.</Make_Gun_PumpShotgun.description>
+  <!-- EN: Haciendo escopeta. -->
+  <Make_Gun_PumpShotgun.jobString>Fabricando escopeta.</Make_Gun_PumpShotgun.jobString>
+  
+  <!-- EN: fabricar revólver -->
+  <Make_Gun_Revolver.label>fabricar revólver</Make_Gun_Revolver.label>
+  <!-- EN: Hacer un revólver. -->
+  <Make_Gun_Revolver.description>Fabrica un revólver.</Make_Gun_Revolver.description>
+  <!-- EN: Haciendo revólver. -->
+  <Make_Gun_Revolver.jobString>Fabricando revólver.</Make_Gun_Revolver.jobString>
+  
+  <!-- EN: fabricar rifle francotirador -->
+  <Make_Gun_SniperRifle.label>fabricar rifle de francotirador</Make_Gun_SniperRifle.label>
+  <!-- EN: Hacer un rifle francotirador. -->
+  <Make_Gun_SniperRifle.description>Fabrica un rifle de francotirador.</Make_Gun_SniperRifle.description>
+  <!-- EN: Haciendo rifle francotirador. -->
+  <Make_Gun_SniperRifle.jobString>Fabricando rifle de francotirador.</Make_Gun_SniperRifle.jobString>
+  
+  <!-- EN: fabricar medicina -->
+  <Make_MedicineIndustrial.label>elaborar medicina</Make_MedicineIndustrial.label>
+  <!-- EN: Hacer una medicina. -->
+  <Make_MedicineIndustrial.description>Elabora un kit de medicinas.</Make_MedicineIndustrial.description>
+  <!-- EN: Haciendo medicina. -->
+  <Make_MedicineIndustrial.jobString>Elaborando medicina.</Make_MedicineIndustrial.jobString>
+  
+  <!-- EN: fabricar porra -->
+  <Make_MeleeWeapon_Club.label>fabricar porra</Make_MeleeWeapon_Club.label>
+  <!-- EN: Hacer una porra. -->
+  <Make_MeleeWeapon_Club.description>Fabrica una porra.</Make_MeleeWeapon_Club.description>
+  <!-- EN: Haciendo porra. -->
+  <Make_MeleeWeapon_Club.jobString>Fabricando porra.</Make_MeleeWeapon_Club.jobString>
+  
+  <!-- EN: fabricar gladius -->
+  <Make_MeleeWeapon_Gladius.label>forjar gladius</Make_MeleeWeapon_Gladius.label>
+  <!-- EN: Hacer un gladius. -->
+  <Make_MeleeWeapon_Gladius.description>Forja un gladius.</Make_MeleeWeapon_Gladius.description>
+  <!-- EN: Haciendo gladius. -->
+  <Make_MeleeWeapon_Gladius.jobString>Forjando gladius.</Make_MeleeWeapon_Gladius.jobString>
+  
+  <!-- EN: fabricar ikwa -->
+  <Make_MeleeWeapon_Ikwa.label>forjar ikwa</Make_MeleeWeapon_Ikwa.label>
+  <!-- EN: Hacer un ikwa. -->
+  <Make_MeleeWeapon_Ikwa.description>Forja un ikwa.</Make_MeleeWeapon_Ikwa.description>
+  <!-- EN: Haciendo ikwa. -->
+  <Make_MeleeWeapon_Ikwa.jobString>Forjando ikwa.</Make_MeleeWeapon_Ikwa.jobString>
+  
+  <!-- EN: fabricar cuchillo -->
+  <Make_MeleeWeapon_Knife.label>forjar cuchillo</Make_MeleeWeapon_Knife.label>
+  <!-- EN: Hacer un cuchillo. -->
+  <Make_MeleeWeapon_Knife.description>Forja un cuchillo.</Make_MeleeWeapon_Knife.description>
+  <!-- EN: Haciendo cuchillo. -->
+  <Make_MeleeWeapon_Knife.jobString>Forjando cuchillo.</Make_MeleeWeapon_Knife.jobString>
+  
+  <!-- EN: fabricar espada larga -->
+  <Make_MeleeWeapon_LongSword.label>forjar espada larga</Make_MeleeWeapon_LongSword.label>
+  <!-- EN: Hacer una espada larga. -->
+  <Make_MeleeWeapon_LongSword.description>Forja una espada larga.</Make_MeleeWeapon_LongSword.description>
+  <!-- EN: Haciendo espada larga. -->
+  <Make_MeleeWeapon_LongSword.jobString>Forjando espada larga.</Make_MeleeWeapon_LongSword.jobString>
+  
+  <!-- EN: fabricar maza -->
+  <Make_MeleeWeapon_Mace.label>forjar maza</Make_MeleeWeapon_Mace.label>
+  <!-- EN: Hacer una maza. -->
+  <Make_MeleeWeapon_Mace.description>Forja una maza.</Make_MeleeWeapon_Mace.description>
+  <!-- EN: Haciendo maza. -->
+  <Make_MeleeWeapon_Mace.jobString>Forjando maza.</Make_MeleeWeapon_Mace.jobString>
+  
+  <!-- EN: fabricar lanza -->
+  <Make_MeleeWeapon_Spear.label>forjar lanza</Make_MeleeWeapon_Spear.label>
+  <!-- EN: Hacer una lanza. -->
+  <Make_MeleeWeapon_Spear.description>Forja una lanza.</Make_MeleeWeapon_Spear.description>
+  <!-- EN: Haciendo lanza. -->
+  <Make_MeleeWeapon_Spear.jobString>Forjando Lanza.</Make_MeleeWeapon_Spear.jobString>
+  
+  <!-- EN: fabricar penoxicilina -->
+  <Make_Penoxycyline.label>preparar penoxicilina</Make_Penoxycyline.label>
+  <!-- EN: Hacer una penoxicilina. -->
+  <Make_Penoxycyline.description>Prepara una pildora de penoxicilina.</Make_Penoxycyline.description>
+  <!-- EN: Haciendo penoxicilina. -->
+  <Make_Penoxycyline.jobString>Preparando penoxicilina.</Make_Penoxycyline.jobString>
+  
+  <!-- EN: fabricar jabalina -->
+  <Make_Pila.label>fabricar jabalinas</Make_Pila.label>
+  <!-- EN: Hacer una jabalina. -->
+  <Make_Pila.description>Fabrica unas jabalinas.</Make_Pila.description>
+  <!-- EN: Haciendo jabalina. -->
+  <Make_Pila.jobString>Fabricando jabalinas.</Make_Pila.jobString>
+  
+  <!-- EN: fabricar té psicoide -->
+  <Make_PsychiteTea.label>preparar té psicoide</Make_PsychiteTea.label>
+  <!-- EN: Hacer un té psicoide. -->
+  <Make_PsychiteTea.description>Prepara té psicoide.</Make_PsychiteTea.description>
+  <!-- EN: Haciendo té psicoide. -->
+  <Make_PsychiteTea.jobString>Preparando té psicoide.</Make_PsychiteTea.jobString>
+  
+  <!-- EN: fabricar escultura grande -->
+  <Make_SculptureGrand.label>esculpir escultura grande</Make_SculptureGrand.label>
+  <!-- EN: Hacer una escultura grande. -->
+  <Make_SculptureGrand.description>Esculpe una escultura grande.</Make_SculptureGrand.description>
+  <!-- EN: Haciendo escultura grande. -->
+  <Make_SculptureGrand.jobString>Esculpiendo escultura grande.</Make_SculptureGrand.jobString>
+  
+  <!-- EN: fabricar escultura mediana -->
+  <Make_SculptureLarge.label>esculpir escultura mediana</Make_SculptureLarge.label>
+  <!-- EN: Hacer una escultura mediana. -->
+  <Make_SculptureLarge.description>Esculpe una escultura mediana.</Make_SculptureLarge.description>
+  <!-- EN: Haciendo escultura mediana. -->
+  <Make_SculptureLarge.jobString>Esculpiendo escultura mediana.</Make_SculptureLarge.jobString>
+  
+  <!-- EN: fabricar escultura pequeña -->
+  <Make_SculptureSmall.label>esculpir escultura pequeña</Make_SculptureSmall.label>
+  <!-- EN: Hacer una escultura pequeña. -->
+  <Make_SculptureSmall.description>Esculpe una escultura pequeña.</Make_SculptureSmall.description>
+  <!-- EN: Haciendo escultura pequeña. -->
+  <Make_SculptureSmall.jobString>Esculpiendo escultura pequeña.</Make_SculptureSmall.jobString>
+  
+  <!-- EN: fabricar obús PEM -->
+  <Make_Shell_EMP.label>fabricar obús PEM</Make_Shell_EMP.label>
+  <!-- EN: Hacer un obús PEM. -->
+  <Make_Shell_EMP.description>Fabrica un obús PEM.</Make_Shell_EMP.description>
+  <!-- EN: Haciendo obús PEM. -->
+  <Make_Shell_EMP.jobString>Fabricando obús PEM.</Make_Shell_EMP.jobString>
+  
+  <!-- EN: fabricar obús cortafuego -->
+  <Make_Shell_Firefoam.label>fabricar obús cortafuego</Make_Shell_Firefoam.label>
+  <!-- EN: Hacer un obús cortafuego. -->
+  <Make_Shell_Firefoam.description>Fabrica un obús cortafuego.</Make_Shell_Firefoam.description>
+  <!-- EN: Haciendo obús cortafuego. -->
+  <Make_Shell_Firefoam.jobString>fabricando obús cortafuego.</Make_Shell_Firefoam.jobString>
+  
+  <!-- EN: fabricar obús explosivo -->
+  <Make_Shell_HighExplosive.label>fabricar obús explosivo</Make_Shell_HighExplosive.label>
+  <!-- EN: Hacer un obús explosivo. -->
+  <Make_Shell_HighExplosive.description>Fabrica un obús explosivo.</Make_Shell_HighExplosive.description>
+  <!-- EN: Haciendo obús explosivo. -->
+  <Make_Shell_HighExplosive.jobString>Fabricando obús explosivo.</Make_Shell_HighExplosive.jobString>
+  
+  <!-- EN: fabricar obús incendiario -->
+  <Make_Shell_Incendiary.label>fabricar obús incendiario</Make_Shell_Incendiary.label>
+  <!-- EN: Hacer un obús incendiario. -->
+  <Make_Shell_Incendiary.description>Fabrica un obús incendiario.</Make_Shell_Incendiary.description>
+  <!-- EN: Haciendo obús incendiario. -->
+  <Make_Shell_Incendiary.jobString>fabricando obús incendiario.</Make_Shell_Incendiary.jobString>
+  
+  <!-- EN: fabricar brazo protésico -->
+  <Make_SimpleProstheticArm.label>fabricar brazo protésico</Make_SimpleProstheticArm.label>
+  <!-- EN: Hacer un brazo protésico. -->
+  <Make_SimpleProstheticArm.description>Fabrica un brazo protésico.</Make_SimpleProstheticArm.description>
+  <!-- EN: Haciendo brazo protésico. -->
+  <Make_SimpleProstheticArm.jobString>Fabricando brazo protésico.</Make_SimpleProstheticArm.jobString>
+  
+  <!-- EN: fabricar corazón protésico -->
+  <Make_SimpleProstheticHeart.label>fabricar corazón protésico</Make_SimpleProstheticHeart.label>
+  <!-- EN: Hacer un corazón protésico. -->
+  <Make_SimpleProstheticHeart.description>Fabrica un corazón protésico.</Make_SimpleProstheticHeart.description>
+  <!-- EN: Haciendo corazón protésico. -->
+  <Make_SimpleProstheticHeart.jobString>Fabricando corazón protésico.</Make_SimpleProstheticHeart.jobString>
+  
+  <!-- EN: fabricar pierna protésica -->
+  <Make_SimpleProstheticLeg.label>fabricar pierna protésica</Make_SimpleProstheticLeg.label>
+  <!-- EN: Hacer una pierna protésica. -->
+  <Make_SimpleProstheticLeg.description>Fabrica una pierna protésica.</Make_SimpleProstheticLeg.description>
+  <!-- EN: Haciendo pierna protésica. -->
+  <Make_SimpleProstheticLeg.jobString>Fabricando pierna protésica.</Make_SimpleProstheticLeg.jobString>
+  
+  <!-- EN: fabricar porro -->
+  <Make_SmokeleafJoint.label>fabricar porro</Make_SmokeleafJoint.label>
+  <!-- EN: Hacer un porro. -->
+  <Make_SmokeleafJoint.description>Hacer un porro.</Make_SmokeleafJoint.description>
+  <!-- EN: Haciendo porro. -->
+  <Make_SmokeleafJoint.jobString>Haciendo porro.</Make_SmokeleafJoint.jobString>
+  
+  <!-- EN: fabricar despertar -->
+  <Make_WakeUp.label>preparar despertar</Make_WakeUp.label>
+  <!-- EN: Hacer un despertar. -->
+  <Make_WakeUp.description>Prepara una dosis de despertar.</Make_WakeUp.description>
+  <!-- EN: Haciendo despertar. -->
+  <Make_WakeUp.jobString>Preparando despertar.</Make_WakeUp.jobString>
+  
+  <!-- EN: fabricar granadas PEM -->
+  <Make_Weapon_GrenadeEMP.label>fabricar granadas PEM</Make_Weapon_GrenadeEMP.label>
+  <!-- EN: Hacer unas granadas PEM. -->
+  <Make_Weapon_GrenadeEMP.description>Fabrica unas granadas PEM.</Make_Weapon_GrenadeEMP.description>
+  <!-- EN: Haciendo granadas PEM. -->
+  <Make_Weapon_GrenadeEMP.jobString>Fabricando granadas PEM.</Make_Weapon_GrenadeEMP.jobString>
+  
+  <!-- EN: fabricar granadas de fragmentación -->
+  <Make_Weapon_GrenadeFrag.label>fabricar granadas de fragmentación</Make_Weapon_GrenadeFrag.label>
+  <!-- EN: Hacer un granadas de fragmentación. -->
+  <Make_Weapon_GrenadeFrag.description>Fabrica unas granadas de fragmentación.</Make_Weapon_GrenadeFrag.description>
+  <!-- EN: Haciendo granadas de fragmentación. -->
+  <Make_Weapon_GrenadeFrag.jobString>Fabricando granadas de fragmentación.</Make_Weapon_GrenadeFrag.jobString>
+  
+  <!-- EN: fabricar cocteles molotov -->
+  <Make_Weapon_GrenadeMolotov.label>fabricar cócteles molotov</Make_Weapon_GrenadeMolotov.label>
+  <!-- EN: Hacer unos/unas cocteles molotov. -->
+  <Make_Weapon_GrenadeMolotov.description>Fabrica unos cócteles molotov.</Make_Weapon_GrenadeMolotov.description>
+  <!-- EN: Haciendo cocteles molotov. -->
+  <Make_Weapon_GrenadeMolotov.jobString>Fabricando cócteles molotov.</Make_Weapon_GrenadeMolotov.jobString>
+  
+  <!-- EN: fabricar yayo -->
+  <Make_Yayo.label>preparar yayo</Make_Yayo.label>
+  <!-- EN: Hacer un yayo. -->
+  <Make_Yayo.description>Prepara unas dosis de yayo.</Make_Yayo.description>
+  <!-- EN: Haciendo yayo. -->
+  <Make_Yayo.jobString>Preparando yayo.</Make_Yayo.jobString>
+  
+</LanguageData>
